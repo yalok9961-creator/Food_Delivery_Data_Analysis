@@ -1,0 +1,1531 @@
+Order_ID,Customer_ID,Restaurant_Name,Cuisine_Type,City,Order_Amount,Delivery_Time,Payment_Method,Customer_Rating,Order_Status,Order_Date,Delivery_Fee,Total_Amount,Order_Month,Order_Day,Delivery_Category
+1001,203,Food Junction,Indian,Thane,1022,24,Cash,1,Pending,2026-02-27,38,1060,February,Friday,Fast Delivery
+1003,371,Food Palace,Chinese,Pune,664,15,Debit Card,4,Cancelled,2026-05-21,52,716,May,Thursday,Fast Delivery
+1004,207,Pizza Hub,Indian,Delhi,1310,41,UPI,5,Pending,2026-05-06,78,1388,May,Wednesday,Slow Delivery
+1005,172,Food Palace,Indian,Delhi,649,41,UPI,4,Pending,2026-04-25,69,718,April,Saturday,Slow Delivery
+1006,289,Food Palace,South Indian,Nashik,552,25,Credit Card,1,Delivered,2026-03-13,75,627,March,Friday,Fast Delivery
+1007,121,Urban Kitchen,Chinese,Delhi,570,19,Debit Card,1,Pending,2026-02-22,52,622,February,Sunday,Fast Delivery
+1008,203,Food Palace,Fast Food,Mumbai,1087,21,Cash,4,Delivered,2026-10-07,51,1138,October,Wednesday,Fast Delivery
+1009,222,Spice Garden,Indian,Thane,837,33,Credit Card,1,Delivered,2026-02-14,78,915,February,Saturday,Slow Delivery
+1012,188,Cafe Delight,Fast Food,Pune,659,49,Cash,5,Pending,2026-01-16,60,719,January,Friday,Slow Delivery
+1014,200,Tasty Corner,Italian,Nashik,1270,26,Cash,5,Delivered,2026-04-22,28,1298,April,Wednesday,Fast Delivery
+1015,460,Cafe Delight,Fast Food,Delhi,448,44,Debit Card,3,Cancelled,2026-04-30,69,517,April,Thursday,Slow Delivery
+1017,231,Royal Restaurant,Mexican,Nagpur,736,51,Debit Card,5,Pending,2026-01-14,30,766,January,Wednesday,Slow Delivery
+1018,250,Pizza Hub,Chinese,Nashik,1117,17,Debit Card,5,Pending,2026-10-15,52,1169,October,Thursday,Fast Delivery
+1020,358,Royal Restaurant,Italian,Nashik,1162,55,Credit Card,1,Pending,2026-10-07,73,1235,October,Wednesday,Slow Delivery
+1021,444,Cafe Delight,Fast Food,Thane,871,53,Cash,5,Pending,2026-08-03,76,947,August,Monday,Slow Delivery
+1022,394,Food Palace,Mexican,Delhi,993,40,Debit Card,1,Delivered,2026-04-23,61,1054,April,Thursday,Slow Delivery
+1023,486,Food Junction,Chinese,Delhi,1126,16,Cash,5,Cancelled,2026-08-18,53,1179,August,Tuesday,Fast Delivery
+1024,292,Burger House,Fast Food,Nashik,1115,37,Cash,4,Cancelled,2026-05-23,26,1141,May,Saturday,Slow Delivery
+1029,353,Cafe Delight,Mexican,Delhi,1326,27,Debit Card,4,Pending,2026-05-23,57,1383,May,Saturday,Fast Delivery
+1030,336,Urban Kitchen,Chinese,Nagpur,1092,42,Cash,2,Cancelled,2026-03-21,51,1143,March,Saturday,Slow Delivery
+1032,149,Food Junction,Fast Food,Nagpur,834,31,Cash,2,Cancelled,2026-06-22,60,894,June,Monday,Slow Delivery
+1033,159,Food Junction,Fast Food,Mumbai,1225,52,Credit Card,4,Pending,2026-02-22,27,1252,February,Sunday,Slow Delivery
+1034,270,Pizza Hub,Indian,Nagpur,1169,50,Cash,3,Delivered,2026-02-17,45,1214,February,Tuesday,Slow Delivery
+1036,371,Cafe Delight,South Indian,Delhi,702,32,Credit Card,1,Cancelled,2026-02-19,30,732,February,Thursday,Slow Delivery
+1037,290,Spice Garden,Mexican,Mumbai,1287,23,Debit Card,3,Pending,2026-07-03,60,1347,July,Friday,Fast Delivery
+1038,275,Spice Garden,South Indian,Nashik,1234,27,Credit Card,1,Delivered,2026-06-26,39,1273,June,Friday,Fast Delivery
+1039,151,Tasty Corner,Indian,Delhi,437,54,Debit Card,5,Delivered,2026-05-16,79,516,May,Saturday,Slow Delivery
+1041,155,Tasty Corner,Mexican,Pune,546,29,Cash,4,Delivered,2026-08-24,28,574,August,Monday,Fast Delivery
+1042,344,Royal Restaurant,Chinese,Mumbai,710,57,Cash,4,Cancelled,2026-10-02,27,737,October,Friday,Slow Delivery
+1043,420,Burger House,Italian,Delhi,1414,58,Debit Card,2,Pending,2026-03-05,79,1493,March,Thursday,Slow Delivery
+1044,231,Urban Kitchen,Fast Food,Thane,770,60,Debit Card,4,Delivered,2026-07-13,34,804,July,Monday,Slow Delivery
+1045,407,Royal Restaurant,Indian,Pune,714,18,UPI,5,Cancelled,2026-02-10,53,767,February,Tuesday,Fast Delivery
+1046,235,Pizza Hub,Italian,Nashik,996,47,UPI,4,Delivered,2026-10-10,43,1039,October,Saturday,Slow Delivery
+1048,429,Cafe Delight,Fast Food,Mumbai,1166,50,Cash,2,Delivered,2026-07-05,60,1226,July,Sunday,Slow Delivery
+1049,267,Urban Kitchen,Mexican,Nagpur,695,55,UPI,2,Delivered,2026-10-23,60,755,October,Friday,Slow Delivery
+1050,374,Burger House,Chinese,Thane,802,24,UPI,5,Cancelled,2026-04-09,64,866,April,Thursday,Fast Delivery
+1051,488,Royal Restaurant,Fast Food,Nashik,1174,50,Debit Card,4,Pending,2026-02-05,59,1233,February,Thursday,Slow Delivery
+1054,114,Spice Garden,Italian,Thane,591,59,UPI,3,Cancelled,2026-05-29,24,615,May,Friday,Slow Delivery
+1055,342,Food Junction,Chinese,Mumbai,1059,58,Cash,4,Delivered,2026-02-10,80,1139,February,Tuesday,Slow Delivery
+1056,365,Cafe Delight,Indian,Delhi,1069,25,UPI,5,Pending,2026-04-30,54,1123,April,Thursday,Fast Delivery
+1057,446,Biryani Express,Indian,Nagpur,680,26,Cash,4,Delivered,2026-02-21,40,720,February,Saturday,Fast Delivery
+1058,153,Cafe Delight,Fast Food,Pune,876,32,Cash,2,Cancelled,2026-07-14,23,899,July,Tuesday,Slow Delivery
+1060,440,Pizza Hub,Fast Food,Nashik,1311,58,Cash,5,Pending,2026-08-21,67,1378,August,Friday,Slow Delivery
+1064,135,Tasty Corner,South Indian,Delhi,1237,26,Cash,2,Delivered,2026-07-01,45,1282,July,Wednesday,Fast Delivery
+1065,306,Biryani Express,Indian,Nashik,1199,35,Cash,2,Cancelled,2026-04-18,71,1270,April,Saturday,Slow Delivery
+1066,181,Food Junction,Indian,Mumbai,775,39,Debit Card,2,Pending,2026-05-17,54,829,May,Sunday,Slow Delivery
+1067,150,Urban Kitchen,Fast Food,Pune,601,25,Debit Card,5,Delivered,2026-02-06,25,626,February,Friday,Fast Delivery
+1070,102,Burger House,South Indian,Nashik,937,49,Debit Card,4,Cancelled,2026-05-06,35,972,May,Wednesday,Slow Delivery
+1071,490,Burger House,South Indian,Nagpur,1107,46,Credit Card,4,Delivered,2026-03-25,66,1173,March,Wednesday,Slow Delivery
+1072,154,Tasty Corner,Fast Food,Nagpur,788,28,Debit Card,2,Delivered,2026-08-25,58,846,August,Tuesday,Fast Delivery
+1073,206,Food Palace,Indian,Delhi,486,15,UPI,4,Delivered,2026-07-14,53,539,July,Tuesday,Fast Delivery
+1074,360,Cafe Delight,Chinese,Mumbai,1069,31,UPI,1,Pending,2026-05-19,61,1130,May,Tuesday,Slow Delivery
+1075,410,Food Palace,South Indian,Pune,1105,39,UPI,1,Cancelled,2026-10-13,76,1181,October,Tuesday,Slow Delivery
+1077,318,Royal Restaurant,Fast Food,Thane,1104,19,UPI,5,Pending,2026-06-16,34,1138,June,Tuesday,Fast Delivery
+1078,144,Food Junction,Mexican,Pune,1469,19,Credit Card,4,Delivered,2026-01-29,25,1494,January,Thursday,Fast Delivery
+1079,262,Spice Garden,Italian,Nagpur,1353,55,UPI,5,Delivered,2026-04-28,21,1374,April,Tuesday,Slow Delivery
+1082,451,Spice Garden,Mexican,Thane,1149,37,UPI,5,Cancelled,2026-07-25,68,1217,July,Saturday,Slow Delivery
+1083,404,Food Junction,Mexican,Delhi,1384,23,Credit Card,1,Cancelled,2026-05-18,47,1431,May,Monday,Fast Delivery
+1086,352,Burger House,Italian,Delhi,755,47,Cash,5,Cancelled,2026-10-18,47,802,October,Sunday,Slow Delivery
+1087,290,Urban Kitchen,Mexican,Mumbai,1380,16,Credit Card,3,Pending,2026-06-11,55,1435,June,Thursday,Fast Delivery
+1089,313,Royal Restaurant,Fast Food,Mumbai,1047,60,Cash,1,Pending,2026-09-13,67,1114,September,Sunday,Slow Delivery
+1091,337,Pizza Hub,Chinese,Thane,962,40,Debit Card,5,Delivered,2026-08-23,20,982,August,Sunday,Slow Delivery
+1092,438,Spice Garden,Chinese,Thane,624,39,Debit Card,2,Pending,2026-03-15,45,669,March,Sunday,Slow Delivery
+1093,467,Pizza Hub,South Indian,Mumbai,987,30,Cash,3,Pending,2026-05-16,70,1057,May,Saturday,Fast Delivery
+1095,380,Spice Garden,Fast Food,Thane,1434,40,Debit Card,2,Delivered,2026-05-07,68,1502,May,Thursday,Slow Delivery
+1096,317,Tasty Corner,Indian,Delhi,846,58,Debit Card,1,Pending,2026-10-15,44,890,October,Thursday,Slow Delivery
+1098,288,Royal Restaurant,Italian,Nashik,537,28,UPI,3,Delivered,2026-05-15,31,568,May,Friday,Fast Delivery
+1100,141,Burger House,Indian,Mumbai,1213,38,Cash,4,Pending,2026-08-08,26,1239,August,Saturday,Slow Delivery
+1101,257,Royal Restaurant,South Indian,Nashik,457,29,Cash,5,Cancelled,2026-10-26,80,537,October,Monday,Fast Delivery
+1102,115,Tasty Corner,Italian,Nagpur,1297,33,Debit Card,4,Delivered,2026-07-24,31,1328,July,Friday,Slow Delivery
+1103,401,Burger House,South Indian,Nashik,1340,22,UPI,4,Pending,2026-07-05,66,1406,July,Sunday,Fast Delivery
+1104,165,Pizza Hub,Mexican,Thane,555,48,Credit Card,5,Cancelled,2026-04-23,59,614,April,Thursday,Slow Delivery
+1105,445,Food Junction,South Indian,Nashik,875,16,Debit Card,5,Pending,2026-03-12,36,911,March,Thursday,Fast Delivery
+1106,427,Biryani Express,Fast Food,Mumbai,728,41,Cash,4,Pending,2026-09-18,24,752,September,Friday,Slow Delivery
+1107,109,Food Palace,South Indian,Nashik,1322,24,UPI,3,Delivered,2026-09-10,33,1355,September,Thursday,Fast Delivery
+1108,444,Burger House,Fast Food,Pune,931,49,Cash,5,Delivered,2026-02-16,53,984,February,Monday,Slow Delivery
+1109,229,Royal Restaurant,Indian,Delhi,585,37,Cash,1,Pending,2026-01-25,67,652,January,Sunday,Slow Delivery
+1110,236,Food Junction,Italian,Thane,632,22,UPI,2,Delivered,2026-02-26,80,712,February,Thursday,Fast Delivery
+1112,239,Cafe Delight,Chinese,Mumbai,470,37,UPI,5,Cancelled,2026-03-23,54,524,March,Monday,Slow Delivery
+1113,181,Royal Restaurant,Italian,Delhi,1113,18,Debit Card,5,Cancelled,2026-08-05,74,1187,August,Wednesday,Fast Delivery
+1114,492,Pizza Hub,Chinese,Thane,952,28,Cash,3,Pending,2026-02-02,20,972,February,Monday,Fast Delivery
+1116,389,Biryani Express,Indian,Nagpur,887,43,Credit Card,4,Pending,2026-07-15,69,956,July,Wednesday,Slow Delivery
+1118,361,Tasty Corner,Italian,Nagpur,1181,18,Credit Card,5,Cancelled,2026-09-28,55,1236,September,Monday,Fast Delivery
+1119,331,Urban Kitchen,Chinese,Pune,1425,46,Debit Card,2,Delivered,2026-05-09,34,1459,May,Saturday,Slow Delivery
+1121,128,Food Junction,Indian,Thane,1372,40,Credit Card,3,Pending,2026-01-06,38,1410,January,Tuesday,Slow Delivery
+1122,235,Cafe Delight,Indian,Nashik,704,31,UPI,5,Pending,2026-02-28,70,774,February,Saturday,Slow Delivery
+1123,301,Urban Kitchen,Mexican,Pune,1394,53,Debit Card,4,Cancelled,2026-10-02,61,1455,October,Friday,Slow Delivery
+1124,428,Spice Garden,Mexican,Pune,601,37,Debit Card,3,Cancelled,2026-05-17,24,625,May,Sunday,Slow Delivery
+1125,368,Pizza Hub,Indian,Pune,1207,46,Debit Card,5,Pending,2026-06-24,38,1245,June,Wednesday,Slow Delivery
+1126,133,Cafe Delight,Italian,Delhi,1488,29,Debit Card,2,Delivered,2026-02-27,62,1550,February,Friday,Fast Delivery
+1127,148,Tasty Corner,Fast Food,Mumbai,985,27,Cash,1,Pending,2026-05-31,58,1043,May,Sunday,Fast Delivery
+1128,162,Food Palace,Fast Food,Thane,648,16,Debit Card,1,Cancelled,2026-08-11,24,672,August,Tuesday,Fast Delivery
+1129,316,Urban Kitchen,South Indian,Nashik,1465,33,Credit Card,5,Pending,2026-03-22,71,1536,March,Sunday,Slow Delivery
+1130,393,Urban Kitchen,Indian,Nashik,938,38,Debit Card,3,Pending,2026-08-21,31,969,August,Friday,Slow Delivery
+1131,199,Pizza Hub,Indian,Nagpur,1216,59,UPI,4,Delivered,2026-01-02,38,1254,January,Friday,Slow Delivery
+1132,272,Burger House,Indian,Pune,947,38,Cash,2,Pending,2026-05-15,66,1013,May,Friday,Slow Delivery
+1133,460,Biryani Express,Italian,Pune,713,25,Credit Card,5,Pending,2026-09-14,31,744,September,Monday,Fast Delivery
+1134,314,Biryani Express,Mexican,Pune,511,36,Cash,2,Pending,2026-04-02,55,566,April,Thursday,Slow Delivery
+1135,135,Food Palace,Indian,Nashik,531,29,Cash,1,Cancelled,2026-09-17,31,562,September,Thursday,Fast Delivery
+1136,327,Food Junction,Indian,Nagpur,777,24,Cash,4,Cancelled,2026-02-24,37,814,February,Tuesday,Fast Delivery
+1139,357,Cafe Delight,South Indian,Thane,472,23,Cash,4,Cancelled,2026-04-12,67,539,April,Sunday,Fast Delivery
+1141,318,Burger House,Chinese,Nashik,1196,15,UPI,5,Pending,2026-07-11,53,1249,July,Saturday,Fast Delivery
+1142,355,Tasty Corner,Fast Food,Delhi,1372,31,Credit Card,2,Delivered,2026-03-24,67,1439,March,Tuesday,Slow Delivery
+1143,498,Royal Restaurant,South Indian,Delhi,610,45,Credit Card,4,Delivered,2026-10-04,52,662,October,Sunday,Slow Delivery
+1144,459,Royal Restaurant,Indian,Delhi,702,58,Credit Card,5,Delivered,2026-09-29,68,770,September,Tuesday,Slow Delivery
+1146,493,Food Palace,Chinese,Thane,1087,51,Credit Card,4,Delivered,2026-06-15,80,1167,June,Monday,Slow Delivery
+1147,307,Biryani Express,Italian,Nashik,1343,43,UPI,4,Delivered,2026-09-08,80,1423,September,Tuesday,Slow Delivery
+1148,115,Spice Garden,Indian,Nashik,939,32,Debit Card,2,Delivered,2026-01-10,76,1015,January,Saturday,Slow Delivery
+1149,446,Food Junction,Fast Food,Delhi,826,52,Debit Card,5,Pending,2026-02-27,48,874,February,Friday,Slow Delivery
+1150,142,Food Palace,Indian,Nashik,1344,53,UPI,1,Pending,2026-07-05,64,1408,July,Sunday,Slow Delivery
+1151,480,Urban Kitchen,Fast Food,Thane,653,20,Credit Card,1,Delivered,2026-06-07,24,677,June,Sunday,Fast Delivery
+1152,279,Tasty Corner,South Indian,Thane,1165,54,UPI,2,Pending,2026-05-03,44,1209,May,Sunday,Slow Delivery
+1153,163,Spice Garden,South Indian,Nagpur,775,26,UPI,2,Delivered,2026-01-30,43,818,January,Friday,Fast Delivery
+1154,452,Urban Kitchen,Mexican,Nagpur,972,28,Cash,4,Pending,2026-05-04,48,1020,May,Monday,Fast Delivery
+1156,341,Biryani Express,Fast Food,Thane,1181,24,Cash,5,Delivered,2026-02-10,57,1238,February,Tuesday,Fast Delivery
+1157,152,Biryani Express,Italian,Thane,933,34,Debit Card,3,Cancelled,2026-02-13,52,985,February,Friday,Slow Delivery
+1158,196,Food Palace,Indian,Thane,636,29,Cash,3,Delivered,2026-09-06,29,665,September,Sunday,Fast Delivery
+1159,488,Food Palace,Indian,Nagpur,1196,45,UPI,1,Delivered,2026-02-05,56,1252,February,Thursday,Slow Delivery
+1160,322,Food Junction,Mexican,Delhi,1022,21,Debit Card,3,Cancelled,2026-09-30,79,1101,September,Wednesday,Fast Delivery
+1161,331,Food Junction,Fast Food,Delhi,1252,55,Cash,3,Cancelled,2026-03-06,52,1304,March,Friday,Slow Delivery
+1162,337,Tasty Corner,Indian,Nashik,941,24,UPI,1,Cancelled,2026-03-07,42,983,March,Saturday,Fast Delivery
+1163,243,Spice Garden,Indian,Delhi,1047,24,Debit Card,1,Delivered,2026-09-01,77,1124,September,Tuesday,Fast Delivery
+1164,271,Pizza Hub,Italian,Pune,764,53,Cash,3,Cancelled,2026-10-09,30,794,October,Friday,Slow Delivery
+1165,129,Pizza Hub,Chinese,Nagpur,1248,42,UPI,5,Cancelled,2026-03-26,43,1291,March,Thursday,Slow Delivery
+1168,260,Spice Garden,Chinese,Nagpur,736,17,Credit Card,4,Cancelled,2026-08-05,69,805,August,Wednesday,Fast Delivery
+1170,287,Food Palace,Italian,Mumbai,1449,29,Cash,2,Cancelled,2026-10-04,39,1488,October,Sunday,Fast Delivery
+1171,343,Cafe Delight,Italian,Thane,664,35,Cash,4,Cancelled,2026-04-13,72,736,April,Monday,Slow Delivery
+1172,186,Burger House,Mexican,Mumbai,925,51,UPI,5,Pending,2026-06-09,29,954,June,Tuesday,Slow Delivery
+1173,384,Tasty Corner,Italian,Thane,605,26,Cash,2,Delivered,2026-07-24,44,649,July,Friday,Fast Delivery
+1174,166,Biryani Express,South Indian,Nagpur,1205,18,UPI,2,Cancelled,2026-07-11,66,1271,July,Saturday,Fast Delivery
+1175,270,Biryani Express,Chinese,Nashik,1125,23,Cash,4,Cancelled,2026-08-13,55,1180,August,Thursday,Fast Delivery
+1177,162,Food Palace,South Indian,Delhi,761,56,UPI,1,Cancelled,2026-08-20,66,827,August,Thursday,Slow Delivery
+1178,234,Food Palace,Chinese,Pune,904,42,Credit Card,3,Cancelled,2026-03-03,34,938,March,Tuesday,Slow Delivery
+1179,384,Burger House,Fast Food,Mumbai,503,37,Debit Card,3,Pending,2026-05-07,63,566,May,Thursday,Slow Delivery
+1180,128,Royal Restaurant,Mexican,Delhi,1226,59,UPI,2,Cancelled,2026-04-26,59,1285,April,Sunday,Slow Delivery
+1181,208,Spice Garden,Italian,Nagpur,635,54,Cash,2,Cancelled,2026-02-02,59,694,February,Monday,Slow Delivery
+1182,144,Biryani Express,Fast Food,Nashik,1491,58,Credit Card,2,Pending,2026-06-23,69,1560,June,Tuesday,Slow Delivery
+1183,440,Pizza Hub,Italian,Nagpur,1335,36,Cash,5,Delivered,2026-01-11,25,1360,January,Sunday,Slow Delivery
+1184,386,Food Junction,South Indian,Mumbai,676,38,Cash,5,Cancelled,2026-10-11,56,732,October,Sunday,Slow Delivery
+1185,431,Pizza Hub,Indian,Pune,1332,40,UPI,1,Cancelled,2026-04-28,21,1353,April,Tuesday,Slow Delivery
+1186,228,Urban Kitchen,Indian,Delhi,862,44,UPI,2,Delivered,2026-04-23,31,893,April,Thursday,Slow Delivery
+1188,331,Urban Kitchen,Italian,Thane,727,30,UPI,2,Delivered,2026-02-06,23,750,February,Friday,Fast Delivery
+1189,290,Cafe Delight,Fast Food,Nashik,848,36,UPI,5,Cancelled,2026-01-31,42,890,January,Saturday,Slow Delivery
+1191,485,Pizza Hub,Fast Food,Nashik,594,32,Cash,5,Pending,2026-02-04,36,630,February,Wednesday,Slow Delivery
+1193,383,Tasty Corner,South Indian,Thane,922,40,Debit Card,4,Pending,2026-06-19,35,957,June,Friday,Slow Delivery
+1194,221,Spice Garden,Fast Food,Pune,1454,22,Debit Card,1,Pending,2026-02-06,60,1514,February,Friday,Fast Delivery
+1195,216,Cafe Delight,South Indian,Pune,1339,20,Credit Card,4,Delivered,2026-09-21,45,1384,September,Monday,Fast Delivery
+1196,333,Spice Garden,Italian,Thane,1081,44,Cash,5,Delivered,2026-05-02,47,1128,May,Saturday,Slow Delivery
+1197,359,Pizza Hub,Italian,Nashik,1059,53,Credit Card,3,Pending,2026-05-23,20,1079,May,Saturday,Slow Delivery
+1198,459,Royal Restaurant,Mexican,Delhi,944,37,Credit Card,4,Pending,2026-09-06,66,1010,September,Sunday,Slow Delivery
+1199,298,Cafe Delight,Italian,Nagpur,548,46,UPI,2,Cancelled,2026-04-20,31,579,April,Monday,Slow Delivery
+1200,237,Food Junction,Italian,Thane,635,36,Debit Card,1,Pending,2026-10-04,56,691,October,Sunday,Slow Delivery
+1201,418,Pizza Hub,Chinese,Mumbai,610,56,Debit Card,2,Pending,2026-03-09,74,684,March,Monday,Slow Delivery
+1202,265,Biryani Express,Indian,Nashik,639,57,Credit Card,2,Delivered,2026-10-20,75,714,October,Tuesday,Slow Delivery
+1205,334,Food Junction,Mexican,Pune,1330,45,UPI,3,Delivered,2026-05-05,21,1351,May,Tuesday,Slow Delivery
+1206,272,Tasty Corner,Chinese,Nashik,1011,21,Cash,2,Cancelled,2026-08-31,55,1066,August,Monday,Fast Delivery
+1207,252,Biryani Express,South Indian,Pune,1394,23,Credit Card,1,Delivered,2026-07-28,34,1428,July,Tuesday,Fast Delivery
+1208,415,Tasty Corner,Italian,Thane,860,27,Cash,3,Delivered,2026-04-08,57,917,April,Wednesday,Fast Delivery
+1209,474,Pizza Hub,Indian,Nashik,804,17,UPI,2,Pending,2026-02-18,41,845,February,Wednesday,Fast Delivery
+1211,196,Cafe Delight,South Indian,Thane,1422,47,UPI,4,Cancelled,2026-08-09,80,1502,August,Sunday,Slow Delivery
+1212,333,Cafe Delight,Italian,Nagpur,496,35,Debit Card,2,Pending,2026-07-01,69,565,July,Wednesday,Slow Delivery
+1213,280,Royal Restaurant,Chinese,Delhi,493,45,Credit Card,2,Cancelled,2026-08-05,51,544,August,Wednesday,Slow Delivery
+1214,213,Royal Restaurant,Italian,Thane,1198,48,Debit Card,1,Cancelled,2026-07-30,78,1276,July,Thursday,Slow Delivery
+1215,418,Pizza Hub,Italian,Nashik,1077,46,Cash,2,Cancelled,2026-08-28,39,1116,August,Friday,Slow Delivery
+1216,152,Pizza Hub,Chinese,Delhi,1226,49,Debit Card,3,Cancelled,2026-01-28,55,1281,January,Wednesday,Slow Delivery
+1218,395,Royal Restaurant,Mexican,Mumbai,1101,46,Debit Card,5,Delivered,2026-02-01,34,1135,February,Sunday,Slow Delivery
+1220,487,Food Junction,Indian,Nagpur,1338,59,Cash,1,Pending,2026-06-23,65,1403,June,Tuesday,Slow Delivery
+1221,213,Food Palace,Mexican,Pune,1066,35,Cash,3,Pending,2026-02-25,22,1088,February,Wednesday,Slow Delivery
+1223,213,Urban Kitchen,Fast Food,Nashik,1162,46,UPI,5,Pending,2026-04-09,66,1228,April,Thursday,Slow Delivery
+1229,320,Biryani Express,South Indian,Nagpur,1125,48,UPI,5,Cancelled,2026-04-04,41,1166,April,Saturday,Slow Delivery
+1230,154,Urban Kitchen,Indian,Delhi,1100,29,UPI,2,Cancelled,2026-05-23,54,1154,May,Saturday,Fast Delivery
+1231,443,Royal Restaurant,Fast Food,Nagpur,554,28,Debit Card,2,Delivered,2026-08-25,73,627,August,Tuesday,Fast Delivery
+1233,325,Pizza Hub,Mexican,Thane,597,57,Credit Card,1,Pending,2026-02-08,25,622,February,Sunday,Slow Delivery
+1234,485,Tasty Corner,South Indian,Nagpur,775,29,Debit Card,5,Cancelled,2026-08-15,45,820,August,Saturday,Fast Delivery
+1235,226,Urban Kitchen,Fast Food,Pune,1151,20,UPI,2,Delivered,2026-10-09,73,1224,October,Friday,Fast Delivery
+1236,230,Food Palace,South Indian,Thane,1456,23,UPI,5,Delivered,2026-02-20,20,1476,February,Friday,Fast Delivery
+1237,153,Urban Kitchen,Italian,Pune,1124,51,Credit Card,2,Pending,2026-01-26,38,1162,January,Monday,Slow Delivery
+1238,272,Urban Kitchen,Indian,Thane,1311,34,Debit Card,3,Cancelled,2026-10-04,26,1337,October,Sunday,Slow Delivery
+1240,260,Biryani Express,Chinese,Pune,646,52,Credit Card,4,Pending,2026-02-17,31,677,February,Tuesday,Slow Delivery
+1241,298,Urban Kitchen,Indian,Pune,1235,40,Cash,1,Delivered,2026-05-02,39,1274,May,Saturday,Slow Delivery
+1242,347,Spice Garden,Italian,Pune,1433,32,Cash,4,Delivered,2026-03-27,42,1475,March,Friday,Slow Delivery
+1244,303,Tasty Corner,Fast Food,Nashik,538,23,Debit Card,2,Cancelled,2026-09-06,49,587,September,Sunday,Fast Delivery
+1245,284,Spice Garden,Italian,Nagpur,694,46,Cash,5,Cancelled,2026-09-04,78,772,September,Friday,Slow Delivery
+1246,223,Tasty Corner,Chinese,Pune,1448,20,UPI,1,Pending,2026-04-20,80,1528,April,Monday,Fast Delivery
+1248,394,Tasty Corner,Mexican,Nashik,718,42,UPI,2,Cancelled,2026-01-31,50,768,January,Saturday,Slow Delivery
+1249,380,Pizza Hub,Indian,Delhi,1232,38,Cash,4,Cancelled,2026-03-26,37,1269,March,Thursday,Slow Delivery
+1250,425,Pizza Hub,Fast Food,Nagpur,1495,27,UPI,3,Cancelled,2026-07-14,60,1555,July,Tuesday,Fast Delivery
+1253,298,Burger House,South Indian,Pune,1479,33,UPI,2,Cancelled,2026-05-16,23,1502,May,Saturday,Slow Delivery
+1256,244,Tasty Corner,Fast Food,Nashik,791,33,Debit Card,5,Pending,2026-08-05,78,869,August,Wednesday,Slow Delivery
+1258,301,Urban Kitchen,Fast Food,Nagpur,533,40,UPI,3,Delivered,2026-09-07,73,606,September,Monday,Slow Delivery
+1259,224,Biryani Express,Chinese,Pune,1013,59,UPI,3,Cancelled,2026-03-21,27,1040,March,Saturday,Slow Delivery
+1261,426,Royal Restaurant,Indian,Nagpur,1144,60,Debit Card,2,Delivered,2026-06-01,34,1178,June,Monday,Slow Delivery
+1262,449,Cafe Delight,Indian,Pune,483,32,Cash,1,Pending,2026-04-22,69,552,April,Wednesday,Slow Delivery
+1264,248,Burger House,South Indian,Nashik,1408,50,Credit Card,2,Cancelled,2026-10-24,41,1449,October,Saturday,Slow Delivery
+1265,352,Urban Kitchen,Fast Food,Delhi,921,56,Cash,1,Pending,2026-10-05,37,958,October,Monday,Slow Delivery
+1266,446,Food Palace,Chinese,Nagpur,701,43,UPI,4,Cancelled,2026-02-01,35,736,February,Sunday,Slow Delivery
+1267,247,Food Palace,Indian,Nagpur,884,31,Cash,5,Delivered,2026-06-10,21,905,June,Wednesday,Slow Delivery
+1268,248,Food Palace,Chinese,Mumbai,1459,18,Credit Card,3,Delivered,2026-01-30,55,1514,January,Friday,Fast Delivery
+1269,452,Burger House,South Indian,Delhi,1311,58,Cash,1,Cancelled,2026-01-26,39,1350,January,Monday,Slow Delivery
+1270,299,Tasty Corner,Chinese,Thane,770,59,UPI,5,Delivered,2026-10-27,35,805,October,Tuesday,Slow Delivery
+1271,408,Royal Restaurant,Fast Food,Mumbai,1366,43,Cash,5,Cancelled,2026-09-02,22,1388,September,Wednesday,Slow Delivery
+1272,228,Burger House,Mexican,Delhi,1196,18,Cash,3,Cancelled,2026-09-15,75,1271,September,Tuesday,Fast Delivery
+1273,139,Food Junction,South Indian,Mumbai,578,24,UPI,3,Cancelled,2026-09-29,49,627,September,Tuesday,Fast Delivery
+1274,438,Royal Restaurant,Indian,Nagpur,660,39,Credit Card,3,Delivered,2026-03-22,74,734,March,Sunday,Slow Delivery
+1276,229,Urban Kitchen,Chinese,Mumbai,613,17,Cash,3,Cancelled,2026-09-18,54,667,September,Friday,Fast Delivery
+1279,398,Royal Restaurant,Indian,Delhi,1009,20,Debit Card,3,Delivered,2026-02-05,80,1089,February,Thursday,Fast Delivery
+1280,199,Food Junction,Indian,Mumbai,1182,40,Cash,5,Pending,2026-02-04,24,1206,February,Wednesday,Slow Delivery
+1281,363,Pizza Hub,Italian,Mumbai,1222,22,Credit Card,2,Cancelled,2026-05-01,21,1243,May,Friday,Fast Delivery
+1282,352,Tasty Corner,Indian,Thane,970,49,Cash,2,Delivered,2026-07-26,70,1040,July,Sunday,Slow Delivery
+1283,244,Biryani Express,Mexican,Nashik,594,41,Cash,3,Cancelled,2026-03-03,75,669,March,Tuesday,Slow Delivery
+1284,446,Royal Restaurant,Italian,Mumbai,1046,39,Debit Card,5,Cancelled,2026-10-19,39,1085,October,Monday,Slow Delivery
+1285,212,Urban Kitchen,Italian,Mumbai,854,32,Credit Card,2,Pending,2026-05-07,53,907,May,Thursday,Slow Delivery
+1286,160,Biryani Express,Chinese,Nashik,1420,15,Debit Card,3,Delivered,2026-10-24,53,1473,October,Saturday,Fast Delivery
+1288,102,Biryani Express,Indian,Delhi,1246,17,UPI,3,Delivered,2026-02-11,75,1321,February,Wednesday,Fast Delivery
+1289,485,Spice Garden,Italian,Delhi,1352,18,Cash,5,Pending,2026-08-03,74,1426,August,Monday,Fast Delivery
+1291,354,Tasty Corner,Mexican,Nashik,640,51,Debit Card,3,Delivered,2026-10-17,69,709,October,Saturday,Slow Delivery
+1293,137,Biryani Express,South Indian,Pune,1135,22,UPI,3,Cancelled,2026-06-11,39,1174,June,Thursday,Fast Delivery
+1294,260,Cafe Delight,South Indian,Delhi,1460,52,Debit Card,1,Cancelled,2026-05-14,44,1504,May,Thursday,Slow Delivery
+1295,109,Cafe Delight,Chinese,Nagpur,605,33,Credit Card,2,Pending,2026-04-15,72,677,April,Wednesday,Slow Delivery
+1296,333,Biryani Express,Italian,Pune,1229,40,UPI,2,Pending,2026-06-10,33,1262,June,Wednesday,Slow Delivery
+1298,247,Spice Garden,Fast Food,Thane,1197,24,Debit Card,2,Delivered,2026-05-16,66,1263,May,Saturday,Fast Delivery
+1299,404,Burger House,South Indian,Delhi,1294,52,Credit Card,5,Cancelled,2026-07-22,63,1357,July,Wednesday,Slow Delivery
+1300,308,Spice Garden,Mexican,Nagpur,1192,28,Credit Card,3,Cancelled,2026-03-09,62,1254,March,Monday,Fast Delivery
+1301,231,Biryani Express,Italian,Pune,912,55,Cash,1,Cancelled,2026-06-03,62,974,June,Wednesday,Slow Delivery
+1302,252,Tasty Corner,Indian,Delhi,461,33,Cash,5,Pending,2026-08-23,58,519,August,Sunday,Slow Delivery
+1303,154,Burger House,South Indian,Nashik,1028,44,Debit Card,5,Cancelled,2026-06-11,31,1059,June,Thursday,Slow Delivery
+1306,216,Biryani Express,Italian,Nashik,796,21,Cash,1,Cancelled,2026-08-23,21,817,August,Sunday,Fast Delivery
+1307,175,Spice Garden,Mexican,Mumbai,1152,33,Debit Card,4,Delivered,2026-10-16,73,1225,October,Friday,Slow Delivery
+1308,213,Burger House,Italian,Nashik,1237,45,Debit Card,2,Pending,2026-02-21,35,1272,February,Saturday,Slow Delivery
+1309,204,Food Junction,Chinese,Pune,561,53,UPI,5,Cancelled,2026-02-07,74,635,February,Saturday,Slow Delivery
+1310,440,Royal Restaurant,South Indian,Pune,1020,38,UPI,2,Delivered,2026-10-03,49,1069,October,Saturday,Slow Delivery
+1311,354,Spice Garden,Fast Food,Mumbai,1266,48,UPI,2,Pending,2026-04-20,66,1332,April,Monday,Slow Delivery
+1312,327,Pizza Hub,Chinese,Nashik,489,37,Cash,5,Pending,2026-09-17,62,551,September,Thursday,Slow Delivery
+1313,212,Pizza Hub,South Indian,Nashik,731,59,Debit Card,4,Cancelled,2026-05-16,80,811,May,Saturday,Slow Delivery
+1314,199,Food Palace,Italian,Mumbai,781,54,UPI,2,Pending,2026-03-09,57,838,March,Monday,Slow Delivery
+1316,449,Royal Restaurant,Italian,Delhi,434,52,UPI,2,Delivered,2026-02-05,70,504,February,Thursday,Slow Delivery
+1319,438,Royal Restaurant,Indian,Pune,853,41,Debit Card,2,Pending,2026-05-26,70,923,May,Tuesday,Slow Delivery
+1320,294,Cafe Delight,South Indian,Thane,1295,25,Debit Card,4,Delivered,2026-03-22,49,1344,March,Sunday,Fast Delivery
+1321,410,Cafe Delight,Indian,Delhi,1354,19,Debit Card,3,Pending,2026-08-13,56,1410,August,Thursday,Fast Delivery
+1322,263,Food Junction,Italian,Delhi,819,31,UPI,3,Pending,2026-10-06,76,895,October,Tuesday,Slow Delivery
+1324,269,Royal Restaurant,Italian,Nagpur,1393,41,Cash,1,Delivered,2026-09-28,72,1465,September,Monday,Slow Delivery
+1325,261,Royal Restaurant,Mexican,Nagpur,725,29,UPI,2,Pending,2026-01-05,58,783,January,Monday,Fast Delivery
+1327,389,Spice Garden,Fast Food,Nashik,973,27,Debit Card,4,Cancelled,2026-06-03,33,1006,June,Wednesday,Fast Delivery
+1330,404,Tasty Corner,Italian,Thane,973,40,Cash,4,Cancelled,2026-05-16,35,1008,May,Saturday,Slow Delivery
+1331,484,Cafe Delight,Chinese,Thane,1053,36,Cash,5,Pending,2026-03-01,69,1122,March,Sunday,Slow Delivery
+1333,235,Food Palace,Chinese,Nagpur,669,38,Credit Card,3,Delivered,2026-10-11,74,743,October,Sunday,Slow Delivery
+1335,228,Royal Restaurant,Italian,Nashik,1084,23,Cash,3,Pending,2026-05-20,23,1107,May,Wednesday,Fast Delivery
+1336,133,Cafe Delight,South Indian,Nagpur,1436,56,Debit Card,5,Pending,2026-05-25,52,1488,May,Monday,Slow Delivery
+1337,276,Tasty Corner,Italian,Thane,1097,18,Credit Card,3,Delivered,2026-04-18,73,1170,April,Saturday,Fast Delivery
+1338,471,Tasty Corner,Fast Food,Mumbai,560,60,Credit Card,2,Delivered,2026-06-25,80,640,June,Thursday,Slow Delivery
+1339,475,Biryani Express,Italian,Pune,807,32,Debit Card,5,Cancelled,2026-04-15,66,873,April,Wednesday,Slow Delivery
+1340,122,Tasty Corner,South Indian,Pune,986,57,Credit Card,4,Pending,2026-05-16,33,1019,May,Saturday,Slow Delivery
+1341,338,Urban Kitchen,Mexican,Pune,1215,30,UPI,2,Delivered,2026-09-16,38,1253,September,Wednesday,Fast Delivery
+1342,258,Royal Restaurant,Chinese,Nagpur,1175,47,Credit Card,4,Delivered,2026-09-08,78,1253,September,Tuesday,Slow Delivery
+1343,138,Urban Kitchen,South Indian,Thane,619,43,Debit Card,3,Pending,2026-05-09,24,643,May,Saturday,Slow Delivery
+1344,330,Royal Restaurant,Indian,Delhi,911,53,UPI,4,Cancelled,2026-01-27,55,966,January,Tuesday,Slow Delivery
+1345,465,Food Junction,Fast Food,Delhi,1221,24,Credit Card,2,Cancelled,2026-02-17,50,1271,February,Tuesday,Fast Delivery
+1347,364,Urban Kitchen,Indian,Nagpur,1497,45,UPI,1,Cancelled,2026-05-22,37,1534,May,Friday,Slow Delivery
+1348,383,Royal Restaurant,Indian,Nashik,1026,42,UPI,4,Delivered,2026-01-23,63,1089,January,Friday,Slow Delivery
+1349,127,Food Junction,Fast Food,Mumbai,656,17,Cash,1,Pending,2026-01-02,50,706,January,Friday,Fast Delivery
+1350,326,Food Junction,Mexican,Mumbai,748,28,Cash,4,Pending,2026-06-20,74,822,June,Saturday,Fast Delivery
+1352,386,Royal Restaurant,Indian,Pune,1155,29,Credit Card,5,Delivered,2026-05-15,40,1195,May,Friday,Fast Delivery
+1353,197,Biryani Express,Mexican,Delhi,1412,16,Debit Card,3,Delivered,2026-03-24,66,1478,March,Tuesday,Fast Delivery
+1354,384,Spice Garden,Italian,Delhi,678,38,Debit Card,2,Pending,2026-08-15,49,727,August,Saturday,Slow Delivery
+1355,467,Pizza Hub,Indian,Pune,641,28,UPI,2,Pending,2026-10-10,74,715,October,Saturday,Fast Delivery
+1358,247,Spice Garden,Indian,Nashik,1152,38,Debit Card,1,Delivered,2026-01-05,24,1176,January,Monday,Slow Delivery
+1359,104,Cafe Delight,Fast Food,Nashik,742,41,UPI,2,Delivered,2026-02-27,60,802,February,Friday,Slow Delivery
+1360,135,Royal Restaurant,South Indian,Nashik,573,51,UPI,1,Delivered,2026-02-08,64,637,February,Sunday,Slow Delivery
+1361,292,Urban Kitchen,Chinese,Pune,796,52,Debit Card,3,Pending,2026-03-18,29,825,March,Wednesday,Slow Delivery
+1363,117,Burger House,South Indian,Pune,1004,41,Debit Card,5,Delivered,2026-01-19,35,1039,January,Monday,Slow Delivery
+1364,272,Spice Garden,Indian,Nashik,485,53,Credit Card,2,Cancelled,2026-07-09,49,534,July,Thursday,Slow Delivery
+1366,258,Food Palace,Chinese,Nashik,614,40,UPI,2,Delivered,2026-10-10,55,669,October,Saturday,Slow Delivery
+1367,146,Cafe Delight,Italian,Nagpur,529,15,UPI,3,Pending,2026-03-17,40,569,March,Tuesday,Fast Delivery
+1368,473,Pizza Hub,South Indian,Delhi,679,18,Debit Card,3,Pending,2026-08-09,64,743,August,Sunday,Fast Delivery
+1369,106,Biryani Express,Chinese,Mumbai,1264,43,Debit Card,4,Pending,2026-03-07,72,1336,March,Saturday,Slow Delivery
+1370,199,Food Palace,Italian,Nagpur,842,15,Debit Card,4,Cancelled,2026-01-22,59,901,January,Thursday,Fast Delivery
+1371,480,Burger House,Mexican,Thane,1423,57,Debit Card,3,Pending,2026-06-07,64,1487,June,Sunday,Slow Delivery
+1372,333,Pizza Hub,Italian,Pune,774,60,Cash,3,Pending,2026-07-06,34,808,July,Monday,Slow Delivery
+1374,380,Cafe Delight,Indian,Pune,570,25,Credit Card,1,Delivered,2026-07-03,39,609,July,Friday,Fast Delivery
+1375,449,Biryani Express,Mexican,Delhi,908,24,Cash,5,Cancelled,2026-04-18,64,972,April,Saturday,Fast Delivery
+1377,281,Tasty Corner,Fast Food,Delhi,675,50,Debit Card,4,Cancelled,2026-02-22,78,753,February,Sunday,Slow Delivery
+1381,216,Royal Restaurant,Chinese,Nashik,451,23,Debit Card,4,Delivered,2026-03-21,79,530,March,Saturday,Fast Delivery
+1382,291,Urban Kitchen,Italian,Pune,1077,25,Debit Card,1,Cancelled,2026-05-02,51,1128,May,Saturday,Fast Delivery
+1384,261,Urban Kitchen,Indian,Nagpur,1229,20,UPI,5,Pending,2026-04-01,49,1278,April,Wednesday,Fast Delivery
+1385,356,Pizza Hub,Italian,Delhi,911,15,UPI,2,Pending,2026-07-31,45,956,July,Friday,Fast Delivery
+1386,423,Burger House,Indian,Nashik,1453,20,UPI,1,Pending,2026-01-13,56,1509,January,Tuesday,Fast Delivery
+1387,228,Cafe Delight,Indian,Delhi,867,27,Credit Card,1,Delivered,2026-04-02,32,899,April,Thursday,Fast Delivery
+1388,118,Biryani Express,Chinese,Nagpur,782,36,UPI,2,Delivered,2026-06-20,48,830,June,Saturday,Slow Delivery
+1389,381,Pizza Hub,Chinese,Thane,1285,45,Debit Card,5,Pending,2026-07-30,24,1309,July,Thursday,Slow Delivery
+1390,323,Burger House,Mexican,Nagpur,1096,36,Debit Card,2,Pending,2026-05-08,44,1140,May,Friday,Slow Delivery
+1392,158,Tasty Corner,Indian,Mumbai,1194,41,UPI,5,Pending,2026-03-23,43,1237,March,Monday,Slow Delivery
+1393,423,Cafe Delight,Fast Food,Mumbai,985,28,Debit Card,3,Pending,2026-02-25,50,1035,February,Wednesday,Fast Delivery
+1394,460,Urban Kitchen,Mexican,Delhi,496,19,Credit Card,4,Cancelled,2026-07-15,39,535,July,Wednesday,Fast Delivery
+1398,388,Burger House,Fast Food,Delhi,1321,21,Cash,4,Pending,2026-04-13,28,1349,April,Monday,Fast Delivery
+1399,442,Spice Garden,Italian,Nagpur,910,56,Cash,5,Cancelled,2026-08-24,40,950,August,Monday,Slow Delivery
+1401,227,Tasty Corner,Italian,Thane,797,31,Cash,2,Delivered,2026-06-06,80,877,June,Saturday,Slow Delivery
+1402,255,Royal Restaurant,Fast Food,Mumbai,909,44,Credit Card,2,Cancelled,2026-04-27,39,948,April,Monday,Slow Delivery
+1403,486,Cafe Delight,Chinese,Nagpur,815,35,Debit Card,5,Cancelled,2026-04-25,34,849,April,Saturday,Slow Delivery
+1404,373,Spice Garden,Italian,Mumbai,549,27,Debit Card,5,Pending,2026-01-13,45,594,January,Tuesday,Fast Delivery
+1405,204,Food Junction,South Indian,Pune,622,15,UPI,2,Cancelled,2026-04-09,73,695,April,Thursday,Fast Delivery
+1406,493,Biryani Express,Chinese,Nagpur,1477,15,Cash,4,Cancelled,2026-07-24,61,1538,July,Friday,Fast Delivery
+1407,399,Food Palace,Indian,Nashik,1085,47,UPI,1,Pending,2026-06-18,30,1115,June,Thursday,Slow Delivery
+1408,346,Spice Garden,Italian,Thane,757,52,Credit Card,2,Cancelled,2026-05-23,56,813,May,Saturday,Slow Delivery
+1409,276,Burger House,Chinese,Pune,696,39,Cash,4,Pending,2026-02-05,60,756,February,Thursday,Slow Delivery
+1411,270,Food Junction,Chinese,Thane,715,27,Debit Card,4,Delivered,2026-06-29,30,745,June,Monday,Fast Delivery
+1412,347,Food Palace,Chinese,Thane,1047,42,Debit Card,3,Delivered,2026-09-18,46,1093,September,Friday,Slow Delivery
+1413,126,Tasty Corner,South Indian,Nashik,655,47,UPI,3,Cancelled,2026-07-24,49,704,July,Friday,Slow Delivery
+1415,406,Cafe Delight,Mexican,Delhi,590,55,UPI,5,Pending,2026-06-19,53,643,June,Friday,Slow Delivery
+1417,416,Food Palace,Fast Food,Mumbai,480,22,Credit Card,2,Pending,2026-03-01,80,560,March,Sunday,Fast Delivery
+1418,491,Pizza Hub,South Indian,Nagpur,991,15,Debit Card,3,Delivered,2026-05-14,42,1033,May,Thursday,Fast Delivery
+1419,413,Biryani Express,Italian,Nagpur,641,26,Credit Card,5,Pending,2026-04-02,72,713,April,Thursday,Fast Delivery
+1420,136,Biryani Express,Chinese,Mumbai,1387,19,Credit Card,1,Delivered,2026-10-25,20,1407,October,Sunday,Fast Delivery
+1421,273,Food Junction,South Indian,Nagpur,924,38,Cash,3,Delivered,2026-05-16,22,946,May,Saturday,Slow Delivery
+1422,120,Tasty Corner,Indian,Thane,978,20,Credit Card,4,Delivered,2026-01-20,22,1000,January,Tuesday,Fast Delivery
+1423,421,Food Junction,Italian,Nagpur,1452,39,Cash,4,Pending,2026-02-25,47,1499,February,Wednesday,Slow Delivery
+1424,364,Pizza Hub,South Indian,Nagpur,1238,15,Credit Card,4,Delivered,2026-08-11,33,1271,August,Tuesday,Fast Delivery
+1425,500,Burger House,Italian,Mumbai,1399,39,Debit Card,1,Cancelled,2026-06-26,71,1470,June,Friday,Slow Delivery
+1427,471,Royal Restaurant,Chinese,Nagpur,1398,46,Debit Card,2,Cancelled,2026-08-12,77,1475,August,Wednesday,Slow Delivery
+1428,243,Burger House,Indian,Delhi,872,56,Credit Card,5,Cancelled,2026-09-19,73,945,September,Saturday,Slow Delivery
+1429,192,Tasty Corner,Indian,Nagpur,942,56,UPI,1,Cancelled,2026-03-01,24,966,March,Sunday,Slow Delivery
+1430,454,Tasty Corner,Fast Food,Nashik,818,17,UPI,4,Cancelled,2026-07-17,68,886,July,Friday,Fast Delivery
+1433,315,Pizza Hub,Indian,Mumbai,826,43,Debit Card,4,Delivered,2026-05-11,33,859,May,Monday,Slow Delivery
+1434,442,Tasty Corner,Indian,Thane,1022,16,Cash,2,Cancelled,2026-01-23,33,1055,January,Friday,Fast Delivery
+1435,151,Food Palace,Mexican,Mumbai,651,23,UPI,3,Delivered,2026-08-12,76,727,August,Wednesday,Fast Delivery
+1438,163,Cafe Delight,South Indian,Mumbai,801,50,Credit Card,3,Delivered,2026-10-03,27,828,October,Saturday,Slow Delivery
+1439,290,Spice Garden,Fast Food,Delhi,1206,31,Cash,4,Pending,2026-04-11,27,1233,April,Saturday,Slow Delivery
+1440,225,Food Junction,Indian,Pune,781,26,Cash,4,Pending,2026-07-06,38,819,July,Monday,Fast Delivery
+1441,250,Tasty Corner,Chinese,Mumbai,512,34,Credit Card,3,Delivered,2026-08-09,51,563,August,Sunday,Slow Delivery
+1446,280,Cafe Delight,Chinese,Pune,627,51,Credit Card,1,Pending,2026-06-03,64,691,June,Wednesday,Slow Delivery
+1447,270,Royal Restaurant,Italian,Delhi,890,60,Debit Card,5,Delivered,2026-09-17,32,922,September,Thursday,Slow Delivery
+1448,426,Urban Kitchen,Italian,Thane,623,56,Cash,1,Pending,2026-06-08,46,669,June,Monday,Slow Delivery
+1449,371,Cafe Delight,Mexican,Pune,1195,29,Debit Card,3,Pending,2026-07-29,75,1270,July,Wednesday,Fast Delivery
+1451,201,Food Junction,Chinese,Pune,831,30,Debit Card,4,Pending,2026-07-26,45,876,July,Sunday,Fast Delivery
+1452,364,Spice Garden,Mexican,Mumbai,1064,25,Credit Card,1,Delivered,2026-06-01,72,1136,June,Monday,Fast Delivery
+1453,153,Burger House,Chinese,Pune,1405,34,Credit Card,2,Cancelled,2026-10-11,70,1475,October,Sunday,Slow Delivery
+1455,208,Burger House,Italian,Mumbai,633,38,UPI,3,Cancelled,2026-04-09,67,700,April,Thursday,Slow Delivery
+1456,105,Food Junction,Fast Food,Nashik,1074,30,Credit Card,5,Pending,2026-08-04,28,1102,August,Tuesday,Fast Delivery
+1458,296,Biryani Express,Chinese,Nagpur,772,48,UPI,3,Delivered,2026-03-31,51,823,March,Tuesday,Slow Delivery
+1459,362,Spice Garden,Chinese,Pune,890,15,Credit Card,2,Delivered,2026-10-19,71,961,October,Monday,Fast Delivery
+1462,450,Food Palace,Chinese,Nashik,897,23,Cash,2,Cancelled,2026-10-08,70,967,October,Thursday,Fast Delivery
+1463,147,Urban Kitchen,Indian,Mumbai,1267,36,Debit Card,1,Pending,2026-01-01,51,1318,January,Thursday,Slow Delivery
+1464,455,Biryani Express,Fast Food,Nagpur,650,26,Debit Card,5,Pending,2026-06-05,24,674,June,Friday,Fast Delivery
+1465,411,Spice Garden,Mexican,Mumbai,1028,31,Credit Card,3,Pending,2026-05-27,27,1055,May,Wednesday,Slow Delivery
+1466,408,Tasty Corner,South Indian,Nashik,852,39,Debit Card,3,Pending,2026-04-18,33,885,April,Saturday,Slow Delivery
+1467,244,Tasty Corner,Fast Food,Delhi,521,42,Debit Card,2,Delivered,2026-08-09,75,596,August,Sunday,Slow Delivery
+1468,369,Pizza Hub,Italian,Pune,1492,29,Debit Card,4,Cancelled,2026-10-24,22,1514,October,Saturday,Fast Delivery
+1469,470,Food Junction,South Indian,Thane,745,44,Debit Card,5,Cancelled,2026-06-14,43,788,June,Sunday,Slow Delivery
+1470,224,Cafe Delight,Mexican,Mumbai,657,41,Credit Card,4,Cancelled,2026-08-27,32,689,August,Thursday,Slow Delivery
+1472,258,Biryani Express,Indian,Nagpur,777,24,Cash,4,Pending,2026-08-15,48,825,August,Saturday,Fast Delivery
+1474,245,Spice Garden,South Indian,Pune,1339,41,Cash,5,Cancelled,2026-09-19,70,1409,September,Saturday,Slow Delivery
+1475,220,Pizza Hub,South Indian,Mumbai,757,26,UPI,4,Delivered,2026-08-31,61,818,August,Monday,Fast Delivery
+1476,419,Spice Garden,Chinese,Delhi,1195,60,Cash,1,Delivered,2026-03-28,50,1245,March,Saturday,Slow Delivery
+1477,375,Food Palace,Indian,Pune,1087,45,UPI,2,Delivered,2026-02-13,80,1167,February,Friday,Slow Delivery
+1478,192,Cafe Delight,Indian,Mumbai,941,46,UPI,4,Delivered,2026-05-26,45,986,May,Tuesday,Slow Delivery
+1479,158,Pizza Hub,South Indian,Mumbai,545,46,UPI,5,Cancelled,2026-09-21,37,582,September,Monday,Slow Delivery
+1480,446,Pizza Hub,South Indian,Thane,1309,55,UPI,1,Cancelled,2026-06-21,77,1386,June,Sunday,Slow Delivery
+1483,418,Pizza Hub,Fast Food,Thane,1369,60,UPI,4,Cancelled,2026-06-08,26,1395,June,Monday,Slow Delivery
+1484,379,Urban Kitchen,Indian,Nashik,873,35,Cash,1,Pending,2026-04-26,67,940,April,Sunday,Slow Delivery
+1485,227,Urban Kitchen,Chinese,Thane,1222,24,Debit Card,4,Pending,2026-04-12,57,1279,April,Sunday,Fast Delivery
+1486,493,Food Palace,Mexican,Thane,1401,30,UPI,5,Pending,2026-03-17,67,1468,March,Tuesday,Fast Delivery
+1487,496,Burger House,Fast Food,Mumbai,1043,21,Cash,3,Cancelled,2026-01-13,35,1078,January,Tuesday,Fast Delivery
+1488,229,Spice Garden,Chinese,Nagpur,554,18,Credit Card,1,Cancelled,2026-01-24,74,628,January,Saturday,Fast Delivery
+1489,158,Cafe Delight,Italian,Nagpur,1227,41,Cash,1,Cancelled,2026-05-06,75,1302,May,Wednesday,Slow Delivery
+1490,222,Royal Restaurant,Fast Food,Delhi,1045,39,UPI,1,Pending,2026-09-01,79,1124,September,Tuesday,Slow Delivery
+1491,101,Spice Garden,Mexican,Nagpur,700,45,Debit Card,1,Pending,2026-02-07,52,752,February,Saturday,Slow Delivery
+1492,339,Pizza Hub,Italian,Thane,752,25,Cash,4,Delivered,2026-08-22,75,827,August,Saturday,Fast Delivery
+1493,390,Cafe Delight,Italian,Delhi,824,34,Debit Card,5,Pending,2026-08-01,70,894,August,Saturday,Slow Delivery
+1497,148,Tasty Corner,Mexican,Thane,1175,25,Credit Card,4,Delivered,2026-09-11,55,1230,September,Friday,Fast Delivery
+1498,189,Biryani Express,Mexican,Delhi,997,44,Credit Card,4,Delivered,2026-07-24,23,1020,July,Friday,Slow Delivery
+1499,337,Spice Garden,Mexican,Mumbai,1020,49,Credit Card,1,Cancelled,2026-05-05,61,1081,May,Tuesday,Slow Delivery
+1500,473,Royal Restaurant,Italian,Nashik,880,55,UPI,4,Delivered,2026-03-17,28,908,March,Tuesday,Slow Delivery
+1502,372,Royal Restaurant,Indian,Nashik,1174,36,Cash,5,Cancelled,2026-02-24,70,1244,February,Tuesday,Slow Delivery
+1503,289,Tasty Corner,Fast Food,Nashik,1309,57,Cash,3,Delivered,2026-08-06,36,1345,August,Thursday,Slow Delivery
+1504,292,Pizza Hub,Fast Food,Nagpur,1157,41,Cash,4,Pending,2026-04-23,36,1193,April,Thursday,Slow Delivery
+1505,169,Burger House,Chinese,Mumbai,902,51,Debit Card,1,Pending,2026-04-01,52,954,April,Wednesday,Slow Delivery
+1506,378,Food Junction,Mexican,Nashik,841,60,Credit Card,1,Pending,2026-09-23,39,880,September,Wednesday,Slow Delivery
+1508,347,Tasty Corner,Fast Food,Nagpur,1122,18,Credit Card,2,Pending,2026-01-26,41,1163,January,Monday,Fast Delivery
+1509,176,Burger House,South Indian,Mumbai,731,30,UPI,1,Pending,2026-10-13,71,802,October,Tuesday,Fast Delivery
+1510,254,Cafe Delight,Fast Food,Thane,937,30,Credit Card,4,Pending,2026-05-08,46,983,May,Friday,Fast Delivery
+1511,244,Spice Garden,Mexican,Nashik,858,35,Debit Card,1,Pending,2026-03-04,62,920,March,Wednesday,Slow Delivery
+1512,186,Urban Kitchen,South Indian,Mumbai,803,40,Debit Card,2,Pending,2026-08-22,22,825,August,Saturday,Slow Delivery
+1513,285,Biryani Express,Chinese,Pune,596,50,Credit Card,3,Cancelled,2026-03-10,43,639,March,Tuesday,Slow Delivery
+1515,320,Pizza Hub,Chinese,Nashik,1333,31,Debit Card,5,Pending,2026-09-29,27,1360,September,Tuesday,Slow Delivery
+1516,169,Pizza Hub,Chinese,Nagpur,714,59,UPI,4,Cancelled,2026-10-14,41,755,October,Wednesday,Slow Delivery
+1518,194,Pizza Hub,Indian,Nashik,1495,36,Debit Card,3,Pending,2026-08-15,79,1574,August,Saturday,Slow Delivery
+1520,304,Pizza Hub,Fast Food,Thane,934,15,Credit Card,4,Cancelled,2026-08-07,68,1002,August,Friday,Fast Delivery
+1521,500,Royal Restaurant,Indian,Nagpur,750,58,Credit Card,2,Pending,2026-10-08,48,798,October,Thursday,Slow Delivery
+1523,441,Pizza Hub,Italian,Nashik,705,57,Credit Card,2,Pending,2026-03-23,73,778,March,Monday,Slow Delivery
+1524,139,Urban Kitchen,Fast Food,Thane,1064,51,UPI,5,Pending,2026-09-01,20,1084,September,Tuesday,Slow Delivery
+1526,389,Food Palace,South Indian,Thane,1214,31,Debit Card,1,Delivered,2026-05-13,40,1254,May,Wednesday,Slow Delivery
+1528,322,Food Palace,South Indian,Mumbai,821,52,Credit Card,2,Delivered,2026-05-22,43,864,May,Friday,Slow Delivery
+1530,123,Spice Garden,Chinese,Delhi,1420,23,Debit Card,2,Delivered,2026-09-06,79,1499,September,Sunday,Fast Delivery
+1531,350,Burger House,Indian,Mumbai,1253,27,Cash,4,Cancelled,2026-05-03,63,1316,May,Sunday,Fast Delivery
+1532,110,Burger House,Mexican,Delhi,1416,25,Credit Card,5,Cancelled,2026-05-21,73,1489,May,Thursday,Fast Delivery
+1533,346,Urban Kitchen,Italian,Nagpur,1296,30,Credit Card,2,Cancelled,2026-08-14,45,1341,August,Friday,Fast Delivery
+1534,425,Tasty Corner,South Indian,Pune,1043,30,Debit Card,5,Cancelled,2026-02-09,28,1071,February,Monday,Fast Delivery
+1535,200,Urban Kitchen,Indian,Pune,1147,16,Cash,3,Cancelled,2026-05-27,39,1186,May,Wednesday,Fast Delivery
+1536,390,Biryani Express,South Indian,Nagpur,1222,56,Debit Card,5,Delivered,2026-05-01,75,1297,May,Friday,Slow Delivery
+1537,280,Pizza Hub,Indian,Nagpur,455,58,Credit Card,4,Cancelled,2026-05-20,54,509,May,Wednesday,Slow Delivery
+1539,494,Biryani Express,Fast Food,Nagpur,1297,57,Debit Card,2,Cancelled,2026-06-13,61,1358,June,Saturday,Slow Delivery
+1541,247,Spice Garden,South Indian,Nagpur,1030,27,Cash,4,Pending,2026-02-11,73,1103,February,Wednesday,Fast Delivery
+1542,196,Urban Kitchen,Mexican,Nashik,595,31,Debit Card,1,Delivered,2026-03-12,28,623,March,Thursday,Slow Delivery
+1543,357,Spice Garden,Fast Food,Nagpur,1113,53,Credit Card,1,Cancelled,2026-03-19,41,1154,March,Thursday,Slow Delivery
+1544,425,Spice Garden,Indian,Thane,754,38,Debit Card,2,Cancelled,2026-04-29,20,774,April,Wednesday,Slow Delivery
+1545,104,Pizza Hub,Fast Food,Nashik,927,17,Cash,4,Cancelled,2026-07-16,24,951,July,Thursday,Fast Delivery
+1547,380,Pizza Hub,Fast Food,Nashik,653,27,Cash,5,Delivered,2026-04-20,56,709,April,Monday,Fast Delivery
+1549,347,Burger House,Mexican,Delhi,1315,21,UPI,5,Cancelled,2026-08-01,38,1353,August,Saturday,Fast Delivery
+1551,484,Biryani Express,South Indian,Nagpur,854,33,Cash,5,Pending,2026-06-19,61,915,June,Friday,Slow Delivery
+1552,260,Burger House,South Indian,Nagpur,869,59,UPI,1,Cancelled,2026-10-05,62,931,October,Monday,Slow Delivery
+1553,440,Pizza Hub,South Indian,Delhi,1338,54,UPI,1,Delivered,2026-08-27,51,1389,August,Thursday,Slow Delivery
+1554,252,Royal Restaurant,Indian,Thane,933,36,Debit Card,3,Delivered,2026-08-01,32,965,August,Saturday,Slow Delivery
+1556,278,Pizza Hub,Indian,Nagpur,1355,37,Cash,4,Delivered,2026-04-16,55,1410,April,Thursday,Slow Delivery
+1557,263,Pizza Hub,South Indian,Mumbai,1318,16,Debit Card,2,Cancelled,2026-08-04,62,1380,August,Tuesday,Fast Delivery
+1558,480,Food Junction,Italian,Thane,605,25,UPI,5,Pending,2026-07-19,63,668,July,Sunday,Fast Delivery
+1559,133,Urban Kitchen,Chinese,Nashik,1457,45,Credit Card,4,Pending,2026-10-27,56,1513,October,Tuesday,Slow Delivery
+1560,279,Cafe Delight,Italian,Nashik,892,47,Credit Card,4,Pending,2026-01-11,49,941,January,Sunday,Slow Delivery
+1561,201,Burger House,South Indian,Mumbai,1427,28,Cash,1,Cancelled,2026-10-22,29,1456,October,Thursday,Fast Delivery
+1562,368,Urban Kitchen,Chinese,Nagpur,932,30,Debit Card,5,Pending,2026-07-14,50,982,July,Tuesday,Fast Delivery
+1563,423,Burger House,Chinese,Thane,1446,25,Cash,1,Delivered,2026-09-02,44,1490,September,Wednesday,Fast Delivery
+1564,165,Biryani Express,Mexican,Mumbai,957,47,Credit Card,1,Cancelled,2026-01-04,48,1005,January,Sunday,Slow Delivery
+1565,268,Urban Kitchen,Italian,Nagpur,905,21,Credit Card,3,Pending,2026-06-30,43,948,June,Tuesday,Fast Delivery
+1566,430,Burger House,Mexican,Thane,1272,45,Debit Card,1,Delivered,2026-06-02,58,1330,June,Tuesday,Slow Delivery
+1567,143,Cafe Delight,Chinese,Nashik,860,60,UPI,2,Delivered,2026-07-19,40,900,July,Sunday,Slow Delivery
+1568,144,Food Palace,Indian,Thane,932,28,Debit Card,4,Cancelled,2026-08-03,60,992,August,Monday,Fast Delivery
+1570,497,Spice Garden,Mexican,Pune,1485,57,UPI,2,Pending,2026-10-07,61,1546,October,Wednesday,Slow Delivery
+1571,112,Cafe Delight,Italian,Thane,478,30,Cash,5,Pending,2026-04-23,61,539,April,Thursday,Fast Delivery
+1573,402,Food Palace,South Indian,Thane,1114,31,Cash,5,Cancelled,2026-04-23,23,1137,April,Thursday,Slow Delivery
+1574,486,Biryani Express,Italian,Pune,1123,40,UPI,2,Pending,2026-05-20,27,1150,May,Wednesday,Slow Delivery
+1575,353,Cafe Delight,South Indian,Delhi,655,20,Cash,5,Pending,2026-08-12,51,706,August,Wednesday,Fast Delivery
+1576,342,Spice Garden,South Indian,Nashik,455,57,Credit Card,5,Delivered,2026-09-06,80,535,September,Sunday,Slow Delivery
+1577,135,Spice Garden,Mexican,Nagpur,1140,23,Debit Card,5,Delivered,2026-01-15,33,1173,January,Thursday,Fast Delivery
+1578,315,Spice Garden,Italian,Pune,738,31,Cash,1,Delivered,2026-07-19,68,806,July,Sunday,Slow Delivery
+1579,437,Tasty Corner,Fast Food,Delhi,478,45,Credit Card,1,Pending,2026-06-22,32,510,June,Monday,Slow Delivery
+1580,190,Cafe Delight,Indian,Pune,779,26,Credit Card,1,Cancelled,2026-07-27,40,819,July,Monday,Fast Delivery
+1581,364,Pizza Hub,Indian,Nashik,605,37,UPI,4,Delivered,2026-03-26,43,648,March,Thursday,Slow Delivery
+1582,193,Biryani Express,South Indian,Pune,998,19,Credit Card,2,Cancelled,2026-08-28,69,1067,August,Friday,Fast Delivery
+1585,205,Cafe Delight,Italian,Mumbai,1061,50,Cash,5,Delivered,2026-01-14,59,1120,January,Wednesday,Slow Delivery
+1586,491,Tasty Corner,Chinese,Nashik,1371,17,Cash,5,Cancelled,2026-07-21,45,1416,July,Tuesday,Fast Delivery
+1588,414,Biryani Express,Indian,Nashik,825,31,Cash,3,Pending,2026-01-14,63,888,January,Wednesday,Slow Delivery
+1590,175,Biryani Express,Chinese,Delhi,1281,40,UPI,2,Delivered,2026-08-08,74,1355,August,Saturday,Slow Delivery
+1592,317,Pizza Hub,Italian,Pune,492,59,UPI,1,Delivered,2026-08-25,72,564,August,Tuesday,Slow Delivery
+1593,377,Biryani Express,Fast Food,Delhi,1208,26,Credit Card,3,Cancelled,2026-04-04,52,1260,April,Saturday,Fast Delivery
+1595,264,Tasty Corner,Indian,Delhi,1192,35,Cash,4,Cancelled,2026-05-14,50,1242,May,Thursday,Slow Delivery
+1596,494,Biryani Express,Chinese,Pune,710,33,Credit Card,5,Cancelled,2026-07-14,37,747,July,Tuesday,Slow Delivery
+1597,457,Royal Restaurant,Fast Food,Mumbai,1470,35,UPI,1,Cancelled,2026-06-17,54,1524,June,Wednesday,Slow Delivery
+1598,292,Cafe Delight,Fast Food,Mumbai,1108,32,UPI,4,Delivered,2026-04-19,31,1139,April,Sunday,Slow Delivery
+1599,327,Royal Restaurant,Indian,Delhi,1061,57,Credit Card,2,Delivered,2026-08-21,70,1131,August,Friday,Slow Delivery
+1600,277,Food Junction,Fast Food,Pune,827,17,Cash,3,Delivered,2026-06-17,44,871,June,Wednesday,Fast Delivery
+1601,199,Cafe Delight,Fast Food,Thane,772,58,UPI,1,Delivered,2026-06-22,64,836,June,Monday,Slow Delivery
+1602,136,Biryani Express,Fast Food,Nashik,522,46,UPI,2,Pending,2026-07-14,50,572,July,Tuesday,Slow Delivery
+1603,196,Food Palace,Chinese,Nashik,1297,24,Debit Card,1,Pending,2026-05-23,29,1326,May,Saturday,Fast Delivery
+1607,324,Biryani Express,Chinese,Nagpur,1466,18,Credit Card,5,Cancelled,2026-08-29,70,1536,August,Saturday,Fast Delivery
+1608,137,Biryani Express,Indian,Nagpur,1500,42,Debit Card,2,Delivered,2026-01-10,22,1522,January,Saturday,Slow Delivery
+1609,368,Pizza Hub,Italian,Pune,1253,18,Cash,4,Pending,2026-10-04,65,1318,October,Sunday,Fast Delivery
+1610,469,Biryani Express,Chinese,Thane,716,29,UPI,5,Pending,2026-01-27,58,774,January,Tuesday,Fast Delivery
+1611,283,Spice Garden,Indian,Thane,638,31,Credit Card,4,Delivered,2026-06-29,27,665,June,Monday,Slow Delivery
+1612,113,Food Palace,Fast Food,Nashik,838,58,Cash,2,Cancelled,2026-04-25,80,918,April,Saturday,Slow Delivery
+1613,379,Burger House,Indian,Mumbai,1125,17,Cash,3,Delivered,2026-02-05,51,1176,February,Thursday,Fast Delivery
+1614,317,Food Palace,Indian,Delhi,970,24,Credit Card,4,Cancelled,2026-01-21,62,1032,January,Wednesday,Fast Delivery
+1616,461,Spice Garden,Indian,Delhi,1181,37,Cash,4,Cancelled,2026-05-07,41,1222,May,Thursday,Slow Delivery
+1617,386,Cafe Delight,Italian,Nagpur,791,32,UPI,5,Cancelled,2026-04-13,39,830,April,Monday,Slow Delivery
+1618,373,Biryani Express,Indian,Delhi,1040,15,Debit Card,2,Delivered,2026-01-11,25,1065,January,Sunday,Fast Delivery
+1619,469,Royal Restaurant,Italian,Mumbai,440,49,Credit Card,5,Pending,2026-03-20,80,520,March,Friday,Slow Delivery
+1620,162,Spice Garden,Fast Food,Mumbai,960,45,Debit Card,1,Delivered,2026-05-03,62,1022,May,Sunday,Slow Delivery
+1621,184,Pizza Hub,Italian,Delhi,1143,58,Cash,2,Delivered,2026-03-06,68,1211,March,Friday,Slow Delivery
+1622,468,Spice Garden,Fast Food,Pune,1378,15,Debit Card,4,Pending,2026-08-31,48,1426,August,Monday,Fast Delivery
+1623,317,Pizza Hub,Fast Food,Thane,1440,17,UPI,1,Delivered,2026-02-28,61,1501,February,Saturday,Fast Delivery
+1625,497,Burger House,Chinese,Delhi,759,51,UPI,5,Cancelled,2026-04-22,36,795,April,Wednesday,Slow Delivery
+1626,287,Urban Kitchen,Mexican,Thane,1027,33,Cash,4,Delivered,2026-08-27,50,1077,August,Thursday,Slow Delivery
+1627,119,Spice Garden,Indian,Nashik,1149,43,UPI,1,Pending,2026-05-12,72,1221,May,Tuesday,Slow Delivery
+1628,277,Tasty Corner,South Indian,Pune,553,39,Cash,3,Delivered,2026-07-08,53,606,July,Wednesday,Slow Delivery
+1629,200,Royal Restaurant,Mexican,Pune,1446,47,UPI,4,Cancelled,2026-03-27,57,1503,March,Friday,Slow Delivery
+1630,496,Biryani Express,Indian,Delhi,836,50,Cash,5,Delivered,2026-02-28,76,912,February,Saturday,Slow Delivery
+1631,333,Royal Restaurant,Indian,Nagpur,918,43,UPI,2,Delivered,2026-03-25,56,974,March,Wednesday,Slow Delivery
+1632,176,Food Palace,Fast Food,Delhi,872,40,Cash,1,Delivered,2026-06-09,23,895,June,Tuesday,Slow Delivery
+1634,384,Food Palace,South Indian,Thane,1014,28,Credit Card,2,Pending,2026-10-24,31,1045,October,Saturday,Fast Delivery
+1635,306,Food Junction,Indian,Nagpur,1020,41,Debit Card,1,Pending,2026-01-14,54,1074,January,Wednesday,Slow Delivery
+1636,323,Urban Kitchen,Italian,Delhi,924,47,Cash,4,Cancelled,2026-06-09,25,949,June,Tuesday,Slow Delivery
+1637,484,Urban Kitchen,Mexican,Delhi,470,36,UPI,4,Cancelled,2026-10-22,75,545,October,Thursday,Slow Delivery
+1638,152,Food Palace,Italian,Pune,1414,17,Credit Card,1,Delivered,2026-07-12,65,1479,July,Sunday,Fast Delivery
+1641,244,Royal Restaurant,South Indian,Delhi,1328,55,Cash,2,Pending,2026-02-08,72,1400,February,Sunday,Slow Delivery
+1642,473,Pizza Hub,Fast Food,Pune,796,37,Debit Card,2,Delivered,2026-05-05,77,873,May,Tuesday,Slow Delivery
+1643,169,Royal Restaurant,Italian,Mumbai,786,18,UPI,4,Cancelled,2026-02-22,65,851,February,Sunday,Fast Delivery
+1644,199,Food Junction,Italian,Nagpur,1049,35,UPI,1,Pending,2026-06-04,80,1129,June,Thursday,Slow Delivery
+1645,496,Biryani Express,Chinese,Mumbai,486,51,Cash,4,Pending,2026-03-03,54,540,March,Tuesday,Slow Delivery
+1646,125,Cafe Delight,Indian,Nagpur,920,57,Cash,3,Delivered,2026-10-17,67,987,October,Saturday,Slow Delivery
+1647,479,Pizza Hub,Fast Food,Delhi,567,45,Cash,2,Cancelled,2026-01-22,34,601,January,Thursday,Slow Delivery
+1649,251,Tasty Corner,Italian,Pune,1227,40,Cash,5,Delivered,2026-09-30,34,1261,September,Wednesday,Slow Delivery
+1650,244,Food Junction,Fast Food,Pune,1284,55,Debit Card,1,Pending,2026-08-08,64,1348,August,Saturday,Slow Delivery
+1654,281,Food Junction,Chinese,Pune,607,25,Credit Card,2,Delivered,2026-06-24,23,630,June,Wednesday,Fast Delivery
+1656,286,Biryani Express,Chinese,Pune,983,43,Cash,3,Delivered,2026-08-04,51,1034,August,Tuesday,Slow Delivery
+1657,498,Food Palace,South Indian,Delhi,431,17,Cash,4,Cancelled,2026-09-08,78,509,September,Tuesday,Fast Delivery
+1658,323,Cafe Delight,South Indian,Nashik,816,15,Cash,2,Pending,2026-02-24,41,857,February,Tuesday,Fast Delivery
+1659,222,Biryani Express,Mexican,Mumbai,650,33,Cash,1,Pending,2026-08-10,46,696,August,Monday,Slow Delivery
+1660,233,Food Junction,Indian,Pune,1041,60,UPI,1,Delivered,2026-07-05,65,1106,July,Sunday,Slow Delivery
+1662,315,Urban Kitchen,Mexican,Thane,1091,28,Credit Card,4,Cancelled,2026-03-20,79,1170,March,Friday,Fast Delivery
+1663,321,Cafe Delight,Mexican,Nagpur,827,28,Cash,1,Cancelled,2026-08-11,63,890,August,Tuesday,Fast Delivery
+1664,335,Food Palace,Indian,Mumbai,979,58,Credit Card,1,Cancelled,2026-04-01,70,1049,April,Wednesday,Slow Delivery
+1665,431,Burger House,Indian,Thane,914,30,UPI,2,Delivered,2026-09-25,41,955,September,Friday,Fast Delivery
+1666,246,Food Junction,Fast Food,Nashik,1295,47,Debit Card,4,Pending,2026-05-19,47,1342,May,Tuesday,Slow Delivery
+1667,339,Burger House,Chinese,Nagpur,748,27,Cash,2,Delivered,2026-10-03,61,809,October,Saturday,Fast Delivery
+1668,176,Food Junction,Chinese,Mumbai,1099,52,UPI,1,Pending,2026-09-05,57,1156,September,Saturday,Slow Delivery
+1669,109,Food Palace,Fast Food,Pune,570,26,UPI,5,Delivered,2026-08-27,79,649,August,Thursday,Fast Delivery
+1670,174,Biryani Express,Fast Food,Mumbai,789,52,Debit Card,5,Delivered,2026-08-12,76,865,August,Wednesday,Slow Delivery
+1671,353,Spice Garden,South Indian,Pune,799,53,Cash,1,Cancelled,2026-05-18,28,827,May,Monday,Slow Delivery
+1672,330,Biryani Express,Mexican,Nagpur,606,47,Debit Card,4,Pending,2026-06-15,53,659,June,Monday,Slow Delivery
+1673,107,Food Junction,Fast Food,Pune,1091,47,Debit Card,5,Delivered,2026-05-06,55,1146,May,Wednesday,Slow Delivery
+1674,274,Royal Restaurant,Italian,Nashik,1109,43,Credit Card,4,Delivered,2026-02-14,28,1137,February,Saturday,Slow Delivery
+1675,241,Spice Garden,Chinese,Delhi,903,19,Credit Card,5,Pending,2026-05-23,34,937,May,Saturday,Fast Delivery
+1676,268,Spice Garden,Fast Food,Pune,930,20,Debit Card,4,Delivered,2026-08-19,64,994,August,Wednesday,Fast Delivery
+1677,270,Burger House,Italian,Nashik,1448,45,Credit Card,5,Pending,2026-05-05,39,1487,May,Tuesday,Slow Delivery
+1679,383,Burger House,Italian,Nagpur,1331,45,Debit Card,2,Cancelled,2026-10-19,77,1408,October,Monday,Slow Delivery
+1681,294,Royal Restaurant,South Indian,Mumbai,1453,60,Cash,2,Cancelled,2026-06-22,70,1523,June,Monday,Slow Delivery
+1682,105,Biryani Express,Italian,Nashik,1403,47,UPI,2,Pending,2026-01-15,38,1441,January,Thursday,Slow Delivery
+1683,129,Biryani Express,South Indian,Nashik,1077,27,Cash,1,Delivered,2026-09-11,76,1153,September,Friday,Fast Delivery
+1684,265,Tasty Corner,Mexican,Thane,1428,24,Cash,2,Delivered,2026-06-16,35,1463,June,Tuesday,Fast Delivery
+1686,236,Royal Restaurant,Mexican,Delhi,615,24,UPI,2,Delivered,2026-09-07,61,676,September,Monday,Fast Delivery
+1687,465,Tasty Corner,Mexican,Delhi,1213,55,Debit Card,4,Cancelled,2026-04-19,27,1240,April,Sunday,Slow Delivery
+1688,421,Food Palace,Italian,Thane,552,45,UPI,2,Delivered,2026-07-01,52,604,July,Wednesday,Slow Delivery
+1690,245,Food Junction,Italian,Pune,1434,17,Debit Card,4,Pending,2026-06-24,37,1471,June,Wednesday,Fast Delivery
+1691,427,Urban Kitchen,Italian,Thane,627,48,Credit Card,3,Cancelled,2026-05-24,54,681,May,Sunday,Slow Delivery
+1692,317,Urban Kitchen,South Indian,Nashik,1350,42,Cash,2,Delivered,2026-05-22,62,1412,May,Friday,Slow Delivery
+1693,401,Pizza Hub,Italian,Pune,1123,33,UPI,2,Delivered,2026-10-12,69,1192,October,Monday,Slow Delivery
+1694,232,Pizza Hub,Chinese,Delhi,573,37,Cash,5,Pending,2026-01-06,22,595,January,Tuesday,Slow Delivery
+1695,392,Burger House,South Indian,Nagpur,856,59,Credit Card,5,Pending,2026-09-22,59,915,September,Tuesday,Slow Delivery
+1696,170,Food Palace,Indian,Mumbai,881,46,UPI,1,Cancelled,2026-04-08,46,927,April,Wednesday,Slow Delivery
+1697,352,Spice Garden,Indian,Thane,1202,27,Credit Card,4,Delivered,2026-02-13,78,1280,February,Friday,Fast Delivery
+1698,375,Spice Garden,Mexican,Nagpur,532,47,Cash,3,Pending,2026-05-04,47,579,May,Monday,Slow Delivery
+1699,464,Urban Kitchen,Mexican,Delhi,1276,48,Debit Card,5,Pending,2026-07-28,65,1341,July,Tuesday,Slow Delivery
+1700,282,Urban Kitchen,Chinese,Nashik,500,47,Credit Card,2,Pending,2026-09-08,25,525,September,Tuesday,Slow Delivery
+1701,267,Urban Kitchen,Fast Food,Mumbai,1402,19,Credit Card,1,Cancelled,2026-10-12,66,1468,October,Monday,Fast Delivery
+1703,302,Cafe Delight,Mexican,Mumbai,1102,21,Cash,2,Cancelled,2026-09-01,26,1128,September,Tuesday,Fast Delivery
+1705,119,Royal Restaurant,Chinese,Delhi,497,36,Cash,4,Delivered,2026-08-18,34,531,August,Tuesday,Slow Delivery
+1706,139,Biryani Express,Chinese,Nashik,704,59,Debit Card,4,Delivered,2026-01-09,50,754,January,Friday,Slow Delivery
+1707,226,Spice Garden,Fast Food,Delhi,887,37,UPI,5,Cancelled,2026-02-17,48,935,February,Tuesday,Slow Delivery
+1709,241,Pizza Hub,South Indian,Nagpur,1482,32,Cash,2,Delivered,2026-04-24,73,1555,April,Friday,Slow Delivery
+1710,342,Tasty Corner,Chinese,Thane,688,46,Debit Card,2,Pending,2026-07-27,36,724,July,Monday,Slow Delivery
+1711,320,Biryani Express,Mexican,Thane,565,21,Debit Card,5,Delivered,2026-05-05,78,643,May,Tuesday,Fast Delivery
+1712,226,Pizza Hub,Indian,Delhi,545,47,Credit Card,5,Cancelled,2026-06-06,70,615,June,Saturday,Slow Delivery
+1713,158,Royal Restaurant,Italian,Nagpur,900,19,UPI,2,Delivered,2026-10-25,48,948,October,Sunday,Fast Delivery
+1714,248,Food Palace,Fast Food,Nagpur,1196,42,Credit Card,3,Pending,2026-07-08,68,1264,July,Wednesday,Slow Delivery
+1715,417,Food Junction,Italian,Mumbai,1028,22,Cash,2,Cancelled,2026-08-31,63,1091,August,Monday,Fast Delivery
+1717,461,Cafe Delight,Fast Food,Delhi,830,18,UPI,3,Cancelled,2026-09-29,45,875,September,Tuesday,Fast Delivery
+1719,487,Urban Kitchen,Mexican,Delhi,1094,19,Credit Card,1,Pending,2026-08-06,44,1138,August,Thursday,Fast Delivery
+1720,448,Food Junction,Indian,Thane,712,47,Debit Card,5,Delivered,2026-10-09,80,792,October,Friday,Slow Delivery
+1721,290,Royal Restaurant,Mexican,Mumbai,645,19,Credit Card,4,Cancelled,2026-06-19,60,705,June,Friday,Fast Delivery
+1722,291,Urban Kitchen,South Indian,Nagpur,695,52,UPI,2,Cancelled,2026-06-30,24,719,June,Tuesday,Slow Delivery
+1723,469,Pizza Hub,Fast Food,Delhi,1020,48,UPI,3,Cancelled,2026-08-21,23,1043,August,Friday,Slow Delivery
+1724,412,Tasty Corner,Chinese,Mumbai,941,40,UPI,2,Delivered,2026-05-19,63,1004,May,Tuesday,Slow Delivery
+1725,217,Spice Garden,Indian,Delhi,1325,15,UPI,5,Delivered,2026-06-06,67,1392,June,Saturday,Fast Delivery
+1726,234,Spice Garden,Italian,Nagpur,443,18,UPI,3,Delivered,2026-05-09,60,503,May,Saturday,Fast Delivery
+1727,158,Biryani Express,Fast Food,Nashik,958,53,Credit Card,4,Pending,2026-04-29,76,1034,April,Wednesday,Slow Delivery
+1728,144,Burger House,Chinese,Nagpur,1341,40,UPI,4,Pending,2026-03-03,50,1391,March,Tuesday,Slow Delivery
+1729,273,Food Palace,Mexican,Nagpur,544,47,UPI,4,Pending,2026-04-09,22,566,April,Thursday,Slow Delivery
+1731,273,Biryani Express,Fast Food,Delhi,691,22,UPI,3,Cancelled,2026-03-03,22,713,March,Tuesday,Fast Delivery
+1732,417,Burger House,Fast Food,Pune,1130,34,Debit Card,3,Cancelled,2026-10-02,45,1175,October,Friday,Slow Delivery
+1733,403,Royal Restaurant,South Indian,Nagpur,1395,30,Debit Card,1,Cancelled,2026-04-05,69,1464,April,Sunday,Fast Delivery
+1734,249,Cafe Delight,South Indian,Thane,1117,35,Debit Card,3,Cancelled,2026-04-09,36,1153,April,Thursday,Slow Delivery
+1736,474,Food Palace,Mexican,Mumbai,623,40,Credit Card,2,Cancelled,2026-09-05,29,652,September,Saturday,Slow Delivery
+1737,313,Urban Kitchen,Chinese,Pune,902,37,Cash,5,Delivered,2026-05-22,21,923,May,Friday,Slow Delivery
+1740,329,Biryani Express,Italian,Thane,1107,56,Credit Card,1,Pending,2026-02-21,43,1150,February,Saturday,Slow Delivery
+1741,264,Food Junction,South Indian,Nashik,1411,26,UPI,1,Pending,2026-04-10,54,1465,April,Friday,Fast Delivery
+1742,327,Food Junction,Italian,Nagpur,908,15,Cash,2,Pending,2026-06-01,42,950,June,Monday,Fast Delivery
+1743,247,Cafe Delight,Indian,Thane,1257,56,Credit Card,1,Cancelled,2026-04-27,51,1308,April,Monday,Slow Delivery
+1744,120,Cafe Delight,Fast Food,Delhi,1406,23,UPI,5,Cancelled,2026-07-04,42,1448,July,Saturday,Fast Delivery
+1745,147,Tasty Corner,Italian,Delhi,503,17,UPI,5,Cancelled,2026-04-02,53,556,April,Thursday,Fast Delivery
+1746,333,Tasty Corner,Chinese,Mumbai,1189,40,Credit Card,4,Pending,2026-06-04,60,1249,June,Thursday,Slow Delivery
+1747,405,Urban Kitchen,South Indian,Mumbai,536,23,Cash,2,Pending,2026-01-08,38,574,January,Thursday,Fast Delivery
+1748,114,Tasty Corner,South Indian,Nagpur,928,56,Credit Card,5,Delivered,2026-10-01,21,949,October,Thursday,Slow Delivery
+1749,243,Pizza Hub,Mexican,Nagpur,1033,30,Cash,3,Cancelled,2026-03-06,79,1112,March,Friday,Fast Delivery
+1752,154,Spice Garden,Italian,Mumbai,1092,17,Credit Card,1,Pending,2026-01-28,34,1126,January,Wednesday,Fast Delivery
+1753,474,Pizza Hub,Indian,Nagpur,868,48,Cash,1,Delivered,2026-10-11,75,943,October,Sunday,Slow Delivery
+1754,359,Burger House,Chinese,Mumbai,1224,47,Cash,3,Pending,2026-05-30,40,1264,May,Saturday,Slow Delivery
+1755,244,Cafe Delight,Chinese,Nagpur,1321,38,Credit Card,4,Delivered,2026-03-06,54,1375,March,Friday,Slow Delivery
+1756,112,Food Junction,Chinese,Thane,912,23,UPI,4,Delivered,2026-09-09,24,936,September,Wednesday,Fast Delivery
+1758,324,Biryani Express,Italian,Thane,1042,16,UPI,3,Pending,2026-01-07,46,1088,January,Wednesday,Fast Delivery
+1759,372,Food Palace,Chinese,Mumbai,562,21,Debit Card,4,Delivered,2026-10-21,43,605,October,Wednesday,Fast Delivery
+1761,256,Burger House,South Indian,Nashik,1149,33,Cash,3,Cancelled,2026-08-29,25,1174,August,Saturday,Slow Delivery
+1762,473,Tasty Corner,Indian,Delhi,1244,39,Debit Card,2,Cancelled,2026-09-03,65,1309,September,Thursday,Slow Delivery
+1763,108,Burger House,South Indian,Delhi,605,36,UPI,3,Delivered,2026-08-14,80,685,August,Friday,Slow Delivery
+1764,222,Cafe Delight,South Indian,Delhi,1305,25,Credit Card,3,Cancelled,2026-06-24,52,1357,June,Wednesday,Fast Delivery
+1765,448,Cafe Delight,Indian,Thane,913,47,Debit Card,5,Cancelled,2026-04-05,77,990,April,Sunday,Slow Delivery
+1766,264,Urban Kitchen,Italian,Nagpur,866,46,Debit Card,5,Cancelled,2026-01-27,68,934,January,Tuesday,Slow Delivery
+1767,190,Biryani Express,South Indian,Delhi,733,35,UPI,2,Pending,2026-05-10,36,769,May,Sunday,Slow Delivery
+1768,236,Food Junction,Italian,Pune,1438,53,Debit Card,2,Pending,2026-09-02,65,1503,September,Wednesday,Slow Delivery
+1769,286,Royal Restaurant,South Indian,Delhi,1090,34,Cash,3,Delivered,2026-02-28,61,1151,February,Saturday,Slow Delivery
+1770,416,Royal Restaurant,Fast Food,Mumbai,717,22,Credit Card,4,Delivered,2026-02-03,49,766,February,Tuesday,Fast Delivery
+1773,320,Biryani Express,Fast Food,Mumbai,867,23,UPI,1,Delivered,2026-02-07,65,932,February,Saturday,Fast Delivery
+1774,457,Burger House,Mexican,Mumbai,595,39,Cash,5,Cancelled,2026-10-23,26,621,October,Friday,Slow Delivery
+1775,141,Food Palace,Fast Food,Nashik,1147,39,Credit Card,4,Delivered,2026-01-28,25,1172,January,Wednesday,Slow Delivery
+1776,328,Spice Garden,Chinese,Nashik,1232,47,Credit Card,3,Pending,2026-03-19,23,1255,March,Thursday,Slow Delivery
+1777,292,Food Junction,South Indian,Nagpur,601,16,Cash,1,Cancelled,2026-03-18,20,621,March,Wednesday,Fast Delivery
+1779,301,Royal Restaurant,Italian,Pune,1310,60,Cash,1,Cancelled,2026-06-05,50,1360,June,Friday,Slow Delivery
+1781,320,Urban Kitchen,South Indian,Pune,437,56,Cash,2,Pending,2026-05-08,66,503,May,Friday,Slow Delivery
+1782,340,Royal Restaurant,Chinese,Mumbai,1160,55,Cash,5,Cancelled,2026-03-02,52,1212,March,Monday,Slow Delivery
+1784,146,Cafe Delight,Mexican,Thane,607,43,Cash,2,Pending,2026-08-02,54,661,August,Sunday,Slow Delivery
+1787,490,Urban Kitchen,Chinese,Nashik,1015,39,UPI,3,Pending,2026-07-14,24,1039,July,Tuesday,Slow Delivery
+1788,182,Spice Garden,Fast Food,Delhi,1305,52,Credit Card,5,Delivered,2026-08-19,55,1360,August,Wednesday,Slow Delivery
+1790,356,Tasty Corner,Mexican,Thane,1025,44,UPI,4,Delivered,2026-06-02,72,1097,June,Tuesday,Slow Delivery
+1792,403,Royal Restaurant,Mexican,Thane,959,17,Cash,5,Pending,2026-06-06,33,992,June,Saturday,Fast Delivery
+1793,110,Royal Restaurant,Indian,Mumbai,966,37,Cash,1,Cancelled,2026-10-19,77,1043,October,Monday,Slow Delivery
+1794,412,Tasty Corner,Fast Food,Nagpur,1358,32,Credit Card,4,Cancelled,2026-01-31,48,1406,January,Saturday,Slow Delivery
+1795,386,Food Palace,South Indian,Thane,532,40,Cash,1,Delivered,2026-02-20,27,559,February,Friday,Slow Delivery
+1796,342,Urban Kitchen,South Indian,Delhi,1098,50,Debit Card,3,Pending,2026-04-17,53,1151,April,Friday,Slow Delivery
+1798,465,Biryani Express,Fast Food,Mumbai,1089,31,Credit Card,3,Pending,2026-05-16,20,1109,May,Saturday,Slow Delivery
+1799,105,Urban Kitchen,Italian,Nagpur,698,45,Credit Card,3,Delivered,2026-02-11,48,746,February,Wednesday,Slow Delivery
+1800,219,Spice Garden,Fast Food,Pune,502,51,Cash,5,Delivered,2026-03-22,55,557,March,Sunday,Slow Delivery
+1801,389,Burger House,Mexican,Nagpur,495,59,Cash,3,Cancelled,2026-05-03,70,565,May,Sunday,Slow Delivery
+1802,474,Cafe Delight,South Indian,Thane,514,47,Cash,4,Pending,2026-03-30,56,570,March,Monday,Slow Delivery
+1803,165,Tasty Corner,Chinese,Mumbai,1038,41,Credit Card,3,Delivered,2026-10-10,48,1086,October,Saturday,Slow Delivery
+1804,246,Food Junction,South Indian,Thane,776,59,Credit Card,4,Pending,2026-02-08,24,800,February,Sunday,Slow Delivery
+1805,324,Burger House,Indian,Delhi,562,18,UPI,1,Delivered,2026-03-22,72,634,March,Sunday,Fast Delivery
+1806,339,Biryani Express,South Indian,Pune,640,36,UPI,5,Cancelled,2026-01-02,51,691,January,Friday,Slow Delivery
+1807,277,Royal Restaurant,Italian,Delhi,1487,40,Cash,4,Pending,2026-07-29,79,1566,July,Wednesday,Slow Delivery
+1808,367,Spice Garden,Fast Food,Thane,1253,46,Credit Card,3,Delivered,2026-08-19,71,1324,August,Wednesday,Slow Delivery
+1812,317,Food Junction,Chinese,Pune,487,51,Debit Card,4,Delivered,2026-04-29,71,558,April,Wednesday,Slow Delivery
+1814,415,Burger House,Indian,Thane,917,21,Debit Card,2,Delivered,2026-05-25,26,943,May,Monday,Fast Delivery
+1815,383,Royal Restaurant,South Indian,Delhi,1289,47,Debit Card,5,Cancelled,2026-08-21,36,1325,August,Friday,Slow Delivery
+1817,198,Tasty Corner,South Indian,Thane,982,26,Credit Card,3,Cancelled,2026-04-30,62,1044,April,Thursday,Fast Delivery
+1818,205,Biryani Express,Italian,Mumbai,942,25,Cash,1,Cancelled,2026-05-16,26,968,May,Saturday,Fast Delivery
+1819,199,Tasty Corner,Mexican,Nashik,1023,38,UPI,5,Pending,2026-04-12,36,1059,April,Sunday,Slow Delivery
+1821,411,Cafe Delight,Italian,Mumbai,1262,46,Cash,2,Cancelled,2026-02-28,22,1284,February,Saturday,Slow Delivery
+1822,106,Biryani Express,Fast Food,Nashik,1352,52,Cash,4,Pending,2026-10-06,48,1400,October,Tuesday,Slow Delivery
+1823,297,Royal Restaurant,Italian,Thane,1397,36,UPI,5,Delivered,2026-04-26,41,1438,April,Sunday,Slow Delivery
+1824,451,Tasty Corner,Fast Food,Pune,538,48,Debit Card,2,Pending,2026-03-18,57,595,March,Wednesday,Slow Delivery
+1825,233,Spice Garden,Chinese,Nagpur,1121,33,Cash,3,Pending,2026-05-17,73,1194,May,Sunday,Slow Delivery
+1826,458,Urban Kitchen,Italian,Nagpur,661,34,Debit Card,5,Pending,2026-03-14,62,723,March,Saturday,Slow Delivery
+1828,123,Food Palace,Italian,Delhi,1004,47,Cash,4,Cancelled,2026-01-31,69,1073,January,Saturday,Slow Delivery
+1829,153,Cafe Delight,Italian,Mumbai,494,24,Debit Card,5,Cancelled,2026-03-26,69,563,March,Thursday,Fast Delivery
+1830,265,Cafe Delight,Fast Food,Pune,975,30,Debit Card,4,Pending,2026-06-07,73,1048,June,Sunday,Fast Delivery
+1831,302,Spice Garden,Fast Food,Nashik,1034,18,UPI,2,Pending,2026-10-19,61,1095,October,Monday,Fast Delivery
+1832,183,Burger House,Indian,Thane,1201,41,Cash,3,Delivered,2026-05-28,24,1225,May,Thursday,Slow Delivery
+1833,245,Food Junction,Italian,Pune,1051,42,Credit Card,3,Pending,2026-08-13,49,1100,August,Thursday,Slow Delivery
+1837,101,Spice Garden,Fast Food,Pune,1294,33,Cash,4,Pending,2026-07-26,75,1369,July,Sunday,Slow Delivery
+1838,151,Spice Garden,Italian,Delhi,1138,35,Debit Card,3,Cancelled,2026-05-20,45,1183,May,Wednesday,Slow Delivery
+1839,273,Food Junction,South Indian,Mumbai,1334,36,Credit Card,4,Delivered,2026-09-14,73,1407,September,Monday,Slow Delivery
+1840,305,Food Junction,Italian,Delhi,659,23,Credit Card,2,Delivered,2026-10-04,66,725,October,Sunday,Fast Delivery
+1841,360,Pizza Hub,South Indian,Mumbai,1209,23,Credit Card,3,Cancelled,2026-09-10,40,1249,September,Thursday,Fast Delivery
+1842,469,Pizza Hub,Mexican,Mumbai,1272,23,Cash,3,Cancelled,2026-08-13,39,1311,August,Thursday,Fast Delivery
+1843,388,Burger House,Fast Food,Pune,471,41,Debit Card,1,Cancelled,2026-02-11,42,513,February,Wednesday,Slow Delivery
+1844,134,Burger House,Italian,Delhi,917,31,Cash,2,Cancelled,2026-01-21,23,940,January,Wednesday,Slow Delivery
+1845,448,Food Palace,South Indian,Mumbai,1274,58,UPI,2,Pending,2026-08-10,40,1314,August,Monday,Slow Delivery
+1846,195,Burger House,South Indian,Nashik,1264,59,UPI,1,Cancelled,2026-06-15,40,1304,June,Monday,Slow Delivery
+1847,172,Tasty Corner,South Indian,Pune,1192,22,Credit Card,4,Cancelled,2026-05-09,20,1212,May,Saturday,Fast Delivery
+1848,139,Food Junction,Chinese,Delhi,1383,30,Cash,1,Cancelled,2026-01-14,34,1417,January,Wednesday,Fast Delivery
+1849,254,Royal Restaurant,Indian,Delhi,945,32,UPI,2,Pending,2026-02-16,36,981,February,Monday,Slow Delivery
+1850,350,Tasty Corner,Mexican,Nagpur,620,47,UPI,4,Pending,2026-04-28,70,690,April,Tuesday,Slow Delivery
+1851,262,Biryani Express,Italian,Delhi,470,15,Cash,3,Pending,2026-10-22,33,503,October,Thursday,Fast Delivery
+1853,359,Burger House,Italian,Nashik,760,20,Cash,4,Pending,2026-01-11,38,798,January,Sunday,Fast Delivery
+1854,479,Spice Garden,Italian,Delhi,1067,55,Cash,4,Cancelled,2026-05-18,69,1136,May,Monday,Slow Delivery
+1856,368,Food Palace,Fast Food,Pune,852,30,Credit Card,1,Pending,2026-01-21,53,905,January,Wednesday,Fast Delivery
+1857,154,Cafe Delight,Fast Food,Mumbai,611,32,Credit Card,3,Cancelled,2026-03-31,25,636,March,Tuesday,Slow Delivery
+1858,336,Food Palace,Chinese,Thane,948,32,Credit Card,4,Pending,2026-08-29,64,1012,August,Saturday,Slow Delivery
+1859,489,Pizza Hub,Italian,Thane,654,15,Debit Card,1,Delivered,2026-09-23,68,722,September,Wednesday,Fast Delivery
+1860,322,Spice Garden,Indian,Mumbai,1218,33,UPI,2,Pending,2026-08-15,25,1243,August,Saturday,Slow Delivery
+1863,212,Tasty Corner,Fast Food,Thane,817,39,Debit Card,1,Delivered,2026-10-27,24,841,October,Tuesday,Slow Delivery
+1865,403,Food Palace,Italian,Delhi,495,54,UPI,1,Pending,2026-09-09,52,547,September,Wednesday,Slow Delivery
+1866,307,Tasty Corner,Chinese,Delhi,711,33,Cash,2,Delivered,2026-02-16,32,743,February,Monday,Slow Delivery
+1867,329,Spice Garden,Chinese,Mumbai,1135,32,Credit Card,4,Delivered,2026-08-29,70,1205,August,Saturday,Slow Delivery
+1868,441,Spice Garden,Fast Food,Delhi,1360,45,UPI,2,Pending,2026-06-28,73,1433,June,Sunday,Slow Delivery
+1869,498,Tasty Corner,Italian,Delhi,869,47,UPI,5,Cancelled,2026-07-29,20,889,July,Wednesday,Slow Delivery
+1870,166,Cafe Delight,Indian,Pune,506,32,UPI,1,Cancelled,2026-06-20,32,538,June,Saturday,Slow Delivery
+1871,175,Urban Kitchen,Mexican,Pune,1024,53,Cash,4,Delivered,2026-06-14,62,1086,June,Sunday,Slow Delivery
+1872,203,Royal Restaurant,Italian,Mumbai,746,30,UPI,4,Cancelled,2026-02-23,46,792,February,Monday,Fast Delivery
+1874,352,Urban Kitchen,South Indian,Thane,1279,52,Cash,3,Cancelled,2026-06-18,71,1350,June,Thursday,Slow Delivery
+1875,326,Spice Garden,Chinese,Pune,753,55,Credit Card,3,Pending,2026-07-30,22,775,July,Thursday,Slow Delivery
+1876,394,Royal Restaurant,Mexican,Thane,527,21,UPI,2,Delivered,2026-09-11,77,604,September,Friday,Fast Delivery
+1877,406,Pizza Hub,Fast Food,Nagpur,1281,28,UPI,1,Pending,2026-05-28,44,1325,May,Thursday,Fast Delivery
+1878,198,Burger House,Italian,Mumbai,1076,57,Credit Card,1,Delivered,2026-07-25,52,1128,July,Saturday,Slow Delivery
+1879,438,Food Palace,Fast Food,Nashik,1105,39,Cash,5,Pending,2026-10-09,59,1164,October,Friday,Slow Delivery
+1880,386,Tasty Corner,Italian,Nagpur,1449,46,Cash,3,Pending,2026-01-19,36,1485,January,Monday,Slow Delivery
+1881,435,Tasty Corner,Fast Food,Nagpur,470,52,Credit Card,3,Cancelled,2026-08-21,64,534,August,Friday,Slow Delivery
+1882,447,Food Palace,Mexican,Delhi,1467,36,UPI,1,Pending,2026-02-15,33,1500,February,Sunday,Slow Delivery
+1883,408,Burger House,Chinese,Nagpur,1385,30,Debit Card,2,Delivered,2026-06-11,56,1441,June,Thursday,Fast Delivery
+1884,349,Biryani Express,Mexican,Mumbai,1406,43,Credit Card,1,Pending,2026-05-10,77,1483,May,Sunday,Slow Delivery
+1885,266,Burger House,South Indian,Pune,949,30,Credit Card,2,Delivered,2026-06-15,75,1024,June,Monday,Fast Delivery
+1886,435,Royal Restaurant,Indian,Mumbai,955,26,Credit Card,3,Delivered,2026-03-01,73,1028,March,Sunday,Fast Delivery
+1889,206,Burger House,South Indian,Nagpur,1413,41,UPI,3,Pending,2026-01-01,43,1456,January,Thursday,Slow Delivery
+1890,151,Biryani Express,Indian,Nashik,1170,39,Credit Card,2,Pending,2026-10-05,48,1218,October,Monday,Slow Delivery
+1891,181,Biryani Express,South Indian,Pune,1074,27,UPI,1,Cancelled,2026-08-25,57,1131,August,Tuesday,Fast Delivery
+1892,233,Spice Garden,Italian,Nagpur,1337,22,UPI,3,Delivered,2026-07-31,78,1415,July,Friday,Fast Delivery
+1893,385,Food Palace,Italian,Delhi,857,19,Credit Card,5,Pending,2026-01-28,73,930,January,Wednesday,Fast Delivery
+1894,488,Biryani Express,Fast Food,Thane,1147,26,UPI,2,Cancelled,2026-04-07,46,1193,April,Tuesday,Fast Delivery
+1897,430,Spice Garden,South Indian,Nashik,655,49,UPI,2,Cancelled,2026-09-13,59,714,September,Sunday,Slow Delivery
+1898,373,Tasty Corner,Chinese,Thane,943,47,Cash,1,Delivered,2026-08-15,64,1007,August,Saturday,Slow Delivery
+1899,440,Royal Restaurant,Italian,Pune,1436,36,Cash,4,Pending,2026-01-27,69,1505,January,Tuesday,Slow Delivery
+1900,169,Spice Garden,Fast Food,Mumbai,1486,58,Credit Card,1,Cancelled,2026-04-15,42,1528,April,Wednesday,Slow Delivery
+1901,134,Cafe Delight,Mexican,Mumbai,767,23,Credit Card,4,Pending,2026-05-17,50,817,May,Sunday,Fast Delivery
+1902,362,Cafe Delight,Fast Food,Pune,1099,55,Cash,4,Cancelled,2026-10-09,55,1154,October,Friday,Slow Delivery
+1903,153,Pizza Hub,Indian,Nashik,479,32,Debit Card,4,Cancelled,2026-03-09,36,515,March,Monday,Slow Delivery
+1904,305,Burger House,Italian,Nagpur,810,43,UPI,1,Pending,2026-05-28,80,890,May,Thursday,Slow Delivery
+1905,226,Food Palace,Indian,Nashik,845,53,Debit Card,4,Cancelled,2026-08-13,56,901,August,Thursday,Slow Delivery
+1906,335,Food Junction,Indian,Thane,774,41,Debit Card,2,Pending,2026-09-06,22,796,September,Sunday,Slow Delivery
+1908,340,Spice Garden,Chinese,Nagpur,704,59,Credit Card,5,Delivered,2026-01-15,74,778,January,Thursday,Slow Delivery
+1909,471,Tasty Corner,South Indian,Nashik,1165,31,UPI,4,Pending,2026-05-03,24,1189,May,Sunday,Slow Delivery
+1910,211,Urban Kitchen,Italian,Delhi,478,48,Credit Card,5,Delivered,2026-03-23,65,543,March,Monday,Slow Delivery
+1911,349,Tasty Corner,Indian,Delhi,1329,60,Debit Card,5,Pending,2026-06-09,34,1363,June,Tuesday,Slow Delivery
+1912,251,Urban Kitchen,Mexican,Pune,565,17,Debit Card,4,Cancelled,2026-10-10,71,636,October,Saturday,Fast Delivery
+1914,436,Food Junction,Mexican,Thane,717,28,Credit Card,2,Cancelled,2026-10-10,25,742,October,Saturday,Fast Delivery
+1916,474,Spice Garden,South Indian,Nagpur,1360,37,Credit Card,1,Cancelled,2026-02-17,29,1389,February,Tuesday,Slow Delivery
+1920,460,Tasty Corner,South Indian,Delhi,1092,37,Debit Card,2,Cancelled,2026-03-02,67,1159,March,Monday,Slow Delivery
+1921,488,Cafe Delight,South Indian,Delhi,1428,41,Credit Card,5,Cancelled,2026-03-20,36,1464,March,Friday,Slow Delivery
+1922,284,Burger House,Chinese,Mumbai,1477,24,UPI,4,Pending,2026-09-13,65,1542,September,Sunday,Fast Delivery
+1925,452,Royal Restaurant,Indian,Delhi,1226,30,Debit Card,4,Delivered,2026-05-20,60,1286,May,Wednesday,Fast Delivery
+1927,255,Royal Restaurant,Italian,Thane,786,48,UPI,1,Delivered,2026-09-05,63,849,September,Saturday,Slow Delivery
+1928,193,Urban Kitchen,Mexican,Delhi,1405,51,UPI,1,Delivered,2026-08-30,65,1470,August,Sunday,Slow Delivery
+1929,260,Tasty Corner,South Indian,Pune,1416,36,Debit Card,1,Delivered,2026-05-05,77,1493,May,Tuesday,Slow Delivery
+1930,161,Urban Kitchen,Mexican,Thane,837,31,Credit Card,3,Cancelled,2026-08-22,41,878,August,Saturday,Slow Delivery
+1931,222,Spice Garden,South Indian,Delhi,1130,37,Debit Card,4,Delivered,2026-10-10,69,1199,October,Saturday,Slow Delivery
+1932,151,Food Junction,South Indian,Nagpur,738,50,Debit Card,5,Cancelled,2026-03-16,71,809,March,Monday,Slow Delivery
+1933,377,Spice Garden,Italian,Mumbai,1035,23,UPI,2,Delivered,2026-07-16,25,1060,July,Thursday,Fast Delivery
+1934,105,Pizza Hub,Mexican,Thane,1215,16,Cash,4,Delivered,2026-04-08,23,1238,April,Wednesday,Fast Delivery
+1935,192,Royal Restaurant,Chinese,Nagpur,1313,46,Debit Card,3,Cancelled,2026-09-18,77,1390,September,Friday,Slow Delivery
+1936,270,Urban Kitchen,South Indian,Nashik,575,36,Credit Card,3,Pending,2026-03-11,42,617,March,Wednesday,Slow Delivery
+1938,122,Spice Garden,Fast Food,Thane,853,27,Debit Card,4,Cancelled,2026-05-22,64,917,May,Friday,Fast Delivery
+1939,426,Pizza Hub,Chinese,Mumbai,585,22,Debit Card,1,Cancelled,2026-08-01,38,623,August,Saturday,Fast Delivery
+1940,101,Food Palace,Fast Food,Nashik,1487,15,Credit Card,2,Pending,2026-06-24,73,1560,June,Wednesday,Fast Delivery
+1941,233,Cafe Delight,Indian,Nagpur,1235,31,Debit Card,1,Pending,2026-09-17,64,1299,September,Thursday,Slow Delivery
+1942,333,Tasty Corner,South Indian,Pune,508,26,Debit Card,2,Pending,2026-05-17,50,558,May,Sunday,Fast Delivery
+1943,112,Pizza Hub,Chinese,Mumbai,1130,18,Debit Card,3,Cancelled,2026-01-02,63,1193,January,Friday,Fast Delivery
+1944,446,Food Junction,Mexican,Nagpur,767,27,Debit Card,1,Delivered,2026-05-25,71,838,May,Monday,Fast Delivery
+1945,146,Spice Garden,South Indian,Nagpur,1320,45,Credit Card,1,Cancelled,2026-06-02,22,1342,June,Tuesday,Slow Delivery
+1946,134,Food Junction,Chinese,Thane,934,55,Debit Card,5,Pending,2026-10-28,47,981,October,Wednesday,Slow Delivery
+1947,178,Cafe Delight,Italian,Thane,975,21,Debit Card,3,Delivered,2026-10-24,22,997,October,Saturday,Fast Delivery
+1949,401,Royal Restaurant,Italian,Delhi,1101,38,UPI,2,Pending,2026-03-18,37,1138,March,Wednesday,Slow Delivery
+1951,382,Food Junction,Mexican,Nagpur,1363,19,UPI,3,Delivered,2026-10-03,70,1433,October,Saturday,Fast Delivery
+1952,349,Urban Kitchen,Fast Food,Thane,479,31,UPI,2,Pending,2026-09-05,80,559,September,Saturday,Slow Delivery
+1953,147,Biryani Express,Chinese,Pune,971,44,Credit Card,3,Cancelled,2026-06-26,79,1050,June,Friday,Slow Delivery
+1954,221,Royal Restaurant,South Indian,Pune,934,23,UPI,2,Delivered,2026-06-20,29,963,June,Saturday,Fast Delivery
+1955,314,Biryani Express,Indian,Nagpur,874,20,UPI,4,Delivered,2026-10-10,68,942,October,Saturday,Fast Delivery
+1956,339,Pizza Hub,Mexican,Thane,1018,39,UPI,1,Cancelled,2026-10-06,34,1052,October,Tuesday,Slow Delivery
+1957,156,Biryani Express,Mexican,Mumbai,554,33,Credit Card,4,Delivered,2026-07-13,38,592,July,Monday,Slow Delivery
+1959,207,Cafe Delight,South Indian,Mumbai,1413,35,Cash,3,Delivered,2026-06-14,23,1436,June,Sunday,Slow Delivery
+1960,419,Royal Restaurant,Italian,Pune,502,16,Cash,4,Cancelled,2026-04-07,34,536,April,Tuesday,Fast Delivery
+1962,161,Food Junction,Italian,Thane,620,30,Cash,1,Delivered,2026-10-20,67,687,October,Tuesday,Fast Delivery
+1963,437,Food Palace,Italian,Pune,1427,51,Credit Card,5,Delivered,2026-07-16,27,1454,July,Thursday,Slow Delivery
+1964,126,Burger House,Fast Food,Mumbai,1238,29,Credit Card,2,Pending,2026-04-30,68,1306,April,Thursday,Fast Delivery
+1966,357,Urban Kitchen,Italian,Nagpur,1164,27,UPI,1,Delivered,2026-01-23,20,1184,January,Friday,Fast Delivery
+1967,108,Biryani Express,Italian,Delhi,915,46,Debit Card,4,Pending,2026-06-12,26,941,June,Friday,Slow Delivery
+1970,353,Food Palace,Chinese,Thane,892,22,Cash,5,Cancelled,2026-07-17,37,929,July,Friday,Fast Delivery
+1971,280,Pizza Hub,Indian,Thane,892,57,Cash,3,Delivered,2026-03-19,31,923,March,Thursday,Slow Delivery
+1972,307,Biryani Express,Indian,Thane,1162,32,Credit Card,4,Cancelled,2026-09-11,67,1229,September,Friday,Slow Delivery
+1975,156,Urban Kitchen,South Indian,Nagpur,1459,24,Debit Card,5,Delivered,2026-09-15,78,1537,September,Tuesday,Fast Delivery
+1976,314,Cafe Delight,Mexican,Delhi,1197,45,Cash,3,Pending,2026-06-19,66,1263,June,Friday,Slow Delivery
+1977,114,Tasty Corner,Mexican,Nashik,1314,47,Cash,3,Pending,2026-02-21,26,1340,February,Saturday,Slow Delivery
+1979,178,Food Palace,Mexican,Mumbai,1110,19,Debit Card,2,Cancelled,2026-02-21,68,1178,February,Saturday,Fast Delivery
+1980,316,Food Palace,Indian,Thane,1270,27,Cash,3,Delivered,2026-09-27,22,1292,September,Sunday,Fast Delivery
+1983,254,Royal Restaurant,South Indian,Pune,1028,54,UPI,4,Pending,2026-03-15,50,1078,March,Sunday,Slow Delivery
+1984,114,Urban Kitchen,Fast Food,Nashik,851,17,Cash,3,Delivered,2026-07-29,57,908,July,Wednesday,Fast Delivery
+1986,412,Tasty Corner,South Indian,Delhi,1145,21,UPI,5,Delivered,2026-02-08,26,1171,February,Sunday,Fast Delivery
+1988,107,Food Palace,Chinese,Nashik,869,49,UPI,1,Cancelled,2026-05-16,49,918,May,Saturday,Slow Delivery
+1989,103,Pizza Hub,Chinese,Mumbai,815,29,Debit Card,3,Cancelled,2026-06-23,46,861,June,Tuesday,Fast Delivery
+1990,211,Tasty Corner,Mexican,Delhi,862,54,Cash,5,Cancelled,2026-07-23,36,898,July,Thursday,Slow Delivery
+1991,338,Tasty Corner,Chinese,Pune,1344,17,UPI,5,Pending,2026-02-11,74,1418,February,Wednesday,Fast Delivery
+1992,463,Pizza Hub,Chinese,Thane,478,43,Credit Card,4,Pending,2026-06-18,37,515,June,Thursday,Slow Delivery
+1993,339,Food Palace,Italian,Thane,1345,44,UPI,1,Delivered,2026-10-01,41,1386,October,Thursday,Slow Delivery
+1994,374,Royal Restaurant,Mexican,Thane,1381,53,Credit Card,2,Pending,2026-07-14,80,1461,July,Tuesday,Slow Delivery
+1995,394,Biryani Express,Chinese,Nashik,812,32,Debit Card,5,Cancelled,2026-06-12,75,887,June,Friday,Slow Delivery
+1996,327,Biryani Express,South Indian,Thane,1490,25,Cash,5,Delivered,2026-09-07,80,1570,September,Monday,Fast Delivery
+1997,471,Pizza Hub,Chinese,Nagpur,1472,57,Cash,5,Delivered,2026-10-05,72,1544,October,Monday,Slow Delivery
+1999,292,Urban Kitchen,Fast Food,Nashik,837,54,Debit Card,4,Cancelled,2026-02-05,70,907,February,Thursday,Slow Delivery
+2002,302,Pizza Hub,Fast Food,Mumbai,811,24,Credit Card,2,Delivered,2026-04-27,43,854,April,Monday,Fast Delivery
+2003,139,Burger House,South Indian,Pune,543,42,Credit Card,2,Cancelled,2026-02-16,71,614,February,Monday,Slow Delivery
+2004,373,Cafe Delight,Indian,Thane,722,45,UPI,3,Delivered,2026-08-11,27,749,August,Tuesday,Slow Delivery
+2005,331,Tasty Corner,Mexican,Mumbai,1129,33,Cash,5,Delivered,2026-02-20,40,1169,February,Friday,Slow Delivery
+2006,186,Food Junction,Italian,Nagpur,1359,17,Cash,5,Pending,2026-02-21,48,1407,February,Saturday,Fast Delivery
+2007,226,Food Junction,South Indian,Pune,1250,50,UPI,5,Delivered,2026-08-16,62,1312,August,Sunday,Slow Delivery
+2008,400,Tasty Corner,Fast Food,Nagpur,1227,57,Credit Card,5,Cancelled,2026-03-27,40,1267,March,Friday,Slow Delivery
+2009,125,Royal Restaurant,South Indian,Delhi,848,29,Credit Card,5,Cancelled,2026-06-03,22,870,June,Wednesday,Fast Delivery
+2013,125,Cafe Delight,Indian,Mumbai,599,59,Cash,3,Cancelled,2026-01-29,65,664,January,Thursday,Slow Delivery
+2015,494,Spice Garden,Fast Food,Nagpur,609,30,Credit Card,5,Delivered,2026-07-03,28,637,July,Friday,Fast Delivery
+2016,167,Royal Restaurant,Fast Food,Mumbai,808,50,Credit Card,1,Delivered,2026-07-11,76,884,July,Saturday,Slow Delivery
+2017,333,Spice Garden,Mexican,Thane,884,47,Credit Card,4,Delivered,2026-08-09,52,936,August,Sunday,Slow Delivery
+2018,209,Spice Garden,Fast Food,Mumbai,993,34,Cash,4,Cancelled,2026-03-16,52,1045,March,Monday,Slow Delivery
+2019,246,Tasty Corner,Chinese,Nashik,875,27,Cash,4,Delivered,2026-05-06,45,920,May,Wednesday,Fast Delivery
+2022,211,Biryani Express,Chinese,Nashik,475,51,UPI,3,Delivered,2026-10-17,62,537,October,Saturday,Slow Delivery
+2024,211,Spice Garden,South Indian,Mumbai,1322,41,UPI,3,Pending,2026-03-29,72,1394,March,Sunday,Slow Delivery
+2025,364,Urban Kitchen,Chinese,Nagpur,536,37,Cash,4,Pending,2026-03-31,20,556,March,Tuesday,Slow Delivery
+2026,469,Food Junction,Italian,Thane,1433,28,Cash,5,Pending,2026-02-10,39,1472,February,Tuesday,Fast Delivery
+2027,336,Royal Restaurant,Mexican,Delhi,1404,54,UPI,4,Pending,2026-07-15,31,1435,July,Wednesday,Slow Delivery
+2028,183,Royal Restaurant,South Indian,Thane,1446,18,UPI,3,Cancelled,2026-05-04,36,1482,May,Monday,Fast Delivery
+2029,142,Food Palace,South Indian,Pune,863,53,Debit Card,5,Delivered,2026-09-12,34,897,September,Saturday,Slow Delivery
+2030,201,Pizza Hub,Fast Food,Nagpur,801,33,Cash,2,Pending,2026-10-26,53,854,October,Monday,Slow Delivery
+2031,106,Urban Kitchen,South Indian,Nagpur,1041,18,Cash,1,Delivered,2026-03-15,69,1110,March,Sunday,Fast Delivery
+2033,382,Burger House,South Indian,Nagpur,1425,33,Debit Card,3,Cancelled,2026-08-25,23,1448,August,Tuesday,Slow Delivery
+2034,420,Food Junction,Italian,Thane,1401,45,Debit Card,4,Cancelled,2026-05-11,27,1428,May,Monday,Slow Delivery
+2035,326,Food Palace,Mexican,Nagpur,1131,45,UPI,2,Pending,2026-08-24,53,1184,August,Monday,Slow Delivery
+2036,415,Royal Restaurant,Mexican,Mumbai,906,23,UPI,5,Pending,2026-05-11,65,971,May,Monday,Fast Delivery
+2038,329,Burger House,Indian,Thane,774,28,UPI,3,Cancelled,2026-08-27,34,808,August,Thursday,Fast Delivery
+2039,477,Tasty Corner,Indian,Nashik,660,60,Credit Card,4,Cancelled,2026-05-28,47,707,May,Thursday,Slow Delivery
+2040,389,Cafe Delight,Chinese,Nagpur,1425,24,Debit Card,3,Delivered,2026-10-07,28,1453,October,Wednesday,Fast Delivery
+2042,377,Cafe Delight,Chinese,Thane,1259,51,Credit Card,1,Pending,2026-02-07,36,1295,February,Saturday,Slow Delivery
+2043,298,Urban Kitchen,Fast Food,Mumbai,921,37,Debit Card,4,Delivered,2026-08-15,77,998,August,Saturday,Slow Delivery
+2044,170,Pizza Hub,Chinese,Mumbai,520,41,Credit Card,2,Cancelled,2026-06-26,29,549,June,Friday,Slow Delivery
+2045,212,Burger House,Indian,Delhi,1342,20,Credit Card,5,Cancelled,2026-10-28,28,1370,October,Wednesday,Fast Delivery
+2047,450,Burger House,Fast Food,Nagpur,1202,16,Debit Card,5,Delivered,2026-08-06,21,1223,August,Thursday,Fast Delivery
+2048,431,Food Junction,Indian,Nashik,847,59,Credit Card,1,Cancelled,2026-05-09,43,890,May,Saturday,Slow Delivery
+2050,450,Food Junction,Italian,Pune,1284,33,Debit Card,2,Pending,2026-06-04,36,1320,June,Thursday,Slow Delivery
+2052,252,Urban Kitchen,Indian,Pune,1497,54,UPI,1,Delivered,2026-07-16,68,1565,July,Thursday,Slow Delivery
+2053,411,Spice Garden,Chinese,Nashik,1075,46,Cash,5,Delivered,2026-09-05,29,1104,September,Saturday,Slow Delivery
+2054,237,Biryani Express,Fast Food,Mumbai,832,36,Debit Card,4,Delivered,2026-02-24,69,901,February,Tuesday,Slow Delivery
+2055,347,Biryani Express,Indian,Nagpur,1132,43,Credit Card,2,Pending,2026-05-02,74,1206,May,Saturday,Slow Delivery
+2056,487,Food Junction,Indian,Pune,543,16,Credit Card,2,Cancelled,2026-07-15,47,590,July,Wednesday,Fast Delivery
+2057,343,Cafe Delight,Mexican,Nashik,1236,54,Debit Card,4,Cancelled,2026-10-20,57,1293,October,Tuesday,Slow Delivery
+2058,131,Urban Kitchen,Chinese,Nagpur,1328,52,Credit Card,1,Delivered,2026-07-03,67,1395,July,Friday,Slow Delivery
+2059,140,Food Junction,Italian,Pune,504,25,Cash,2,Delivered,2026-10-22,47,551,October,Thursday,Fast Delivery
+2060,329,Pizza Hub,Fast Food,Thane,952,31,Credit Card,3,Delivered,2026-06-01,78,1030,June,Monday,Slow Delivery
+2061,136,Royal Restaurant,Chinese,Nashik,1320,57,Credit Card,3,Cancelled,2026-06-01,69,1389,June,Monday,Slow Delivery
+2062,323,Spice Garden,Fast Food,Thane,877,22,Cash,1,Cancelled,2026-01-12,71,948,January,Monday,Fast Delivery
+2064,422,Pizza Hub,Mexican,Thane,1244,18,Cash,5,Pending,2026-05-21,20,1264,May,Thursday,Fast Delivery
+2066,175,Burger House,South Indian,Delhi,1399,22,Cash,5,Cancelled,2026-10-17,22,1421,October,Saturday,Fast Delivery
+2067,104,Burger House,Italian,Nashik,924,23,Cash,1,Delivered,2026-01-26,34,958,January,Monday,Fast Delivery
+2070,218,Tasty Corner,Italian,Nagpur,1068,30,Cash,3,Delivered,2026-04-28,40,1108,April,Tuesday,Fast Delivery
+2071,469,Food Palace,Chinese,Pune,468,45,Debit Card,4,Pending,2026-06-30,56,524,June,Tuesday,Slow Delivery
+2074,294,Food Junction,Indian,Thane,1006,40,UPI,2,Cancelled,2026-05-09,33,1039,May,Saturday,Slow Delivery
+2075,435,Biryani Express,South Indian,Pune,1135,33,Debit Card,2,Delivered,2026-03-12,34,1169,March,Thursday,Slow Delivery
+2076,303,Biryani Express,Fast Food,Mumbai,1020,42,Credit Card,4,Cancelled,2026-02-19,29,1049,February,Thursday,Slow Delivery
+2077,492,Spice Garden,Fast Food,Nashik,788,22,Credit Card,4,Pending,2026-01-21,75,863,January,Wednesday,Fast Delivery
+2080,400,Burger House,Fast Food,Mumbai,1134,58,UPI,3,Pending,2026-01-18,58,1192,January,Sunday,Slow Delivery
+2081,233,Urban Kitchen,South Indian,Pune,729,51,Debit Card,5,Delivered,2026-10-24,24,753,October,Saturday,Slow Delivery
+2085,375,Biryani Express,Mexican,Pune,1098,55,Debit Card,3,Delivered,2026-06-01,76,1174,June,Monday,Slow Delivery
+2086,312,Biryani Express,Chinese,Nashik,923,16,UPI,4,Pending,2026-06-17,45,968,June,Wednesday,Fast Delivery
+2087,325,Pizza Hub,South Indian,Nashik,1483,39,Cash,2,Delivered,2026-08-01,27,1510,August,Saturday,Slow Delivery
+2088,120,Spice Garden,South Indian,Nagpur,484,58,Credit Card,3,Cancelled,2026-03-31,41,525,March,Tuesday,Slow Delivery
+2091,147,Cafe Delight,Indian,Delhi,999,15,Cash,2,Delivered,2026-10-04,67,1066,October,Sunday,Fast Delivery
+2092,101,Biryani Express,Fast Food,Nashik,1376,50,Credit Card,5,Cancelled,2026-07-07,31,1407,July,Tuesday,Slow Delivery
+2093,190,Urban Kitchen,Italian,Nagpur,897,26,UPI,1,Pending,2026-09-29,28,925,September,Tuesday,Fast Delivery
+2094,242,Burger House,South Indian,Delhi,879,23,Debit Card,4,Pending,2026-09-14,29,908,September,Monday,Fast Delivery
+2095,420,Food Palace,South Indian,Delhi,1115,50,Cash,2,Pending,2026-05-20,67,1182,May,Wednesday,Slow Delivery
+2096,138,Spice Garden,Mexican,Mumbai,902,55,Credit Card,2,Delivered,2026-03-26,29,931,March,Thursday,Slow Delivery
+2097,393,Urban Kitchen,Fast Food,Mumbai,944,42,Debit Card,1,Delivered,2026-05-12,28,972,May,Tuesday,Slow Delivery
+2098,482,Spice Garden,South Indian,Mumbai,1303,52,Credit Card,2,Cancelled,2026-09-04,45,1348,September,Friday,Slow Delivery
+2099,239,Pizza Hub,Italian,Thane,1358,47,UPI,4,Pending,2026-06-01,54,1412,June,Monday,Slow Delivery
+2100,456,Royal Restaurant,Mexican,Delhi,954,56,UPI,1,Delivered,2026-06-23,46,1000,June,Tuesday,Slow Delivery
+2101,433,Biryani Express,Italian,Thane,807,60,Cash,5,Delivered,2026-02-28,79,886,February,Saturday,Slow Delivery
+2102,359,Burger House,Fast Food,Nagpur,1203,36,Credit Card,1,Delivered,2026-08-28,50,1253,August,Friday,Slow Delivery
+2104,490,Spice Garden,Chinese,Delhi,942,32,Credit Card,5,Pending,2026-03-14,62,1004,March,Saturday,Slow Delivery
+2105,278,Tasty Corner,South Indian,Nashik,1216,20,UPI,4,Cancelled,2026-04-26,57,1273,April,Sunday,Fast Delivery
+2107,361,Tasty Corner,South Indian,Delhi,1118,30,Credit Card,3,Pending,2026-10-13,34,1152,October,Tuesday,Fast Delivery
+2108,238,Burger House,South Indian,Pune,1226,29,Credit Card,5,Delivered,2026-07-07,48,1274,July,Tuesday,Fast Delivery
+2109,272,Urban Kitchen,Indian,Thane,495,22,Debit Card,4,Delivered,2026-02-16,66,561,February,Monday,Fast Delivery
+2110,486,Pizza Hub,South Indian,Thane,1130,27,Credit Card,2,Delivered,2026-07-22,64,1194,July,Wednesday,Fast Delivery
+2111,113,Urban Kitchen,South Indian,Delhi,739,57,Cash,5,Delivered,2026-01-08,73,812,January,Thursday,Slow Delivery
+2112,268,Biryani Express,Italian,Mumbai,1118,21,Debit Card,3,Delivered,2026-05-16,24,1142,May,Saturday,Fast Delivery
+2113,230,Food Junction,Chinese,Thane,666,31,Debit Card,4,Pending,2026-10-02,33,699,October,Friday,Slow Delivery
+2115,421,Tasty Corner,Italian,Nagpur,973,36,UPI,4,Delivered,2026-08-21,21,994,August,Friday,Slow Delivery
+2116,419,Burger House,Mexican,Nashik,673,27,Debit Card,4,Cancelled,2026-07-08,42,715,July,Wednesday,Fast Delivery
+2120,365,Royal Restaurant,Fast Food,Nagpur,556,15,UPI,2,Cancelled,2026-07-10,38,594,July,Friday,Fast Delivery
+2123,194,Burger House,Indian,Thane,1104,49,UPI,2,Delivered,2026-08-30,66,1170,August,Sunday,Slow Delivery
+2124,195,Spice Garden,Indian,Delhi,1456,24,UPI,3,Pending,2026-01-13,46,1502,January,Tuesday,Fast Delivery
+2125,405,Pizza Hub,South Indian,Nashik,538,33,Debit Card,4,Cancelled,2026-10-15,71,609,October,Thursday,Slow Delivery
+2126,169,Urban Kitchen,Fast Food,Delhi,1498,51,Cash,5,Pending,2026-06-17,43,1541,June,Wednesday,Slow Delivery
+2127,418,Burger House,Chinese,Mumbai,1415,21,Credit Card,2,Delivered,2026-04-24,36,1451,April,Friday,Fast Delivery
+2129,434,Royal Restaurant,South Indian,Thane,763,49,Debit Card,4,Pending,2026-08-26,65,828,August,Wednesday,Slow Delivery
+2130,473,Urban Kitchen,Mexican,Nashik,756,59,Debit Card,2,Pending,2026-06-04,74,830,June,Thursday,Slow Delivery
+2133,176,Food Palace,Chinese,Delhi,514,16,UPI,5,Delivered,2026-03-13,69,583,March,Friday,Fast Delivery
+2134,135,Biryani Express,Chinese,Delhi,1216,20,Debit Card,1,Cancelled,2026-01-24,78,1294,January,Saturday,Fast Delivery
+2135,101,Burger House,Indian,Thane,725,22,UPI,5,Pending,2026-01-20,47,772,January,Tuesday,Fast Delivery
+2138,160,Pizza Hub,Fast Food,Nagpur,843,58,UPI,4,Pending,2026-03-01,78,921,March,Sunday,Slow Delivery
+2139,420,Pizza Hub,Indian,Nashik,562,54,Cash,5,Delivered,2026-02-19,24,586,February,Thursday,Slow Delivery
+2140,449,Burger House,South Indian,Nashik,1399,21,UPI,1,Pending,2026-05-01,73,1472,May,Friday,Fast Delivery
+2141,428,Food Junction,Mexican,Thane,1263,60,UPI,5,Cancelled,2026-10-03,63,1326,October,Saturday,Slow Delivery
+2142,367,Food Junction,Indian,Thane,456,37,Cash,5,Cancelled,2026-03-11,61,517,March,Wednesday,Slow Delivery
+2143,461,Cafe Delight,Indian,Mumbai,1146,33,Cash,1,Cancelled,2026-07-18,27,1173,July,Saturday,Slow Delivery
+2144,329,Tasty Corner,Fast Food,Nagpur,1393,60,Cash,1,Pending,2026-08-21,80,1473,August,Friday,Slow Delivery
+2145,370,Urban Kitchen,Indian,Mumbai,958,36,Credit Card,2,Pending,2026-07-09,57,1015,July,Thursday,Slow Delivery
+2146,416,Spice Garden,Chinese,Delhi,764,27,UPI,4,Cancelled,2026-10-04,47,811,October,Sunday,Fast Delivery
+2147,386,Food Palace,Chinese,Nashik,1456,35,Debit Card,2,Cancelled,2026-08-03,76,1532,August,Monday,Slow Delivery
+2148,391,Food Junction,Italian,Thane,1114,15,Cash,2,Delivered,2026-10-28,66,1180,October,Wednesday,Fast Delivery
+2150,265,Cafe Delight,South Indian,Nashik,720,47,UPI,1,Cancelled,2026-08-01,76,796,August,Saturday,Slow Delivery
+2151,105,Burger House,Italian,Pune,1154,18,Debit Card,4,Cancelled,2026-02-20,44,1198,February,Friday,Fast Delivery
+2153,479,Royal Restaurant,Italian,Pune,462,17,UPI,2,Cancelled,2026-07-28,63,525,July,Tuesday,Fast Delivery
+2154,178,Urban Kitchen,Fast Food,Nashik,921,41,Cash,4,Delivered,2026-05-24,34,955,May,Sunday,Slow Delivery
+2155,162,Tasty Corner,Fast Food,Thane,767,55,Cash,2,Delivered,2026-01-17,63,830,January,Saturday,Slow Delivery
+2156,232,Biryani Express,Indian,Nashik,1422,49,Credit Card,5,Delivered,2026-07-09,60,1482,July,Thursday,Slow Delivery
+2157,189,Burger House,Mexican,Delhi,1494,42,Debit Card,2,Delivered,2026-04-22,70,1564,April,Wednesday,Slow Delivery
+2160,189,Biryani Express,Chinese,Nashik,938,58,Cash,1,Cancelled,2026-05-01,79,1017,May,Friday,Slow Delivery
+2161,396,Spice Garden,South Indian,Nagpur,521,37,Cash,2,Delivered,2026-07-05,64,585,July,Sunday,Slow Delivery
+2163,395,Food Palace,Indian,Delhi,1232,30,Credit Card,4,Delivered,2026-07-08,27,1259,July,Wednesday,Fast Delivery
+2164,204,Cafe Delight,South Indian,Nagpur,1242,38,Debit Card,2,Delivered,2026-10-06,78,1320,October,Tuesday,Slow Delivery
+2165,114,Urban Kitchen,Fast Food,Nashik,1109,19,Cash,1,Cancelled,2026-07-03,32,1141,July,Friday,Fast Delivery
+2166,388,Burger House,Chinese,Delhi,697,55,Cash,1,Pending,2026-02-01,55,752,February,Sunday,Slow Delivery
+2167,279,Pizza Hub,Fast Food,Thane,491,56,Credit Card,2,Pending,2026-07-23,25,516,July,Thursday,Slow Delivery
+2168,225,Burger House,South Indian,Nashik,1076,27,UPI,4,Pending,2026-05-22,57,1133,May,Friday,Fast Delivery
+2169,453,Food Palace,South Indian,Nashik,1175,26,UPI,1,Pending,2026-04-08,51,1226,April,Wednesday,Fast Delivery
+2170,123,Tasty Corner,Chinese,Pune,702,19,Debit Card,2,Delivered,2026-03-04,40,742,March,Wednesday,Fast Delivery
+2171,163,Cafe Delight,Fast Food,Delhi,1412,51,UPI,2,Pending,2026-08-21,63,1475,August,Friday,Slow Delivery
+2173,253,Food Junction,Fast Food,Nagpur,909,42,Debit Card,4,Cancelled,2026-04-19,68,977,April,Sunday,Slow Delivery
+2174,245,Tasty Corner,South Indian,Pune,1327,42,Cash,1,Cancelled,2026-01-11,78,1405,January,Sunday,Slow Delivery
+2175,325,Spice Garden,Fast Food,Pune,1361,44,UPI,4,Cancelled,2026-01-26,26,1387,January,Monday,Slow Delivery
+2176,409,Biryani Express,Indian,Delhi,851,32,Cash,3,Delivered,2026-06-20,45,896,June,Saturday,Slow Delivery
+2177,204,Food Junction,Italian,Nashik,1259,58,Debit Card,1,Delivered,2026-05-05,34,1293,May,Tuesday,Slow Delivery
+2178,204,Burger House,Mexican,Pune,1485,41,Cash,4,Delivered,2026-03-06,75,1560,March,Friday,Slow Delivery
+2179,139,Burger House,Indian,Nagpur,980,49,Cash,1,Cancelled,2026-10-17,68,1048,October,Saturday,Slow Delivery
+2180,298,Spice Garden,Mexican,Pune,734,40,Debit Card,3,Pending,2026-04-16,61,795,April,Thursday,Slow Delivery
+2182,167,Urban Kitchen,Mexican,Pune,1237,32,UPI,2,Delivered,2026-10-11,71,1308,October,Sunday,Slow Delivery
+2184,279,Food Junction,Mexican,Pune,627,39,UPI,3,Pending,2026-10-28,60,687,October,Wednesday,Slow Delivery
+2185,142,Royal Restaurant,South Indian,Pune,1268,45,UPI,3,Delivered,2026-04-21,34,1302,April,Tuesday,Slow Delivery
+2186,115,Tasty Corner,Indian,Thane,1331,51,Cash,1,Pending,2026-04-30,67,1398,April,Thursday,Slow Delivery
+2187,211,Cafe Delight,Indian,Nagpur,475,16,UPI,1,Pending,2026-06-18,72,547,June,Thursday,Fast Delivery
+2189,389,Urban Kitchen,Indian,Nagpur,1304,53,Credit Card,1,Pending,2026-01-02,35,1339,January,Friday,Slow Delivery
+2190,331,Burger House,South Indian,Mumbai,960,57,Cash,4,Cancelled,2026-05-22,51,1011,May,Friday,Slow Delivery
+2191,257,Burger House,Indian,Pune,716,57,UPI,4,Pending,2026-03-16,56,772,March,Monday,Slow Delivery
+2192,138,Burger House,Mexican,Nagpur,711,46,Credit Card,4,Pending,2026-03-08,37,748,March,Sunday,Slow Delivery
+2193,197,Royal Restaurant,Italian,Delhi,1455,32,Debit Card,5,Pending,2026-10-04,39,1494,October,Sunday,Slow Delivery
+2194,389,Burger House,Italian,Mumbai,602,31,Cash,4,Cancelled,2026-05-09,65,667,May,Saturday,Slow Delivery
+2195,354,Urban Kitchen,Chinese,Thane,1012,48,UPI,1,Pending,2026-03-31,21,1033,March,Tuesday,Slow Delivery
+2197,186,Cafe Delight,Mexican,Nagpur,684,21,UPI,4,Cancelled,2026-01-14,42,726,January,Wednesday,Fast Delivery
+2198,422,Urban Kitchen,Indian,Mumbai,787,56,Debit Card,3,Delivered,2026-03-09,49,836,March,Monday,Slow Delivery
+2199,110,Cafe Delight,Fast Food,Pune,495,49,Credit Card,3,Delivered,2026-01-08,22,517,January,Thursday,Slow Delivery
+2200,105,Urban Kitchen,South Indian,Delhi,1226,44,Credit Card,3,Delivered,2026-07-03,65,1291,July,Friday,Slow Delivery
+2201,223,Burger House,Indian,Thane,501,26,UPI,2,Pending,2026-05-02,80,581,May,Saturday,Fast Delivery
+2202,430,Spice Garden,Indian,Nagpur,1074,49,Cash,5,Delivered,2026-06-15,58,1132,June,Monday,Slow Delivery
+2204,218,Tasty Corner,South Indian,Delhi,617,58,UPI,2,Pending,2026-03-31,68,685,March,Tuesday,Slow Delivery
+2205,394,Biryani Express,Mexican,Delhi,733,18,Cash,3,Pending,2026-05-16,20,753,May,Saturday,Fast Delivery
+2208,403,Food Palace,Chinese,Delhi,1286,34,UPI,1,Delivered,2026-08-04,48,1334,August,Tuesday,Slow Delivery
+2212,284,Spice Garden,Italian,Mumbai,1372,15,Cash,3,Pending,2026-09-01,40,1412,September,Tuesday,Fast Delivery
+2213,115,Urban Kitchen,Indian,Thane,1441,17,Credit Card,5,Cancelled,2026-08-18,64,1505,August,Tuesday,Fast Delivery
+2216,361,Urban Kitchen,Fast Food,Mumbai,993,31,Debit Card,5,Pending,2026-02-25,73,1066,February,Wednesday,Slow Delivery
+2217,257,Urban Kitchen,Fast Food,Pune,855,28,UPI,5,Pending,2026-08-20,20,875,August,Thursday,Fast Delivery
+2218,147,Spice Garden,Fast Food,Delhi,1209,55,UPI,4,Cancelled,2026-09-15,40,1249,September,Tuesday,Slow Delivery
+2219,424,Spice Garden,South Indian,Pune,514,49,UPI,4,Cancelled,2026-04-24,76,590,April,Friday,Slow Delivery
+2220,432,Food Junction,South Indian,Mumbai,493,27,Credit Card,5,Cancelled,2026-01-23,23,516,January,Friday,Fast Delivery
+2221,273,Pizza Hub,Chinese,Nashik,795,49,Debit Card,1,Cancelled,2026-09-24,22,817,September,Thursday,Slow Delivery
+2222,230,Urban Kitchen,South Indian,Nashik,943,57,Credit Card,5,Cancelled,2026-06-04,68,1011,June,Thursday,Slow Delivery
+2223,195,Tasty Corner,Fast Food,Thane,703,16,Debit Card,2,Cancelled,2026-08-23,49,752,August,Sunday,Fast Delivery
+2224,215,Urban Kitchen,Fast Food,Nagpur,681,27,Credit Card,5,Cancelled,2026-01-16,50,731,January,Friday,Fast Delivery
+2226,392,Cafe Delight,South Indian,Thane,890,32,Credit Card,4,Pending,2026-09-03,38,928,September,Thursday,Slow Delivery
+2227,382,Food Palace,Indian,Nagpur,748,21,Credit Card,2,Cancelled,2026-07-25,39,787,July,Saturday,Fast Delivery
+2228,399,Burger House,Indian,Delhi,1437,59,Debit Card,2,Cancelled,2026-08-07,42,1479,August,Friday,Slow Delivery
+2230,169,Biryani Express,Italian,Nashik,1075,55,Credit Card,1,Pending,2026-09-09,78,1153,September,Wednesday,Slow Delivery
+2231,248,Biryani Express,Italian,Thane,1169,44,Debit Card,1,Delivered,2026-08-16,59,1228,August,Sunday,Slow Delivery
+2232,111,Biryani Express,Indian,Nagpur,1315,56,Debit Card,1,Delivered,2026-02-07,44,1359,February,Saturday,Slow Delivery
+2233,354,Spice Garden,Fast Food,Pune,887,55,Debit Card,4,Cancelled,2026-02-11,34,921,February,Wednesday,Slow Delivery
+2234,430,Biryani Express,Italian,Thane,790,21,Cash,1,Cancelled,2026-06-14,57,847,June,Sunday,Fast Delivery
+2235,460,Burger House,Chinese,Nashik,1457,29,Debit Card,3,Delivered,2026-03-17,42,1499,March,Tuesday,Fast Delivery
+2237,234,Biryani Express,Mexican,Thane,1416,33,Cash,1,Cancelled,2026-03-06,21,1437,March,Friday,Slow Delivery
+2238,300,Urban Kitchen,Italian,Thane,789,57,Debit Card,2,Delivered,2026-05-21,76,865,May,Thursday,Slow Delivery
+2240,403,Spice Garden,South Indian,Nagpur,1454,16,Debit Card,2,Pending,2026-10-08,34,1488,October,Thursday,Fast Delivery
+2241,446,Burger House,Italian,Pune,1227,56,UPI,4,Pending,2026-06-16,71,1298,June,Tuesday,Slow Delivery
+2243,463,Pizza Hub,Mexican,Mumbai,1177,54,Cash,2,Pending,2026-09-29,54,1231,September,Tuesday,Slow Delivery
+2244,496,Food Junction,Chinese,Nashik,1157,55,Cash,1,Pending,2026-05-31,29,1186,May,Sunday,Slow Delivery
+2246,241,Food Junction,Fast Food,Thane,1066,57,Credit Card,5,Pending,2026-09-16,46,1112,September,Wednesday,Slow Delivery
+2247,204,Cafe Delight,Italian,Thane,989,45,Debit Card,5,Cancelled,2026-08-09,73,1062,August,Sunday,Slow Delivery
+2249,211,Tasty Corner,Mexican,Nashik,1113,56,UPI,4,Delivered,2026-02-28,54,1167,February,Saturday,Slow Delivery
+2252,271,Royal Restaurant,Indian,Thane,923,42,Cash,4,Pending,2026-08-09,20,943,August,Sunday,Slow Delivery
+2253,456,Spice Garden,Italian,Nagpur,1241,46,Credit Card,5,Delivered,2026-08-20,53,1294,August,Thursday,Slow Delivery
+2254,424,Tasty Corner,Mexican,Nashik,800,58,Credit Card,2,Cancelled,2026-04-27,38,838,April,Monday,Slow Delivery
+2255,233,Food Junction,Chinese,Nashik,1118,24,Credit Card,4,Pending,2026-07-31,43,1161,July,Friday,Fast Delivery
+2256,476,Biryani Express,Fast Food,Nagpur,1335,32,Debit Card,2,Cancelled,2026-06-23,61,1396,June,Tuesday,Slow Delivery
+2257,393,Burger House,Mexican,Thane,1236,18,UPI,4,Delivered,2026-08-21,23,1259,August,Friday,Fast Delivery
+2258,428,Tasty Corner,Chinese,Nashik,1167,23,UPI,3,Cancelled,2026-07-24,55,1222,July,Friday,Fast Delivery
+2260,206,Urban Kitchen,Indian,Delhi,975,22,Credit Card,3,Cancelled,2026-02-18,77,1052,February,Wednesday,Fast Delivery
+2262,387,Spice Garden,Mexican,Thane,926,21,Credit Card,2,Delivered,2026-08-07,28,954,August,Friday,Fast Delivery
+2263,478,Cafe Delight,South Indian,Nagpur,951,55,Cash,5,Delivered,2026-06-10,58,1009,June,Wednesday,Slow Delivery
+2264,493,Cafe Delight,Italian,Delhi,611,54,Credit Card,1,Delivered,2026-05-11,35,646,May,Monday,Slow Delivery
+2266,129,Tasty Corner,Mexican,Nashik,1231,31,Credit Card,4,Cancelled,2026-03-20,22,1253,March,Friday,Slow Delivery
+2268,397,Tasty Corner,South Indian,Delhi,542,29,Cash,3,Delivered,2026-02-04,39,581,February,Wednesday,Fast Delivery
+2273,201,Urban Kitchen,Chinese,Delhi,969,20,Cash,4,Cancelled,2026-02-19,41,1010,February,Thursday,Fast Delivery
+2274,446,Food Palace,Indian,Delhi,937,52,UPI,3,Delivered,2026-07-10,67,1004,July,Friday,Slow Delivery
+2275,210,Food Junction,Mexican,Delhi,588,40,Credit Card,5,Cancelled,2026-03-08,22,610,March,Sunday,Slow Delivery
+2276,282,Cafe Delight,Chinese,Nagpur,801,25,Credit Card,1,Cancelled,2026-10-12,30,831,October,Monday,Fast Delivery
+2277,413,Tasty Corner,Mexican,Nashik,786,40,Credit Card,3,Pending,2026-01-31,44,830,January,Saturday,Slow Delivery
+2278,101,Tasty Corner,South Indian,Delhi,1413,31,Cash,5,Delivered,2026-10-28,61,1474,October,Wednesday,Slow Delivery
+2279,419,Tasty Corner,Mexican,Nashik,1095,38,Cash,2,Delivered,2026-10-15,67,1162,October,Thursday,Slow Delivery
+2281,471,Pizza Hub,Indian,Delhi,971,49,Debit Card,2,Delivered,2026-06-18,28,999,June,Thursday,Slow Delivery
+2283,249,Tasty Corner,South Indian,Delhi,1336,27,Credit Card,4,Pending,2026-07-30,51,1387,July,Thursday,Fast Delivery
+2284,409,Royal Restaurant,Fast Food,Mumbai,651,49,UPI,5,Delivered,2026-07-01,72,723,July,Wednesday,Slow Delivery
+2286,302,Burger House,Chinese,Thane,693,29,Cash,3,Pending,2026-01-27,23,716,January,Tuesday,Fast Delivery
+2288,217,Food Palace,Chinese,Pune,598,32,Credit Card,3,Cancelled,2026-06-09,32,630,June,Tuesday,Slow Delivery
+2289,254,Urban Kitchen,South Indian,Thane,1443,51,Credit Card,3,Delivered,2026-06-30,63,1506,June,Tuesday,Slow Delivery
+2293,125,Burger House,Chinese,Mumbai,883,59,Debit Card,2,Pending,2026-04-19,65,948,April,Sunday,Slow Delivery
+2294,190,Spice Garden,Mexican,Delhi,1323,49,Debit Card,4,Cancelled,2026-03-21,38,1361,March,Saturday,Slow Delivery
+2295,175,Food Junction,Chinese,Mumbai,1363,42,Credit Card,3,Pending,2026-09-04,58,1421,September,Friday,Slow Delivery
+2296,394,Food Palace,Italian,Pune,1013,53,Credit Card,5,Delivered,2026-04-25,67,1080,April,Saturday,Slow Delivery
+2297,486,Tasty Corner,Italian,Thane,791,52,Credit Card,1,Pending,2026-02-25,41,832,February,Wednesday,Slow Delivery
+2298,491,Food Palace,Fast Food,Nashik,1043,23,Cash,2,Delivered,2026-06-29,39,1082,June,Monday,Fast Delivery
+2299,310,Food Palace,Italian,Mumbai,782,26,Debit Card,2,Delivered,2026-10-12,56,838,October,Monday,Fast Delivery
+2300,447,Food Junction,Chinese,Nashik,1418,29,Debit Card,2,Delivered,2026-07-08,50,1468,July,Wednesday,Fast Delivery
+2301,117,Spice Garden,Italian,Nashik,788,35,UPI,5,Cancelled,2026-02-28,29,817,February,Saturday,Slow Delivery
+2302,228,Food Palace,Indian,Thane,495,49,UPI,5,Cancelled,2026-05-23,37,532,May,Saturday,Slow Delivery
+2303,464,Royal Restaurant,Italian,Pune,1261,56,Credit Card,1,Cancelled,2026-10-21,62,1323,October,Wednesday,Slow Delivery
+2304,351,Cafe Delight,Mexican,Thane,938,47,Cash,5,Pending,2026-04-26,58,996,April,Sunday,Slow Delivery
+2305,279,Biryani Express,Indian,Delhi,977,33,Credit Card,1,Delivered,2026-08-08,65,1042,August,Saturday,Slow Delivery
+2306,282,Biryani Express,Fast Food,Mumbai,922,37,Debit Card,5,Pending,2026-10-15,39,961,October,Thursday,Slow Delivery
+2307,252,Food Palace,Mexican,Nashik,1252,27,Credit Card,5,Pending,2026-10-13,37,1289,October,Tuesday,Fast Delivery
+2309,280,Tasty Corner,Chinese,Thane,888,15,Debit Card,1,Pending,2026-05-17,41,929,May,Sunday,Fast Delivery
+2311,444,Urban Kitchen,Mexican,Mumbai,635,38,Debit Card,1,Delivered,2026-04-03,63,698,April,Friday,Slow Delivery
+2313,277,Biryani Express,Mexican,Thane,636,39,UPI,2,Delivered,2026-06-08,77,713,June,Monday,Slow Delivery
+2314,385,Food Palace,Indian,Mumbai,738,37,Cash,2,Pending,2026-06-23,53,791,June,Tuesday,Slow Delivery
+2316,250,Food Palace,Indian,Delhi,1332,30,Debit Card,3,Pending,2026-01-04,20,1352,January,Sunday,Fast Delivery
+2317,254,Food Junction,Chinese,Nagpur,704,57,Cash,3,Cancelled,2026-04-03,74,778,April,Friday,Slow Delivery
+2321,437,Cafe Delight,Fast Food,Thane,1066,29,Debit Card,4,Delivered,2026-02-05,57,1123,February,Thursday,Fast Delivery
+2322,184,Urban Kitchen,Indian,Mumbai,989,15,Credit Card,3,Delivered,2026-03-14,58,1047,March,Saturday,Fast Delivery
+2324,277,Burger House,Indian,Thane,1452,15,Credit Card,4,Cancelled,2026-02-16,28,1480,February,Monday,Fast Delivery
+2325,248,Food Palace,Mexican,Nashik,1135,46,UPI,1,Pending,2026-09-29,50,1185,September,Tuesday,Slow Delivery
+2327,442,Burger House,Fast Food,Pune,546,43,Debit Card,1,Pending,2026-07-12,36,582,July,Sunday,Slow Delivery
+2328,163,Food Junction,South Indian,Thane,1343,40,Debit Card,3,Pending,2026-08-03,54,1397,August,Monday,Slow Delivery
+2329,289,Food Junction,Fast Food,Nagpur,540,37,UPI,5,Cancelled,2026-08-21,67,607,August,Friday,Slow Delivery
+2330,460,Biryani Express,Indian,Delhi,752,59,Debit Card,3,Pending,2026-06-24,56,808,June,Wednesday,Slow Delivery
+2331,149,Food Palace,Mexican,Thane,694,57,Credit Card,5,Delivered,2026-03-22,71,765,March,Sunday,Slow Delivery
+2334,324,Royal Restaurant,Chinese,Nagpur,1203,47,UPI,2,Delivered,2026-06-16,23,1226,June,Tuesday,Slow Delivery
+2335,241,Biryani Express,Chinese,Delhi,1476,21,UPI,2,Delivered,2026-10-18,42,1518,October,Sunday,Fast Delivery
+2336,315,Food Junction,South Indian,Nashik,1413,26,Debit Card,4,Pending,2026-02-13,30,1443,February,Friday,Fast Delivery
+2337,479,Urban Kitchen,Mexican,Nagpur,1088,45,Credit Card,2,Delivered,2026-01-27,71,1159,January,Tuesday,Slow Delivery
+2338,311,Cafe Delight,South Indian,Thane,1251,46,Debit Card,5,Cancelled,2026-03-21,28,1279,March,Saturday,Slow Delivery
+2339,418,Cafe Delight,Indian,Nashik,1008,34,Cash,2,Cancelled,2026-03-22,49,1057,March,Sunday,Slow Delivery
+2340,132,Food Palace,Fast Food,Mumbai,1482,31,Cash,2,Cancelled,2026-01-26,27,1509,January,Monday,Slow Delivery
+2341,258,Spice Garden,Indian,Pune,626,50,Debit Card,2,Pending,2026-02-11,59,685,February,Wednesday,Slow Delivery
+2342,385,Pizza Hub,Chinese,Thane,1436,17,Credit Card,3,Pending,2026-05-20,24,1460,May,Wednesday,Fast Delivery
+2346,119,Food Palace,Italian,Mumbai,805,47,Debit Card,5,Cancelled,2026-08-15,44,849,August,Saturday,Slow Delivery
+2347,118,Spice Garden,Mexican,Nagpur,1120,34,Debit Card,3,Cancelled,2026-08-01,37,1157,August,Saturday,Slow Delivery
+2349,178,Biryani Express,Italian,Nashik,904,50,UPI,2,Cancelled,2026-04-21,61,965,April,Tuesday,Slow Delivery
+2350,471,Burger House,Chinese,Thane,1039,19,UPI,2,Pending,2026-09-20,65,1104,September,Sunday,Fast Delivery
+2351,275,Food Junction,Fast Food,Pune,1066,37,Debit Card,5,Delivered,2026-02-28,72,1138,February,Saturday,Slow Delivery
+2352,294,Spice Garden,Mexican,Thane,1200,59,Credit Card,3,Delivered,2026-06-26,45,1245,June,Friday,Slow Delivery
+2354,214,Food Palace,South Indian,Delhi,1061,20,UPI,4,Cancelled,2026-02-26,59,1120,February,Thursday,Fast Delivery
+2355,322,Royal Restaurant,Italian,Pune,1420,47,Credit Card,3,Cancelled,2026-05-26,78,1498,May,Tuesday,Slow Delivery
+2356,266,Burger House,Chinese,Thane,814,33,Debit Card,1,Delivered,2026-09-07,22,836,September,Monday,Slow Delivery
+2357,419,Urban Kitchen,Chinese,Pune,1083,27,UPI,1,Cancelled,2026-09-27,73,1156,September,Sunday,Fast Delivery
+2358,232,Cafe Delight,Indian,Delhi,672,43,Debit Card,4,Pending,2026-06-07,41,713,June,Sunday,Slow Delivery
+2359,485,Pizza Hub,Mexican,Mumbai,714,20,Credit Card,1,Delivered,2026-01-24,45,759,January,Saturday,Fast Delivery
+2361,155,Royal Restaurant,Italian,Thane,1486,30,UPI,1,Pending,2026-07-22,63,1549,July,Wednesday,Fast Delivery
+2362,459,Pizza Hub,Fast Food,Nagpur,974,38,UPI,5,Pending,2026-01-29,63,1037,January,Thursday,Slow Delivery
+2363,231,Burger House,Fast Food,Mumbai,458,37,UPI,1,Cancelled,2026-01-04,66,524,January,Sunday,Slow Delivery
+2364,388,Royal Restaurant,Chinese,Thane,423,24,Credit Card,2,Pending,2026-04-15,79,502,April,Wednesday,Fast Delivery
+2365,366,Pizza Hub,Fast Food,Mumbai,1449,55,UPI,1,Delivered,2026-06-04,58,1507,June,Thursday,Slow Delivery
+2367,262,Tasty Corner,Fast Food,Thane,897,31,Cash,1,Pending,2026-03-12,55,952,March,Thursday,Slow Delivery
+2368,480,Urban Kitchen,Italian,Delhi,554,58,Debit Card,1,Delivered,2026-05-11,40,594,May,Monday,Slow Delivery
+2369,187,Urban Kitchen,Fast Food,Delhi,1276,59,UPI,1,Cancelled,2026-05-29,60,1336,May,Friday,Slow Delivery
+2370,155,Cafe Delight,South Indian,Nagpur,1250,44,Cash,5,Pending,2026-06-17,73,1323,June,Wednesday,Slow Delivery
+2372,278,Spice Garden,Fast Food,Nagpur,726,60,Cash,4,Cancelled,2026-01-04,45,771,January,Sunday,Slow Delivery
+2373,491,Tasty Corner,Indian,Pune,629,24,Credit Card,4,Cancelled,2026-09-12,32,661,September,Saturday,Fast Delivery
+2374,449,Biryani Express,Italian,Thane,1133,33,UPI,5,Delivered,2026-08-09,55,1188,August,Sunday,Slow Delivery
+2377,413,Burger House,Mexican,Thane,580,50,Cash,3,Cancelled,2026-07-14,45,625,July,Tuesday,Slow Delivery
+2378,347,Food Junction,Italian,Nashik,548,33,Cash,4,Cancelled,2026-09-30,40,588,September,Wednesday,Slow Delivery
+2379,423,Pizza Hub,South Indian,Thane,1456,21,Debit Card,3,Cancelled,2026-04-28,37,1493,April,Tuesday,Fast Delivery
+2380,355,Food Palace,Italian,Pune,968,40,UPI,5,Pending,2026-09-14,34,1002,September,Monday,Slow Delivery
+2382,154,Burger House,Mexican,Nashik,1175,52,Cash,3,Delivered,2026-07-01,25,1200,July,Wednesday,Slow Delivery
+2383,349,Food Palace,Mexican,Thane,565,17,Cash,3,Delivered,2026-02-06,62,627,February,Friday,Fast Delivery
+2384,339,Cafe Delight,Chinese,Nagpur,817,52,UPI,4,Cancelled,2026-07-23,50,867,July,Thursday,Slow Delivery
+2385,329,Royal Restaurant,Fast Food,Nagpur,898,30,Debit Card,3,Pending,2026-01-22,47,945,January,Thursday,Fast Delivery
+2386,167,Biryani Express,Italian,Delhi,574,16,Cash,5,Delivered,2026-08-12,27,601,August,Wednesday,Fast Delivery
+2387,151,Biryani Express,Fast Food,Nashik,500,45,Debit Card,5,Pending,2026-01-10,48,548,January,Saturday,Slow Delivery
+2388,197,Food Palace,Fast Food,Thane,704,42,Credit Card,5,Delivered,2026-08-24,40,744,August,Monday,Slow Delivery
+2389,192,Urban Kitchen,South Indian,Nagpur,1031,21,Cash,4,Cancelled,2026-02-09,36,1067,February,Monday,Fast Delivery
+2390,364,Cafe Delight,Mexican,Thane,1096,44,Credit Card,2,Delivered,2026-06-10,75,1171,June,Wednesday,Slow Delivery
+2391,391,Food Junction,Chinese,Thane,1021,57,Cash,4,Cancelled,2026-10-22,76,1097,October,Thursday,Slow Delivery
+2392,196,Urban Kitchen,South Indian,Nashik,920,21,Credit Card,5,Cancelled,2026-08-08,68,988,August,Saturday,Fast Delivery
+2393,188,Tasty Corner,Indian,Delhi,756,50,Cash,4,Delivered,2026-10-21,43,799,October,Wednesday,Slow Delivery
+2394,178,Biryani Express,Chinese,Nashik,697,43,Debit Card,5,Pending,2026-07-27,77,774,July,Monday,Slow Delivery
+2395,388,Tasty Corner,Fast Food,Mumbai,1276,38,Debit Card,1,Cancelled,2026-08-02,79,1355,August,Sunday,Slow Delivery
+2396,220,Pizza Hub,Chinese,Nagpur,613,53,Debit Card,1,Pending,2026-05-29,69,682,May,Friday,Slow Delivery
+2397,402,Spice Garden,Mexican,Nagpur,1129,18,Credit Card,3,Delivered,2026-02-28,55,1184,February,Saturday,Fast Delivery
+2398,500,Burger House,Indian,Nagpur,599,43,Debit Card,2,Cancelled,2026-07-27,80,679,July,Monday,Slow Delivery
+2399,265,Cafe Delight,Mexican,Pune,816,58,Credit Card,1,Pending,2026-01-11,50,866,January,Sunday,Slow Delivery
+2400,282,Urban Kitchen,Indian,Thane,1241,19,Cash,5,Cancelled,2026-06-16,66,1307,June,Tuesday,Fast Delivery
+2401,498,Biryani Express,South Indian,Nashik,700,43,Credit Card,4,Delivered,2026-03-29,53,753,March,Sunday,Slow Delivery
+2402,323,Tasty Corner,Fast Food,Nagpur,765,44,Cash,4,Cancelled,2026-08-24,21,786,August,Monday,Slow Delivery
+2403,411,Royal Restaurant,Indian,Mumbai,567,43,UPI,3,Delivered,2026-07-05,61,628,July,Sunday,Slow Delivery
+2406,363,Burger House,Chinese,Thane,1179,40,Credit Card,4,Pending,2026-02-24,27,1206,February,Tuesday,Slow Delivery
+2408,251,Cafe Delight,Chinese,Nashik,948,41,UPI,1,Delivered,2026-08-12,26,974,August,Wednesday,Slow Delivery
+2410,247,Royal Restaurant,Indian,Nashik,1169,44,Cash,3,Pending,2026-09-26,77,1246,September,Saturday,Slow Delivery
+2411,212,Urban Kitchen,South Indian,Nagpur,1267,17,Debit Card,5,Delivered,2026-02-10,38,1305,February,Tuesday,Fast Delivery
+2412,481,Tasty Corner,South Indian,Delhi,731,57,Credit Card,1,Pending,2026-07-22,45,776,July,Wednesday,Slow Delivery
+2413,136,Spice Garden,Italian,Mumbai,1463,21,UPI,3,Delivered,2026-06-08,47,1510,June,Monday,Fast Delivery
+2414,385,Food Palace,Fast Food,Nashik,512,23,Cash,5,Pending,2026-06-23,34,546,June,Tuesday,Fast Delivery
+2415,288,Food Junction,South Indian,Pune,619,55,Debit Card,4,Delivered,2026-04-24,33,652,April,Friday,Slow Delivery
+2416,182,Cafe Delight,Indian,Nashik,1467,56,Debit Card,3,Delivered,2026-06-20,67,1534,June,Saturday,Slow Delivery
+2417,102,Pizza Hub,Indian,Thane,486,27,Debit Card,3,Cancelled,2026-03-28,80,566,March,Saturday,Fast Delivery
+2420,297,Cafe Delight,Fast Food,Nagpur,1189,43,Debit Card,4,Cancelled,2026-02-28,22,1211,February,Saturday,Slow Delivery
+2421,111,Spice Garden,Indian,Nagpur,1202,49,Cash,3,Cancelled,2026-09-29,69,1271,September,Tuesday,Slow Delivery
+2422,334,Biryani Express,South Indian,Nagpur,697,41,Cash,2,Pending,2026-09-19,48,745,September,Saturday,Slow Delivery
+2423,486,Food Junction,Indian,Nagpur,1325,41,Credit Card,1,Pending,2026-04-10,79,1404,April,Friday,Slow Delivery
+2424,295,Food Palace,South Indian,Mumbai,657,22,Cash,4,Delivered,2026-06-28,73,730,June,Sunday,Fast Delivery
+2426,496,Spice Garden,South Indian,Nagpur,1214,34,Debit Card,4,Pending,2026-03-17,68,1282,March,Tuesday,Slow Delivery
+2428,361,Royal Restaurant,South Indian,Delhi,1412,27,Debit Card,2,Cancelled,2026-02-22,47,1459,February,Sunday,Fast Delivery
+2429,393,Pizza Hub,South Indian,Nagpur,829,43,Cash,5,Cancelled,2026-03-16,33,862,March,Monday,Slow Delivery
+2430,356,Burger House,Fast Food,Nashik,688,49,Debit Card,1,Delivered,2026-05-12,33,721,May,Tuesday,Slow Delivery
+2431,322,Food Palace,South Indian,Nagpur,510,22,Credit Card,1,Delivered,2026-04-12,39,549,April,Sunday,Fast Delivery
+2432,493,Food Palace,Fast Food,Thane,476,43,UPI,4,Delivered,2026-03-30,32,508,March,Monday,Slow Delivery
+2433,326,Tasty Corner,Italian,Mumbai,1275,45,Credit Card,1,Delivered,2026-03-20,46,1321,March,Friday,Slow Delivery
+2434,153,Biryani Express,Fast Food,Nashik,850,55,Credit Card,5,Delivered,2026-02-08,79,929,February,Sunday,Slow Delivery
+2435,455,Food Junction,Indian,Nashik,726,44,UPI,2,Delivered,2026-04-01,54,780,April,Wednesday,Slow Delivery
+2436,442,Pizza Hub,Fast Food,Thane,1442,36,Debit Card,2,Pending,2026-09-10,64,1506,September,Thursday,Slow Delivery
+2437,464,Spice Garden,Italian,Nagpur,1492,35,UPI,3,Pending,2026-08-26,80,1572,August,Wednesday,Slow Delivery
+2438,380,Food Junction,Mexican,Mumbai,1094,26,Cash,2,Pending,2026-10-16,75,1169,October,Friday,Fast Delivery
+2439,181,Tasty Corner,South Indian,Nashik,802,25,UPI,4,Cancelled,2026-10-24,21,823,October,Saturday,Fast Delivery
+2440,302,Food Palace,Fast Food,Mumbai,561,16,Credit Card,5,Delivered,2026-08-18,60,621,August,Tuesday,Fast Delivery
+2442,220,Food Palace,Chinese,Nagpur,1279,16,Debit Card,4,Pending,2026-06-15,59,1338,June,Monday,Fast Delivery
+2443,159,Pizza Hub,Indian,Delhi,576,48,Credit Card,4,Cancelled,2026-06-11,67,643,June,Thursday,Slow Delivery
+2444,315,Biryani Express,Indian,Nashik,1038,17,Cash,4,Pending,2026-03-19,43,1081,March,Thursday,Fast Delivery
+2445,228,Food Junction,Chinese,Delhi,500,30,Debit Card,1,Delivered,2026-08-14,48,548,August,Friday,Fast Delivery
+2446,324,Food Junction,Chinese,Nashik,907,18,Credit Card,4,Delivered,2026-02-04,22,929,February,Wednesday,Fast Delivery
+2448,470,Spice Garden,Chinese,Nagpur,1464,34,Debit Card,2,Pending,2026-08-15,23,1487,August,Saturday,Slow Delivery
+2450,309,Tasty Corner,South Indian,Delhi,547,44,UPI,4,Pending,2026-05-21,21,568,May,Thursday,Slow Delivery
+2452,109,Burger House,Italian,Nagpur,837,56,Cash,5,Pending,2026-06-30,73,910,June,Tuesday,Slow Delivery
+2454,337,Tasty Corner,Chinese,Nagpur,1453,43,Cash,4,Delivered,2026-02-07,34,1487,February,Saturday,Slow Delivery
+2455,381,Biryani Express,Mexican,Thane,462,31,Debit Card,1,Cancelled,2026-06-08,68,530,June,Monday,Slow Delivery
+2456,459,Royal Restaurant,Indian,Delhi,991,40,Credit Card,5,Pending,2026-08-25,51,1042,August,Tuesday,Slow Delivery
+2457,301,Biryani Express,Indian,Pune,553,37,Cash,3,Cancelled,2026-08-20,80,633,August,Thursday,Slow Delivery
+2458,346,Royal Restaurant,South Indian,Thane,455,34,Credit Card,4,Pending,2026-01-20,61,516,January,Tuesday,Slow Delivery
+2460,335,Royal Restaurant,Fast Food,Nashik,1071,16,Cash,3,Cancelled,2026-07-08,57,1128,July,Wednesday,Fast Delivery
+2461,104,Biryani Express,Mexican,Nagpur,654,38,UPI,5,Cancelled,2026-05-27,54,708,May,Wednesday,Slow Delivery
+2462,254,Burger House,Italian,Mumbai,986,45,Debit Card,3,Delivered,2026-02-09,70,1056,February,Monday,Slow Delivery
+2465,198,Spice Garden,Italian,Pune,1309,28,Credit Card,1,Pending,2026-07-16,32,1341,July,Thursday,Fast Delivery
+2467,393,Urban Kitchen,Italian,Pune,848,27,UPI,3,Delivered,2026-10-25,20,868,October,Sunday,Fast Delivery
+2468,175,Food Palace,Italian,Mumbai,904,50,Debit Card,4,Pending,2026-10-11,33,937,October,Sunday,Slow Delivery
+2471,228,Tasty Corner,Italian,Nagpur,489,22,Cash,2,Delivered,2026-10-20,22,511,October,Tuesday,Fast Delivery
+2472,441,Spice Garden,Chinese,Pune,533,16,Credit Card,2,Delivered,2026-04-07,65,598,April,Tuesday,Fast Delivery
+2473,142,Biryani Express,Mexican,Delhi,1145,20,Credit Card,4,Pending,2026-06-14,43,1188,June,Sunday,Fast Delivery
+2474,456,Biryani Express,Fast Food,Pune,972,45,Credit Card,5,Cancelled,2026-09-01,20,992,September,Tuesday,Slow Delivery
+2475,141,Urban Kitchen,Fast Food,Thane,1248,24,UPI,2,Cancelled,2026-09-14,67,1315,September,Monday,Fast Delivery
+2476,134,Food Palace,Indian,Nashik,1202,58,Credit Card,2,Delivered,2026-03-19,29,1231,March,Thursday,Slow Delivery
+2477,117,Pizza Hub,Italian,Delhi,957,35,Credit Card,1,Pending,2026-02-01,32,989,February,Sunday,Slow Delivery
+2480,478,Cafe Delight,Italian,Nashik,969,37,Credit Card,2,Pending,2026-06-25,33,1002,June,Thursday,Slow Delivery
+2482,187,Burger House,Fast Food,Nashik,1065,46,Cash,3,Cancelled,2026-09-16,29,1094,September,Wednesday,Slow Delivery
+2483,217,Royal Restaurant,South Indian,Thane,1369,34,Debit Card,5,Cancelled,2026-03-30,59,1428,March,Monday,Slow Delivery
+2484,462,Pizza Hub,Chinese,Nashik,838,24,Credit Card,5,Pending,2026-01-21,42,880,January,Wednesday,Fast Delivery
+2485,442,Burger House,South Indian,Nagpur,1229,43,UPI,3,Cancelled,2026-05-07,54,1283,May,Thursday,Slow Delivery
+2486,127,Royal Restaurant,Fast Food,Pune,1316,55,UPI,3,Cancelled,2026-08-13,74,1390,August,Thursday,Slow Delivery
+2487,413,Food Palace,South Indian,Mumbai,1439,60,UPI,1,Delivered,2026-08-13,26,1465,August,Thursday,Slow Delivery
+2489,234,Biryani Express,Italian,Nagpur,647,51,Credit Card,5,Pending,2026-09-25,54,701,September,Friday,Slow Delivery
+2490,319,Cafe Delight,Mexican,Thane,815,34,Debit Card,3,Delivered,2026-03-23,21,836,March,Monday,Slow Delivery
+2491,268,Spice Garden,South Indian,Pune,878,22,UPI,4,Pending,2026-07-06,34,912,July,Monday,Fast Delivery
+2493,368,Food Palace,Fast Food,Delhi,1293,20,Cash,1,Delivered,2026-05-25,66,1359,May,Monday,Fast Delivery
+2494,337,Food Junction,Chinese,Mumbai,1109,25,Credit Card,4,Cancelled,2026-07-18,36,1145,July,Saturday,Fast Delivery
+2495,409,Burger House,Mexican,Thane,650,58,Credit Card,4,Cancelled,2026-07-29,58,708,July,Wednesday,Slow Delivery
+2496,494,Pizza Hub,Fast Food,Mumbai,1415,32,Cash,4,Cancelled,2026-06-23,71,1486,June,Tuesday,Slow Delivery
+2497,273,Spice Garden,Chinese,Delhi,1264,56,UPI,2,Cancelled,2026-01-27,37,1301,January,Tuesday,Slow Delivery
+2498,290,Burger House,Italian,Nashik,1269,43,Cash,1,Pending,2026-06-21,34,1303,June,Sunday,Slow Delivery
+2501,164,Pizza Hub,Indian,Nagpur,812,60,Debit Card,2,Delivered,2026-02-18,42,854,February,Wednesday,Slow Delivery
+2503,410,Tasty Corner,Chinese,Nashik,1410,32,Credit Card,2,Pending,2026-07-17,42,1452,July,Friday,Slow Delivery
+2504,463,Urban Kitchen,Mexican,Thane,1376,38,Debit Card,1,Cancelled,2026-05-26,40,1416,May,Tuesday,Slow Delivery
+2505,293,Food Junction,Italian,Nashik,799,52,UPI,4,Pending,2026-05-10,45,844,May,Sunday,Slow Delivery
+2506,407,Royal Restaurant,Chinese,Nashik,485,24,UPI,2,Cancelled,2026-03-18,27,512,March,Wednesday,Fast Delivery
+2507,281,Burger House,Fast Food,Nagpur,1353,41,UPI,5,Cancelled,2026-06-20,49,1402,June,Saturday,Slow Delivery
+2509,471,Cafe Delight,Italian,Thane,910,21,UPI,2,Pending,2026-10-26,21,931,October,Monday,Fast Delivery
+2510,382,Biryani Express,South Indian,Mumbai,514,31,Credit Card,4,Cancelled,2026-03-14,24,538,March,Saturday,Slow Delivery
+2512,249,Biryani Express,South Indian,Mumbai,1446,40,Credit Card,1,Cancelled,2026-06-08,52,1498,June,Monday,Slow Delivery
+2513,367,Food Palace,Chinese,Pune,1179,29,Credit Card,1,Pending,2026-07-20,73,1252,July,Monday,Fast Delivery
+2514,396,Biryani Express,Chinese,Pune,930,47,Credit Card,3,Delivered,2026-03-08,23,953,March,Sunday,Slow Delivery
+2515,111,Spice Garden,Fast Food,Pune,1326,51,Debit Card,1,Cancelled,2026-02-13,25,1351,February,Friday,Slow Delivery
+2516,264,Tasty Corner,Fast Food,Delhi,727,45,Credit Card,4,Delivered,2026-06-08,42,769,June,Monday,Slow Delivery
+2517,213,Burger House,Fast Food,Thane,703,49,Cash,3,Pending,2026-10-14,64,767,October,Wednesday,Slow Delivery
+2518,287,Biryani Express,Mexican,Delhi,1261,15,UPI,1,Delivered,2026-07-12,38,1299,July,Sunday,Fast Delivery
+2519,395,Pizza Hub,Chinese,Thane,1180,22,Cash,2,Pending,2026-06-18,62,1242,June,Thursday,Fast Delivery
+2520,332,Tasty Corner,Italian,Mumbai,1109,26,Debit Card,5,Cancelled,2026-03-07,64,1173,March,Saturday,Fast Delivery
+2522,410,Biryani Express,Fast Food,Delhi,1010,39,Credit Card,1,Pending,2026-02-17,58,1068,February,Tuesday,Slow Delivery
+2523,198,Tasty Corner,Fast Food,Delhi,693,46,UPI,2,Cancelled,2026-08-05,32,725,August,Wednesday,Slow Delivery
+2524,155,Cafe Delight,South Indian,Nashik,1495,26,Debit Card,4,Pending,2026-09-18,20,1515,September,Friday,Fast Delivery
+2525,211,Biryani Express,South Indian,Mumbai,699,27,Debit Card,2,Cancelled,2026-07-05,25,724,July,Sunday,Fast Delivery
+2526,252,Food Palace,Chinese,Pune,613,42,Cash,1,Pending,2026-01-10,26,639,January,Saturday,Slow Delivery
+2528,169,Spice Garden,South Indian,Nashik,1093,20,UPI,3,Delivered,2026-06-08,46,1139,June,Monday,Fast Delivery
+2529,412,Urban Kitchen,Mexican,Thane,1166,22,UPI,1,Pending,2026-04-03,34,1200,April,Friday,Fast Delivery
+2530,389,Royal Restaurant,Mexican,Mumbai,938,18,Cash,2,Pending,2026-04-20,71,1009,April,Monday,Fast Delivery
+2531,350,Tasty Corner,Fast Food,Delhi,705,19,Debit Card,3,Pending,2026-06-24,53,758,June,Wednesday,Fast Delivery
+2532,136,Food Palace,South Indian,Pune,909,39,Credit Card,5,Cancelled,2026-09-06,77,986,September,Sunday,Slow Delivery
+2534,248,Burger House,Chinese,Thane,1188,42,Cash,2,Cancelled,2026-04-26,42,1230,April,Sunday,Slow Delivery
+2536,344,Spice Garden,Indian,Nashik,475,37,Credit Card,2,Delivered,2026-03-21,68,543,March,Saturday,Slow Delivery
+2537,437,Tasty Corner,Fast Food,Thane,868,18,Debit Card,1,Pending,2026-02-09,43,911,February,Monday,Fast Delivery
+2538,465,Cafe Delight,Chinese,Mumbai,566,18,UPI,4,Delivered,2026-06-01,34,600,June,Monday,Fast Delivery
+2539,301,Royal Restaurant,Mexican,Nagpur,1336,35,UPI,5,Cancelled,2026-02-21,54,1390,February,Saturday,Slow Delivery
+2540,254,Spice Garden,South Indian,Pune,1271,51,Cash,4,Delivered,2026-09-17,23,1294,September,Thursday,Slow Delivery
+2541,173,Tasty Corner,Italian,Nashik,570,55,Debit Card,4,Pending,2026-10-04,63,633,October,Sunday,Slow Delivery
+2544,117,Cafe Delight,Italian,Delhi,1447,30,Debit Card,2,Pending,2026-06-22,50,1497,June,Monday,Fast Delivery
+2545,229,Urban Kitchen,Italian,Nashik,495,31,Debit Card,5,Pending,2026-03-09,57,552,March,Monday,Slow Delivery
+2546,317,Burger House,Indian,Pune,889,34,Cash,2,Cancelled,2026-07-12,29,918,July,Sunday,Slow Delivery
+2547,161,Pizza Hub,Mexican,Delhi,1205,37,Cash,2,Cancelled,2026-03-20,73,1278,March,Friday,Slow Delivery
+2548,204,Food Palace,Mexican,Mumbai,1409,48,UPI,2,Delivered,2026-03-25,69,1478,March,Wednesday,Slow Delivery
+2549,142,Burger House,Indian,Delhi,964,25,Cash,2,Cancelled,2026-04-03,46,1010,April,Friday,Fast Delivery
+2550,125,Biryani Express,Indian,Thane,1393,48,Debit Card,1,Pending,2026-03-26,61,1454,March,Thursday,Slow Delivery
+2551,139,Pizza Hub,Italian,Mumbai,1415,47,UPI,5,Cancelled,2026-08-13,25,1440,August,Thursday,Slow Delivery
+2553,231,Spice Garden,South Indian,Nashik,1055,16,Debit Card,5,Delivered,2026-07-30,25,1080,July,Thursday,Fast Delivery
+2555,208,Burger House,Italian,Nashik,1331,55,Credit Card,1,Pending,2026-05-02,34,1365,May,Saturday,Slow Delivery
+2556,272,Urban Kitchen,South Indian,Nagpur,763,36,Credit Card,2,Cancelled,2026-08-16,23,786,August,Sunday,Slow Delivery
+2557,202,Food Junction,Indian,Nashik,537,48,UPI,1,Cancelled,2026-05-26,76,613,May,Tuesday,Slow Delivery
+2558,454,Spice Garden,Mexican,Nashik,805,29,Cash,1,Cancelled,2026-08-18,67,872,August,Tuesday,Fast Delivery
+2559,112,Food Palace,South Indian,Thane,1459,24,Credit Card,3,Cancelled,2026-04-30,73,1532,April,Thursday,Fast Delivery
+2560,375,Food Palace,Italian,Delhi,521,29,UPI,5,Delivered,2026-10-01,75,596,October,Thursday,Fast Delivery
+2562,144,Food Palace,Italian,Nashik,686,43,Cash,4,Cancelled,2026-06-08,26,712,June,Monday,Slow Delivery
+2563,405,Food Junction,Chinese,Nashik,1046,37,Debit Card,3,Pending,2026-08-29,70,1116,August,Saturday,Slow Delivery
+2564,117,Burger House,Italian,Nagpur,1286,31,UPI,4,Delivered,2026-04-10,77,1363,April,Friday,Slow Delivery
+2565,430,Tasty Corner,Indian,Nagpur,1288,23,UPI,3,Pending,2026-07-08,68,1356,July,Wednesday,Fast Delivery
+2566,157,Burger House,Mexican,Mumbai,948,50,UPI,4,Pending,2026-10-20,72,1020,October,Tuesday,Slow Delivery
+2567,411,Biryani Express,Mexican,Thane,1418,23,UPI,4,Delivered,2026-08-14,64,1482,August,Friday,Fast Delivery
+2569,112,Pizza Hub,Indian,Nagpur,1408,50,UPI,1,Pending,2026-05-25,45,1453,May,Monday,Slow Delivery
+2570,418,Tasty Corner,Chinese,Pune,1038,47,Cash,3,Pending,2026-07-15,77,1115,July,Wednesday,Slow Delivery
+2571,180,Tasty Corner,Indian,Delhi,486,45,Debit Card,5,Cancelled,2026-09-15,50,536,September,Tuesday,Slow Delivery
+2572,316,Burger House,Italian,Nagpur,1261,20,Cash,1,Cancelled,2026-09-28,21,1282,September,Monday,Fast Delivery
+2573,439,Tasty Corner,Indian,Thane,1310,24,Cash,1,Pending,2026-08-03,47,1357,August,Monday,Fast Delivery
+2574,364,Royal Restaurant,Indian,Delhi,1009,30,Debit Card,2,Delivered,2026-03-24,61,1070,March,Tuesday,Fast Delivery
+2575,249,Royal Restaurant,Chinese,Delhi,815,18,Cash,1,Cancelled,2026-04-13,32,847,April,Monday,Fast Delivery
+2576,181,Biryani Express,Italian,Nashik,530,36,Credit Card,5,Cancelled,2026-03-12,37,567,March,Thursday,Slow Delivery
+2577,315,Pizza Hub,Fast Food,Nashik,653,27,Cash,2,Delivered,2026-05-09,49,702,May,Saturday,Fast Delivery
+2578,474,Urban Kitchen,Fast Food,Nashik,899,30,UPI,4,Pending,2026-01-27,74,973,January,Tuesday,Fast Delivery
+2579,298,Food Junction,Mexican,Nashik,525,43,Credit Card,4,Cancelled,2026-09-04,30,555,September,Friday,Slow Delivery
+2581,125,Food Junction,Indian,Nagpur,1494,40,Debit Card,2,Pending,2026-10-11,70,1564,October,Sunday,Slow Delivery
+2582,189,Urban Kitchen,Mexican,Nashik,484,25,Cash,2,Pending,2026-02-22,80,564,February,Sunday,Fast Delivery
+2584,243,Burger House,Fast Food,Nashik,1376,43,Credit Card,5,Pending,2026-03-05,76,1452,March,Thursday,Slow Delivery
+2585,159,Pizza Hub,Indian,Nagpur,733,17,Cash,5,Pending,2026-05-26,48,781,May,Tuesday,Fast Delivery
+2587,126,Royal Restaurant,South Indian,Pune,1253,15,Debit Card,4,Cancelled,2026-03-24,73,1326,March,Tuesday,Fast Delivery
+2588,147,Food Palace,Chinese,Thane,948,57,Credit Card,4,Delivered,2026-05-20,24,972,May,Wednesday,Slow Delivery
+2589,388,Food Junction,Indian,Thane,769,40,UPI,1,Delivered,2026-08-19,54,823,August,Wednesday,Slow Delivery
+2590,366,Cafe Delight,South Indian,Nagpur,475,26,Credit Card,4,Cancelled,2026-09-20,38,513,September,Sunday,Fast Delivery
+2591,116,Cafe Delight,Chinese,Thane,842,28,Debit Card,2,Cancelled,2026-03-17,74,916,March,Tuesday,Fast Delivery
+2592,299,Burger House,South Indian,Thane,1066,39,Debit Card,4,Delivered,2026-08-12,32,1098,August,Wednesday,Slow Delivery
+2595,350,Urban Kitchen,South Indian,Nagpur,901,18,Credit Card,1,Pending,2026-08-19,33,934,August,Wednesday,Fast Delivery
+2597,370,Food Palace,Mexican,Thane,684,21,Cash,5,Cancelled,2026-01-14,41,725,January,Wednesday,Fast Delivery
+2599,217,Food Junction,Chinese,Delhi,1078,50,Debit Card,2,Pending,2026-01-28,68,1146,January,Wednesday,Slow Delivery
+2600,107,Food Junction,Italian,Pune,455,16,UPI,3,Delivered,2026-07-22,59,514,July,Wednesday,Fast Delivery
+2602,471,Urban Kitchen,Italian,Pune,656,28,Credit Card,2,Delivered,2026-07-11,64,720,July,Saturday,Fast Delivery
+2603,276,Food Palace,Fast Food,Nagpur,1004,30,Credit Card,3,Delivered,2026-05-01,80,1084,May,Friday,Fast Delivery
+2607,182,Food Junction,Indian,Delhi,815,60,Debit Card,1,Cancelled,2026-04-25,41,856,April,Saturday,Slow Delivery
+2608,323,Cafe Delight,South Indian,Nagpur,973,36,Debit Card,2,Delivered,2026-01-15,68,1041,January,Thursday,Slow Delivery
+2610,203,Pizza Hub,Mexican,Nagpur,1290,33,Credit Card,4,Cancelled,2026-02-20,47,1337,February,Friday,Slow Delivery
+2611,373,Spice Garden,Indian,Mumbai,745,16,UPI,4,Cancelled,2026-06-21,57,802,June,Sunday,Fast Delivery
+2612,114,Tasty Corner,Chinese,Mumbai,822,53,Credit Card,2,Pending,2026-03-16,33,855,March,Monday,Slow Delivery
+2613,259,Burger House,Chinese,Mumbai,1171,23,UPI,2,Delivered,2026-03-12,66,1237,March,Thursday,Fast Delivery
+2614,252,Food Junction,South Indian,Nagpur,737,33,UPI,1,Cancelled,2026-01-20,33,770,January,Tuesday,Slow Delivery
+2616,288,Pizza Hub,Italian,Mumbai,1130,39,Cash,5,Pending,2026-08-30,30,1160,August,Sunday,Slow Delivery
+2617,401,Burger House,Indian,Delhi,563,32,Debit Card,4,Cancelled,2026-03-13,28,591,March,Friday,Slow Delivery
+2618,198,Tasty Corner,Italian,Nashik,552,37,Debit Card,2,Delivered,2026-08-29,57,609,August,Saturday,Slow Delivery
+2619,231,Pizza Hub,Chinese,Nagpur,883,35,Cash,2,Pending,2026-08-18,66,949,August,Tuesday,Slow Delivery
+2620,393,Food Junction,Italian,Delhi,996,25,Debit Card,3,Delivered,2026-01-03,63,1059,January,Saturday,Fast Delivery
+2621,271,Food Palace,Fast Food,Pune,470,53,Cash,2,Delivered,2026-02-10,80,550,February,Tuesday,Slow Delivery
+2622,283,Cafe Delight,Italian,Pune,586,55,Credit Card,5,Pending,2026-01-10,25,611,January,Saturday,Slow Delivery
+2623,464,Pizza Hub,Chinese,Nashik,1334,18,Cash,4,Cancelled,2026-05-12,20,1354,May,Tuesday,Fast Delivery
+2625,115,Tasty Corner,Indian,Mumbai,1248,46,Debit Card,1,Cancelled,2026-03-18,35,1283,March,Wednesday,Slow Delivery
+2626,476,Pizza Hub,Mexican,Nagpur,1460,44,Credit Card,1,Pending,2026-10-08,71,1531,October,Thursday,Slow Delivery
+2628,449,Royal Restaurant,Chinese,Mumbai,829,40,Credit Card,1,Cancelled,2026-08-05,53,882,August,Wednesday,Slow Delivery
+2630,310,Pizza Hub,Mexican,Nagpur,673,48,Cash,2,Delivered,2026-05-28,22,695,May,Thursday,Slow Delivery
+2631,261,Cafe Delight,Fast Food,Pune,1451,23,Credit Card,4,Cancelled,2026-05-02,22,1473,May,Saturday,Fast Delivery
+2632,116,Burger House,Mexican,Mumbai,1056,26,Credit Card,3,Cancelled,2026-06-04,56,1112,June,Thursday,Fast Delivery
+2633,208,Food Junction,South Indian,Nashik,480,16,Debit Card,2,Pending,2026-03-04,36,516,March,Wednesday,Fast Delivery
+2634,482,Cafe Delight,Chinese,Thane,772,52,Cash,1,Pending,2026-01-25,74,846,January,Sunday,Slow Delivery
+2635,411,Food Junction,Chinese,Nashik,897,19,UPI,1,Cancelled,2026-05-03,80,977,May,Sunday,Fast Delivery
+2637,270,Tasty Corner,Italian,Delhi,799,36,Cash,5,Delivered,2026-08-23,71,870,August,Sunday,Slow Delivery
+2638,134,Cafe Delight,Italian,Mumbai,1205,19,Cash,3,Pending,2026-02-02,57,1262,February,Monday,Fast Delivery
+2639,351,Biryani Express,South Indian,Mumbai,1486,18,Credit Card,4,Delivered,2026-02-26,20,1506,February,Thursday,Fast Delivery
+2640,347,Cafe Delight,Mexican,Thane,604,23,Debit Card,3,Cancelled,2026-09-13,26,630,September,Sunday,Fast Delivery
+2642,241,Food Palace,Fast Food,Nagpur,1019,36,Debit Card,5,Cancelled,2026-01-09,66,1085,January,Friday,Slow Delivery
+2644,196,Biryani Express,Italian,Delhi,743,24,Debit Card,3,Pending,2026-10-22,38,781,October,Thursday,Fast Delivery
+2645,327,Biryani Express,Indian,Nashik,864,30,Credit Card,4,Cancelled,2026-05-04,71,935,May,Monday,Fast Delivery
+2646,479,Burger House,Fast Food,Nashik,805,56,Cash,1,Pending,2026-03-15,73,878,March,Sunday,Slow Delivery
+2647,139,Biryani Express,Indian,Delhi,1299,56,Cash,2,Cancelled,2026-05-30,49,1348,May,Saturday,Slow Delivery
+2648,402,Burger House,Mexican,Delhi,644,24,Debit Card,5,Delivered,2026-08-08,62,706,August,Saturday,Fast Delivery
+2649,129,Urban Kitchen,Fast Food,Mumbai,1324,20,UPI,3,Cancelled,2026-01-01,74,1398,January,Thursday,Fast Delivery
+2650,418,Urban Kitchen,Fast Food,Nashik,639,19,UPI,4,Delivered,2026-06-30,33,672,June,Tuesday,Fast Delivery
+2651,345,Tasty Corner,Chinese,Nagpur,1116,20,Credit Card,4,Cancelled,2026-05-04,32,1148,May,Monday,Fast Delivery
+2652,336,Food Palace,Mexican,Nagpur,493,39,Debit Card,1,Pending,2026-10-20,39,532,October,Tuesday,Slow Delivery
+2653,285,Cafe Delight,Mexican,Thane,932,18,Debit Card,5,Cancelled,2026-08-02,45,977,August,Sunday,Fast Delivery
+2654,372,Cafe Delight,South Indian,Delhi,1165,54,Cash,1,Cancelled,2026-04-06,46,1211,April,Monday,Slow Delivery
+2655,336,Royal Restaurant,Fast Food,Mumbai,696,46,Cash,2,Cancelled,2026-02-13,44,740,February,Friday,Slow Delivery
+2656,339,Royal Restaurant,Mexican,Nagpur,492,49,Debit Card,2,Pending,2026-09-26,28,520,September,Saturday,Slow Delivery
+2657,477,Spice Garden,Fast Food,Pune,799,24,Cash,2,Cancelled,2026-07-04,60,859,July,Saturday,Fast Delivery
+2658,366,Food Junction,South Indian,Mumbai,540,48,Debit Card,4,Pending,2026-02-04,67,607,February,Wednesday,Slow Delivery
+2659,459,Tasty Corner,South Indian,Mumbai,1017,50,Credit Card,5,Cancelled,2026-09-27,31,1048,September,Sunday,Slow Delivery
+2661,489,Spice Garden,Fast Food,Pune,652,57,Debit Card,1,Cancelled,2026-09-17,25,677,September,Thursday,Slow Delivery
+2662,165,Pizza Hub,Mexican,Thane,1338,60,Cash,2,Delivered,2026-09-17,69,1407,September,Thursday,Slow Delivery
+2663,277,Pizza Hub,Mexican,Nagpur,1194,30,Credit Card,5,Pending,2026-10-11,53,1247,October,Sunday,Fast Delivery
+2664,103,Spice Garden,Fast Food,Pune,667,33,Cash,5,Pending,2026-01-11,78,745,January,Sunday,Slow Delivery
+2665,242,Biryani Express,Fast Food,Mumbai,1018,48,Debit Card,3,Cancelled,2026-07-19,71,1089,July,Sunday,Slow Delivery
+2667,258,Tasty Corner,Italian,Mumbai,1404,45,Cash,5,Cancelled,2026-01-23,38,1442,January,Friday,Slow Delivery
+2668,424,Spice Garden,Mexican,Nagpur,1086,55,Debit Card,1,Pending,2026-07-18,25,1111,July,Saturday,Slow Delivery
+2669,246,Cafe Delight,South Indian,Delhi,1285,31,UPI,5,Delivered,2026-07-11,21,1306,July,Saturday,Slow Delivery
+2670,393,Food Junction,Mexican,Nagpur,1314,44,Cash,5,Pending,2026-05-10,34,1348,May,Sunday,Slow Delivery
+2671,253,Pizza Hub,Italian,Nashik,1132,53,Cash,1,Delivered,2026-01-09,36,1168,January,Friday,Slow Delivery
+2673,173,Pizza Hub,Chinese,Nashik,992,33,UPI,1,Cancelled,2026-02-04,47,1039,February,Wednesday,Slow Delivery
+2675,405,Food Junction,Fast Food,Thane,799,43,Debit Card,4,Delivered,2026-05-04,27,826,May,Monday,Slow Delivery
+2676,477,Pizza Hub,Italian,Nagpur,681,15,Debit Card,1,Cancelled,2026-02-23,29,710,February,Monday,Fast Delivery
+2677,444,Urban Kitchen,Mexican,Delhi,1410,18,Credit Card,1,Cancelled,2026-10-25,29,1439,October,Sunday,Fast Delivery
+2678,240,Food Palace,Fast Food,Pune,1093,42,Cash,5,Delivered,2026-06-20,69,1162,June,Saturday,Slow Delivery
+2680,393,Food Palace,Indian,Nagpur,1185,40,Credit Card,2,Cancelled,2026-01-23,28,1213,January,Friday,Slow Delivery
+2681,161,Royal Restaurant,South Indian,Mumbai,1472,54,Credit Card,2,Pending,2026-06-30,47,1519,June,Tuesday,Slow Delivery
+2684,395,Tasty Corner,South Indian,Nagpur,856,15,UPI,5,Cancelled,2026-03-31,52,908,March,Tuesday,Fast Delivery
+2685,419,Tasty Corner,Chinese,Thane,1151,22,Credit Card,5,Delivered,2026-08-26,23,1174,August,Wednesday,Fast Delivery
+2686,402,Food Palace,Fast Food,Pune,545,47,UPI,4,Delivered,2026-09-03,75,620,September,Thursday,Slow Delivery
+2687,444,Cafe Delight,South Indian,Pune,1331,57,UPI,3,Cancelled,2026-04-04,22,1353,April,Saturday,Slow Delivery
+2688,111,Food Junction,Mexican,Delhi,815,35,Credit Card,5,Pending,2026-03-11,61,876,March,Wednesday,Slow Delivery
+2689,162,Pizza Hub,South Indian,Thane,1075,38,UPI,4,Delivered,2026-02-02,31,1106,February,Monday,Slow Delivery
+2690,433,Food Junction,Fast Food,Thane,918,39,Debit Card,5,Delivered,2026-08-23,37,955,August,Sunday,Slow Delivery
+2692,253,Tasty Corner,Chinese,Nashik,841,33,Cash,2,Cancelled,2026-05-31,39,880,May,Sunday,Slow Delivery
+2693,299,Biryani Express,Fast Food,Mumbai,525,43,Cash,2,Cancelled,2026-04-14,25,550,April,Tuesday,Slow Delivery
+2694,152,Urban Kitchen,Italian,Mumbai,1224,24,Debit Card,5,Cancelled,2026-01-23,72,1296,January,Friday,Fast Delivery
+2695,360,Urban Kitchen,South Indian,Pune,738,26,Debit Card,3,Delivered,2026-04-13,53,791,April,Monday,Fast Delivery
+2696,159,Food Palace,South Indian,Thane,949,47,Debit Card,1,Delivered,2026-01-22,61,1010,January,Thursday,Slow Delivery
+2697,172,Burger House,Fast Food,Delhi,1229,21,Cash,3,Delivered,2026-06-11,21,1250,June,Thursday,Fast Delivery
+2698,248,Urban Kitchen,Mexican,Nashik,868,31,UPI,3,Pending,2026-06-08,49,917,June,Monday,Slow Delivery
+2700,163,Spice Garden,Mexican,Mumbai,1188,45,Credit Card,2,Delivered,2026-07-23,46,1234,July,Thursday,Slow Delivery
+2701,410,Spice Garden,Mexican,Nagpur,999,20,Debit Card,2,Cancelled,2026-10-06,61,1060,October,Tuesday,Fast Delivery
+2703,343,Burger House,Indian,Nagpur,1440,51,Cash,4,Delivered,2026-05-10,59,1499,May,Sunday,Slow Delivery
+2704,466,Burger House,Italian,Delhi,1261,32,Credit Card,3,Delivered,2026-01-19,43,1304,January,Monday,Slow Delivery
+2705,430,Food Palace,Italian,Pune,1466,40,Debit Card,5,Cancelled,2026-04-08,68,1534,April,Wednesday,Slow Delivery
+2707,326,Food Junction,South Indian,Nashik,645,22,UPI,5,Delivered,2026-07-02,48,693,July,Thursday,Fast Delivery
+2708,413,Burger House,Mexican,Nagpur,479,38,Cash,1,Pending,2026-01-25,55,534,January,Sunday,Slow Delivery
+2710,341,Food Palace,Mexican,Delhi,644,43,Cash,5,Pending,2026-05-20,31,675,May,Wednesday,Slow Delivery
+2711,359,Royal Restaurant,Indian,Mumbai,453,46,Debit Card,3,Pending,2026-03-05,50,503,March,Thursday,Slow Delivery
+2712,476,Cafe Delight,Mexican,Nagpur,842,38,UPI,1,Cancelled,2026-07-08,68,910,July,Wednesday,Slow Delivery
+2714,105,Food Palace,Chinese,Nashik,1389,25,Debit Card,2,Delivered,2026-07-24,80,1469,July,Friday,Fast Delivery
+2715,361,Urban Kitchen,Fast Food,Nashik,1188,46,Debit Card,1,Pending,2026-08-14,38,1226,August,Friday,Slow Delivery
+2717,147,Cafe Delight,South Indian,Mumbai,1256,49,Debit Card,4,Pending,2026-06-23,65,1321,June,Tuesday,Slow Delivery
+2718,315,Royal Restaurant,Italian,Nashik,691,47,Cash,5,Pending,2026-04-06,36,727,April,Monday,Slow Delivery
+2719,277,Cafe Delight,Fast Food,Pune,882,32,Cash,1,Cancelled,2026-09-12,21,903,September,Saturday,Slow Delivery
+2720,109,Biryani Express,South Indian,Delhi,639,51,UPI,2,Cancelled,2026-09-12,59,698,September,Saturday,Slow Delivery
+2721,199,Biryani Express,Chinese,Nagpur,834,27,Cash,5,Cancelled,2026-07-08,24,858,July,Wednesday,Fast Delivery
+2722,120,Biryani Express,Mexican,Thane,720,24,Debit Card,3,Cancelled,2026-09-23,78,798,September,Wednesday,Fast Delivery
+2723,478,Food Palace,Fast Food,Thane,718,51,Debit Card,2,Cancelled,2026-05-17,58,776,May,Sunday,Slow Delivery
+2724,341,Food Junction,Mexican,Mumbai,1492,40,Cash,2,Cancelled,2026-02-12,73,1565,February,Thursday,Slow Delivery
+2725,161,Food Palace,Chinese,Pune,1008,60,UPI,4,Delivered,2026-08-06,80,1088,August,Thursday,Slow Delivery
+2726,479,Spice Garden,Fast Food,Nashik,1091,31,UPI,3,Pending,2026-02-10,67,1158,February,Tuesday,Slow Delivery
+2730,245,Spice Garden,Mexican,Pune,1443,53,Credit Card,4,Delivered,2026-05-31,46,1489,May,Sunday,Slow Delivery
+2731,316,Burger House,Italian,Pune,898,24,Credit Card,5,Delivered,2026-06-14,26,924,June,Sunday,Fast Delivery
+2732,103,Burger House,Chinese,Mumbai,556,34,Cash,3,Cancelled,2026-02-22,71,627,February,Sunday,Slow Delivery
+2733,260,Biryani Express,South Indian,Mumbai,621,21,UPI,2,Delivered,2026-02-10,27,648,February,Tuesday,Fast Delivery
+2734,327,Royal Restaurant,Italian,Nashik,619,30,Debit Card,1,Delivered,2026-06-17,27,646,June,Wednesday,Fast Delivery
+2735,369,Food Palace,Indian,Mumbai,1016,51,Debit Card,3,Cancelled,2026-06-01,42,1058,June,Monday,Slow Delivery
+2736,220,Biryani Express,Fast Food,Nashik,816,43,Cash,3,Cancelled,2026-06-06,51,867,June,Saturday,Slow Delivery
+2738,189,Cafe Delight,Italian,Nagpur,808,31,Credit Card,3,Cancelled,2026-08-07,66,874,August,Friday,Slow Delivery
+2739,429,Urban Kitchen,Fast Food,Pune,809,34,UPI,3,Pending,2026-03-27,37,846,March,Friday,Slow Delivery
+2740,168,Burger House,Chinese,Delhi,1143,40,Cash,5,Pending,2026-08-16,57,1200,August,Sunday,Slow Delivery
+2741,498,Pizza Hub,Italian,Pune,659,33,UPI,5,Cancelled,2026-06-29,73,732,June,Monday,Slow Delivery
+2742,457,Burger House,Mexican,Pune,1068,26,Cash,4,Delivered,2026-08-17,31,1099,August,Monday,Fast Delivery
+2743,198,Urban Kitchen,Chinese,Nagpur,1253,35,Cash,2,Cancelled,2026-01-22,34,1287,January,Thursday,Slow Delivery
+2744,367,Cafe Delight,Chinese,Nashik,1416,56,Cash,2,Pending,2026-06-30,47,1463,June,Tuesday,Slow Delivery
+2745,205,Urban Kitchen,Chinese,Nashik,1255,48,Cash,4,Delivered,2026-08-11,74,1329,August,Tuesday,Slow Delivery
+2746,423,Pizza Hub,Mexican,Mumbai,455,21,UPI,2,Pending,2026-05-21,57,512,May,Thursday,Fast Delivery
+2747,223,Biryani Express,Indian,Nagpur,1177,59,Debit Card,3,Cancelled,2026-01-30,69,1246,January,Friday,Slow Delivery
+2748,129,Spice Garden,South Indian,Mumbai,989,49,Cash,4,Pending,2026-02-08,75,1064,February,Sunday,Slow Delivery
+2749,237,Pizza Hub,Fast Food,Nagpur,892,29,Credit Card,4,Pending,2026-07-27,50,942,July,Monday,Fast Delivery
+2751,326,Urban Kitchen,Indian,Thane,1081,40,UPI,1,Delivered,2026-09-20,28,1109,September,Sunday,Slow Delivery
+2752,432,Tasty Corner,Italian,Pune,1338,49,Cash,2,Pending,2026-03-23,27,1365,March,Monday,Slow Delivery
+2753,270,Tasty Corner,Fast Food,Pune,901,39,Credit Card,1,Delivered,2026-01-16,65,966,January,Friday,Slow Delivery
+2755,140,Tasty Corner,Chinese,Nashik,961,29,Cash,1,Cancelled,2026-08-13,70,1031,August,Thursday,Fast Delivery
+2756,125,Food Palace,Chinese,Delhi,1401,36,Credit Card,3,Pending,2026-01-18,27,1428,January,Sunday,Slow Delivery
+2757,361,Spice Garden,Mexican,Thane,1253,20,UPI,5,Delivered,2026-03-06,53,1306,March,Friday,Fast Delivery
+2758,495,Cafe Delight,Indian,Delhi,449,29,Cash,1,Cancelled,2026-02-04,76,525,February,Wednesday,Fast Delivery
+2759,326,Pizza Hub,Indian,Pune,1229,38,Credit Card,5,Delivered,2026-05-01,23,1252,May,Friday,Slow Delivery
+2760,224,Urban Kitchen,Italian,Nashik,1011,35,UPI,3,Delivered,2026-07-07,50,1061,July,Tuesday,Slow Delivery
+2762,428,Food Junction,Indian,Pune,683,43,UPI,3,Pending,2026-07-16,22,705,July,Thursday,Slow Delivery
+2763,351,Cafe Delight,Mexican,Mumbai,531,46,Credit Card,5,Delivered,2026-10-18,54,585,October,Sunday,Slow Delivery
+2764,489,Spice Garden,Fast Food,Nagpur,1429,46,Cash,5,Delivered,2026-01-17,38,1467,January,Saturday,Slow Delivery
+2766,190,Burger House,Chinese,Nashik,1039,18,Cash,1,Delivered,2026-08-19,48,1087,August,Wednesday,Fast Delivery
+2767,137,Tasty Corner,Chinese,Delhi,619,36,Credit Card,5,Pending,2026-07-09,29,648,July,Thursday,Slow Delivery
+2768,416,Biryani Express,Mexican,Delhi,1453,32,Debit Card,4,Delivered,2026-07-10,31,1484,July,Friday,Slow Delivery
+2769,276,Food Junction,Mexican,Thane,1448,49,Cash,2,Pending,2026-08-16,65,1513,August,Sunday,Slow Delivery
+2770,384,Tasty Corner,Italian,Nashik,1237,31,Credit Card,1,Delivered,2026-02-09,49,1286,February,Monday,Slow Delivery
+2772,214,Food Palace,Italian,Nashik,1289,16,UPI,1,Delivered,2026-03-12,79,1368,March,Thursday,Fast Delivery
+2773,140,Spice Garden,Chinese,Delhi,1262,27,Credit Card,3,Cancelled,2026-09-29,37,1299,September,Tuesday,Fast Delivery
+2774,401,Biryani Express,Italian,Pune,728,29,Debit Card,5,Cancelled,2026-07-07,43,771,July,Tuesday,Fast Delivery
+2776,418,Urban Kitchen,Fast Food,Pune,1399,17,UPI,2,Cancelled,2026-06-10,28,1427,June,Wednesday,Fast Delivery
+2777,449,Food Palace,Italian,Mumbai,888,51,UPI,2,Delivered,2026-05-23,66,954,May,Saturday,Slow Delivery
+2778,215,Tasty Corner,Mexican,Delhi,949,51,Cash,2,Delivered,2026-05-08,43,992,May,Friday,Slow Delivery
+2780,423,Royal Restaurant,Chinese,Pune,941,17,Credit Card,5,Delivered,2026-01-14,22,963,January,Wednesday,Fast Delivery
+2781,156,Biryani Express,Italian,Thane,1477,49,UPI,1,Pending,2026-04-06,42,1519,April,Monday,Slow Delivery
+2782,140,Biryani Express,Indian,Nagpur,1277,37,UPI,5,Delivered,2026-09-13,30,1307,September,Sunday,Slow Delivery
+2783,454,Royal Restaurant,South Indian,Delhi,1324,42,UPI,3,Delivered,2026-09-23,29,1353,September,Wednesday,Slow Delivery
+2784,140,Biryani Express,Chinese,Nashik,977,44,Credit Card,5,Cancelled,2026-07-18,69,1046,July,Saturday,Slow Delivery
+2785,447,Tasty Corner,Indian,Delhi,1238,32,Credit Card,5,Pending,2026-10-15,55,1293,October,Thursday,Slow Delivery
+2786,337,Food Junction,Chinese,Nashik,858,50,Debit Card,3,Delivered,2026-03-02,79,937,March,Monday,Slow Delivery
+2787,389,Pizza Hub,Mexican,Nashik,1191,47,Cash,5,Delivered,2026-05-15,32,1223,May,Friday,Slow Delivery
+2788,362,Tasty Corner,South Indian,Mumbai,544,40,Cash,1,Delivered,2026-05-14,48,592,May,Thursday,Slow Delivery
+2789,316,Food Palace,South Indian,Nashik,1449,54,Cash,4,Delivered,2026-08-17,57,1506,August,Monday,Slow Delivery
+2790,247,Spice Garden,Mexican,Nashik,807,31,UPI,3,Delivered,2026-04-20,78,885,April,Monday,Slow Delivery
+2791,436,Royal Restaurant,South Indian,Thane,701,54,Cash,2,Delivered,2026-05-27,72,773,May,Wednesday,Slow Delivery
+2792,268,Burger House,Mexican,Pune,1482,21,UPI,1,Pending,2026-09-09,32,1514,September,Wednesday,Fast Delivery
+2795,159,Tasty Corner,Chinese,Nashik,608,26,Debit Card,1,Delivered,2026-03-11,39,647,March,Wednesday,Fast Delivery
+2796,159,Food Palace,Mexican,Nagpur,1302,45,Debit Card,2,Cancelled,2026-02-07,24,1326,February,Saturday,Slow Delivery
+2797,404,Tasty Corner,Chinese,Delhi,852,58,Cash,4,Pending,2026-08-20,39,891,August,Thursday,Slow Delivery
+2798,269,Spice Garden,Indian,Nashik,576,33,Cash,1,Pending,2026-03-30,33,609,March,Monday,Slow Delivery
+2799,369,Food Junction,Fast Food,Mumbai,1276,24,UPI,2,Delivered,2026-08-16,64,1340,August,Sunday,Fast Delivery
+2800,463,Urban Kitchen,Indian,Mumbai,1227,53,Credit Card,3,Pending,2026-02-14,33,1260,February,Saturday,Slow Delivery
+2801,145,Spice Garden,South Indian,Mumbai,1198,26,Cash,2,Pending,2026-06-13,27,1225,June,Saturday,Fast Delivery
+2802,445,Royal Restaurant,Chinese,Nashik,1251,34,Cash,5,Cancelled,2026-06-27,67,1318,June,Saturday,Slow Delivery
+2803,281,Royal Restaurant,Fast Food,Thane,765,51,Credit Card,2,Cancelled,2026-02-03,32,797,February,Tuesday,Slow Delivery
+2804,270,Tasty Corner,South Indian,Nagpur,667,55,Credit Card,2,Pending,2026-10-09,43,710,October,Friday,Slow Delivery
+2805,456,Food Palace,Fast Food,Nashik,1468,21,Cash,2,Pending,2026-10-05,34,1502,October,Monday,Fast Delivery
+2806,291,Spice Garden,South Indian,Thane,630,28,Credit Card,1,Pending,2026-05-29,70,700,May,Friday,Fast Delivery
+2808,288,Food Palace,Mexican,Delhi,780,21,Debit Card,2,Cancelled,2026-03-22,41,821,March,Sunday,Fast Delivery
+2810,233,Royal Restaurant,Italian,Nashik,1170,24,Cash,5,Cancelled,2026-07-05,69,1239,July,Sunday,Fast Delivery
+2811,335,Tasty Corner,Italian,Thane,624,43,Cash,5,Cancelled,2026-09-18,70,694,September,Friday,Slow Delivery
+2812,145,Biryani Express,Indian,Thane,828,23,UPI,3,Cancelled,2026-04-25,59,887,April,Saturday,Fast Delivery
+2814,349,Urban Kitchen,Chinese,Delhi,767,24,Cash,5,Cancelled,2026-04-13,74,841,April,Monday,Fast Delivery
+2815,131,Pizza Hub,Indian,Nashik,780,33,Debit Card,4,Delivered,2026-03-13,45,825,March,Friday,Slow Delivery
+2816,123,Biryani Express,Chinese,Thane,1072,45,UPI,3,Cancelled,2026-05-02,33,1105,May,Saturday,Slow Delivery
+2817,494,Tasty Corner,Mexican,Mumbai,898,31,UPI,4,Delivered,2026-09-10,77,975,September,Thursday,Slow Delivery
+2819,463,Biryani Express,Mexican,Delhi,515,59,Cash,3,Cancelled,2026-07-04,80,595,July,Saturday,Slow Delivery
+2820,258,Urban Kitchen,Chinese,Mumbai,793,47,Cash,2,Pending,2026-10-11,27,820,October,Sunday,Slow Delivery
+2821,139,Food Palace,Indian,Pune,581,48,UPI,5,Delivered,2026-10-21,68,649,October,Wednesday,Slow Delivery
+2822,182,Cafe Delight,Chinese,Nashik,555,59,Debit Card,3,Cancelled,2026-07-08,74,629,July,Wednesday,Slow Delivery
+2823,456,Royal Restaurant,Indian,Pune,926,38,Cash,4,Cancelled,2026-08-28,74,1000,August,Friday,Slow Delivery
+2825,306,Spice Garden,Mexican,Delhi,1235,21,UPI,3,Cancelled,2026-03-08,35,1270,March,Sunday,Fast Delivery
+2826,177,Urban Kitchen,Mexican,Thane,1353,30,Cash,4,Pending,2026-02-14,61,1414,February,Saturday,Fast Delivery
+2827,112,Biryani Express,Chinese,Delhi,1219,33,Debit Card,3,Delivered,2026-02-03,40,1259,February,Tuesday,Slow Delivery
+2828,395,Spice Garden,Indian,Nagpur,1049,53,UPI,3,Pending,2026-06-08,29,1078,June,Monday,Slow Delivery
+2829,324,Cafe Delight,Italian,Thane,779,20,Debit Card,4,Delivered,2026-07-23,76,855,July,Thursday,Fast Delivery
+2830,113,Spice Garden,Mexican,Pune,477,25,Cash,1,Delivered,2026-09-03,44,521,September,Thursday,Fast Delivery
+2831,146,Burger House,Mexican,Delhi,1279,26,Credit Card,2,Delivered,2026-09-27,75,1354,September,Sunday,Fast Delivery
+2832,255,Urban Kitchen,South Indian,Thane,520,56,Debit Card,5,Cancelled,2026-07-30,57,577,July,Thursday,Slow Delivery
+2835,117,Cafe Delight,Indian,Delhi,538,35,Credit Card,5,Delivered,2026-02-07,80,618,February,Saturday,Slow Delivery
+2836,460,Urban Kitchen,South Indian,Thane,1255,24,UPI,2,Pending,2026-03-06,67,1322,March,Friday,Fast Delivery
+2837,323,Food Junction,Chinese,Nagpur,481,34,Credit Card,3,Delivered,2026-06-12,66,547,June,Friday,Slow Delivery
+2839,288,Tasty Corner,Mexican,Pune,1042,42,Debit Card,1,Delivered,2026-08-19,65,1107,August,Wednesday,Slow Delivery
+2840,444,Spice Garden,Fast Food,Pune,942,38,Credit Card,1,Delivered,2026-08-27,23,965,August,Thursday,Slow Delivery
+2842,263,Burger House,Mexican,Delhi,495,51,Cash,2,Cancelled,2026-06-26,49,544,June,Friday,Slow Delivery
+2843,426,Urban Kitchen,Fast Food,Thane,1012,26,Credit Card,2,Cancelled,2026-03-07,21,1033,March,Saturday,Fast Delivery
+2844,174,Pizza Hub,Fast Food,Pune,563,49,Debit Card,3,Cancelled,2026-10-10,48,611,October,Saturday,Slow Delivery
+2845,333,Pizza Hub,Chinese,Pune,549,54,Debit Card,1,Delivered,2026-10-28,62,611,October,Wednesday,Slow Delivery
+2846,324,Cafe Delight,South Indian,Nagpur,1454,16,Credit Card,3,Delivered,2026-04-04,55,1509,April,Saturday,Fast Delivery
+2847,419,Royal Restaurant,South Indian,Nashik,1376,55,Credit Card,1,Cancelled,2026-03-08,40,1416,March,Sunday,Slow Delivery
+2848,160,Spice Garden,Fast Food,Nagpur,1408,59,Credit Card,2,Cancelled,2026-08-10,80,1488,August,Monday,Slow Delivery
+2849,435,Royal Restaurant,Chinese,Mumbai,1397,53,Cash,4,Pending,2026-09-15,79,1476,September,Tuesday,Slow Delivery
+2852,378,Cafe Delight,Chinese,Nashik,1393,36,Debit Card,4,Delivered,2026-09-23,40,1433,September,Wednesday,Slow Delivery
+2853,296,Biryani Express,Mexican,Thane,517,19,Cash,5,Delivered,2026-03-20,23,540,March,Friday,Fast Delivery
+2854,452,Food Junction,South Indian,Mumbai,1433,26,UPI,1,Pending,2026-06-05,20,1453,June,Friday,Fast Delivery
+2855,342,Spice Garden,South Indian,Nashik,1154,15,Debit Card,4,Cancelled,2026-03-26,45,1199,March,Thursday,Fast Delivery
+2856,424,Pizza Hub,Mexican,Delhi,1227,58,Debit Card,5,Delivered,2026-03-24,75,1302,March,Tuesday,Slow Delivery
+2858,292,Urban Kitchen,Mexican,Nagpur,1251,52,Cash,5,Pending,2026-04-26,21,1272,April,Sunday,Slow Delivery
+2859,117,Food Palace,South Indian,Thane,1333,33,UPI,3,Delivered,2026-06-27,28,1361,June,Saturday,Slow Delivery
+2860,112,Royal Restaurant,South Indian,Mumbai,1404,30,UPI,3,Pending,2026-09-23,74,1478,September,Wednesday,Fast Delivery
+2863,293,Urban Kitchen,Indian,Pune,811,37,Cash,1,Pending,2026-05-09,37,848,May,Saturday,Slow Delivery
+2864,122,Royal Restaurant,Indian,Nagpur,1259,56,Cash,2,Delivered,2026-04-11,67,1326,April,Saturday,Slow Delivery
+2867,406,Burger House,Mexican,Pune,1359,27,Credit Card,4,Delivered,2026-03-06,61,1420,March,Friday,Fast Delivery
+2868,370,Biryani Express,Chinese,Pune,953,32,Credit Card,2,Delivered,2026-06-05,60,1013,June,Friday,Slow Delivery
+2870,275,Food Junction,Italian,Nashik,1012,37,Debit Card,4,Delivered,2026-02-17,44,1056,February,Tuesday,Slow Delivery
+2871,385,Spice Garden,Fast Food,Mumbai,598,17,Cash,2,Cancelled,2026-09-15,45,643,September,Tuesday,Fast Delivery
+2872,304,Food Palace,Italian,Nagpur,620,39,Cash,4,Cancelled,2026-03-28,80,700,March,Saturday,Slow Delivery
+2873,264,Food Palace,Italian,Delhi,801,41,UPI,2,Cancelled,2026-10-25,77,878,October,Sunday,Slow Delivery
+2874,351,Spice Garden,Fast Food,Pune,1016,58,Debit Card,2,Cancelled,2026-03-20,55,1071,March,Friday,Slow Delivery
+2875,327,Tasty Corner,Mexican,Nashik,1262,41,UPI,4,Pending,2026-03-29,61,1323,March,Sunday,Slow Delivery
+2876,481,Food Junction,Fast Food,Mumbai,1399,53,UPI,5,Pending,2026-06-22,54,1453,June,Monday,Slow Delivery
+2878,129,Urban Kitchen,South Indian,Nashik,1176,38,Debit Card,1,Delivered,2026-01-22,22,1198,January,Thursday,Slow Delivery
+2879,495,Urban Kitchen,South Indian,Delhi,1233,22,Credit Card,2,Delivered,2026-01-15,78,1311,January,Thursday,Fast Delivery
+2880,133,Pizza Hub,South Indian,Delhi,814,23,Cash,3,Pending,2026-02-11,60,874,February,Wednesday,Fast Delivery
+2881,234,Royal Restaurant,Mexican,Nagpur,1047,60,Debit Card,2,Cancelled,2026-01-24,54,1101,January,Saturday,Slow Delivery
+2882,467,Food Palace,Indian,Pune,747,51,Debit Card,1,Pending,2026-10-23,69,816,October,Friday,Slow Delivery
+2883,179,Pizza Hub,Fast Food,Delhi,1127,44,Cash,3,Pending,2026-05-16,59,1186,May,Saturday,Slow Delivery
+2884,158,Biryani Express,South Indian,Mumbai,783,33,Cash,3,Delivered,2026-04-18,41,824,April,Saturday,Slow Delivery
+2885,126,Spice Garden,Fast Food,Nashik,969,30,UPI,4,Delivered,2026-10-20,27,996,October,Tuesday,Fast Delivery
+2886,326,Spice Garden,South Indian,Mumbai,1170,38,UPI,5,Delivered,2026-08-02,34,1204,August,Sunday,Slow Delivery
+2888,104,Food Junction,Indian,Mumbai,1039,35,Credit Card,3,Cancelled,2026-09-12,26,1065,September,Saturday,Slow Delivery
+2889,199,Tasty Corner,Indian,Mumbai,659,50,Cash,3,Pending,2026-10-07,38,697,October,Wednesday,Slow Delivery
+2891,139,Pizza Hub,Mexican,Mumbai,535,53,Cash,2,Delivered,2026-06-04,61,596,June,Thursday,Slow Delivery
+2892,371,Tasty Corner,Chinese,Nagpur,951,20,Debit Card,5,Cancelled,2026-09-05,36,987,September,Saturday,Fast Delivery
+2893,475,Pizza Hub,Fast Food,Nashik,607,19,Credit Card,4,Cancelled,2026-05-06,20,627,May,Wednesday,Fast Delivery
+2894,385,Royal Restaurant,Fast Food,Thane,935,28,Cash,2,Cancelled,2026-07-27,64,999,July,Monday,Fast Delivery
+2895,257,Biryani Express,Italian,Nashik,750,59,Debit Card,4,Cancelled,2026-06-02,48,798,June,Tuesday,Slow Delivery
+2897,472,Tasty Corner,Italian,Pune,480,18,UPI,2,Delivered,2026-02-07,32,512,February,Saturday,Fast Delivery
+2898,388,Tasty Corner,South Indian,Pune,1196,22,Credit Card,5,Pending,2026-01-31,75,1271,January,Saturday,Fast Delivery
+2899,230,Tasty Corner,Italian,Thane,1199,38,Cash,1,Pending,2026-03-22,67,1266,March,Sunday,Slow Delivery
+2901,184,Royal Restaurant,Fast Food,Pune,915,31,Credit Card,2,Cancelled,2026-08-01,60,975,August,Saturday,Slow Delivery
+2902,122,Burger House,Italian,Pune,867,35,UPI,3,Cancelled,2026-09-05,61,928,September,Saturday,Slow Delivery
+2903,127,Tasty Corner,Indian,Pune,509,40,Cash,1,Delivered,2026-08-26,25,534,August,Wednesday,Slow Delivery
+2905,437,Food Palace,Italian,Thane,650,58,Cash,3,Delivered,2026-06-24,53,703,June,Wednesday,Slow Delivery
+2906,482,Food Palace,South Indian,Nashik,925,59,Credit Card,3,Pending,2026-03-15,30,955,March,Sunday,Slow Delivery
+2907,336,Pizza Hub,South Indian,Nagpur,1398,41,Cash,2,Pending,2026-06-10,28,1426,June,Wednesday,Slow Delivery
+2909,121,Urban Kitchen,Fast Food,Nagpur,980,40,UPI,3,Cancelled,2026-06-26,59,1039,June,Friday,Slow Delivery
+2910,403,Spice Garden,Italian,Mumbai,1200,47,Credit Card,2,Pending,2026-07-24,60,1260,July,Friday,Slow Delivery
+2911,457,Burger House,Mexican,Mumbai,1200,45,Debit Card,3,Pending,2026-03-08,28,1228,March,Sunday,Slow Delivery
+2912,184,Food Junction,Italian,Nagpur,639,20,Debit Card,3,Cancelled,2026-07-09,27,666,July,Thursday,Fast Delivery
+2914,247,Urban Kitchen,Indian,Nashik,677,22,UPI,4,Cancelled,2026-10-15,77,754,October,Thursday,Fast Delivery
+2915,487,Biryani Express,Fast Food,Nagpur,1081,21,Credit Card,1,Cancelled,2026-02-24,59,1140,February,Tuesday,Fast Delivery
+2916,357,Urban Kitchen,South Indian,Thane,816,48,UPI,4,Delivered,2026-06-13,22,838,June,Saturday,Slow Delivery
+2918,480,Burger House,South Indian,Mumbai,992,28,Cash,1,Cancelled,2026-08-27,38,1030,August,Thursday,Fast Delivery
+2919,115,Cafe Delight,Chinese,Delhi,1491,30,Cash,3,Cancelled,2026-03-04,53,1544,March,Wednesday,Fast Delivery
+2920,262,Cafe Delight,Fast Food,Nagpur,1207,57,Cash,3,Pending,2026-05-17,51,1258,May,Sunday,Slow Delivery
+2921,263,Tasty Corner,Fast Food,Pune,1266,23,Debit Card,4,Delivered,2026-08-19,68,1334,August,Wednesday,Fast Delivery
+2923,381,Pizza Hub,Italian,Nagpur,644,31,Debit Card,3,Cancelled,2026-03-14,55,699,March,Saturday,Slow Delivery
+2924,380,Royal Restaurant,Indian,Thane,1012,26,Credit Card,5,Cancelled,2026-02-19,37,1049,February,Thursday,Fast Delivery
+2926,374,Spice Garden,Mexican,Delhi,1281,33,UPI,2,Delivered,2026-05-29,49,1330,May,Friday,Slow Delivery
+2927,371,Burger House,Mexican,Nagpur,752,57,Cash,2,Cancelled,2026-07-16,21,773,July,Thursday,Slow Delivery
+2928,308,Pizza Hub,Italian,Thane,1057,55,Credit Card,4,Cancelled,2026-08-03,32,1089,August,Monday,Slow Delivery
+2929,127,Food Palace,South Indian,Thane,862,43,Cash,2,Pending,2026-05-08,46,908,May,Friday,Slow Delivery
+2930,172,Biryani Express,Italian,Nashik,1426,20,Cash,2,Cancelled,2026-03-23,78,1504,March,Monday,Fast Delivery
+2931,160,Pizza Hub,Fast Food,Thane,723,39,Cash,5,Pending,2026-06-17,72,795,June,Wednesday,Slow Delivery
+2932,245,Pizza Hub,South Indian,Pune,755,38,Debit Card,3,Delivered,2026-10-23,71,826,October,Friday,Slow Delivery
+2933,193,Cafe Delight,Chinese,Pune,549,39,Cash,5,Pending,2026-06-10,36,585,June,Wednesday,Slow Delivery
+2934,409,Food Junction,Italian,Nagpur,820,30,Credit Card,4,Cancelled,2026-04-08,50,870,April,Wednesday,Fast Delivery
+2935,108,Royal Restaurant,Mexican,Nagpur,1347,30,Debit Card,2,Pending,2026-03-23,34,1381,March,Monday,Fast Delivery
+2938,274,Food Palace,Indian,Mumbai,1126,35,Cash,2,Pending,2026-08-28,24,1150,August,Friday,Slow Delivery
+2939,150,Cafe Delight,Chinese,Nashik,1391,18,Cash,4,Cancelled,2026-09-13,26,1417,September,Sunday,Fast Delivery
+2940,299,Food Palace,Fast Food,Mumbai,695,48,Debit Card,2,Pending,2026-06-07,37,732,June,Sunday,Slow Delivery
+2941,487,Spice Garden,Indian,Thane,1139,42,Credit Card,1,Pending,2026-09-12,75,1214,September,Saturday,Slow Delivery
+2942,449,Food Junction,Indian,Thane,1457,52,Cash,3,Pending,2026-01-12,30,1487,January,Monday,Slow Delivery
+2943,281,Pizza Hub,Chinese,Mumbai,1182,55,Debit Card,3,Cancelled,2026-02-16,51,1233,February,Monday,Slow Delivery
+2944,124,Tasty Corner,Fast Food,Nashik,1112,42,Debit Card,1,Pending,2026-07-21,69,1181,July,Tuesday,Slow Delivery
+2947,487,Biryani Express,Fast Food,Pune,1057,21,Credit Card,2,Delivered,2026-05-04,56,1113,May,Monday,Fast Delivery
+2948,146,Royal Restaurant,Italian,Delhi,1102,36,UPI,3,Delivered,2026-04-21,64,1166,April,Tuesday,Slow Delivery
+2949,115,Spice Garden,Indian,Nagpur,660,15,Cash,4,Delivered,2026-10-26,47,707,October,Monday,Fast Delivery
+2950,253,Biryani Express,Italian,Pune,1430,43,Debit Card,4,Cancelled,2026-06-30,69,1499,June,Tuesday,Slow Delivery
+2951,322,Royal Restaurant,Mexican,Delhi,1369,45,UPI,4,Cancelled,2026-01-25,21,1390,January,Sunday,Slow Delivery
+2952,306,Biryani Express,Italian,Delhi,1412,44,Debit Card,2,Cancelled,2026-01-26,39,1451,January,Monday,Slow Delivery
+2953,373,Food Junction,Fast Food,Delhi,1054,29,Debit Card,4,Pending,2026-05-25,23,1077,May,Monday,Fast Delivery
+2954,482,Royal Restaurant,Italian,Thane,1455,32,UPI,1,Cancelled,2026-09-11,32,1487,September,Friday,Slow Delivery
+2955,336,Food Junction,Mexican,Delhi,949,49,Debit Card,5,Cancelled,2026-08-29,43,992,August,Saturday,Slow Delivery
+2956,440,Pizza Hub,Mexican,Nashik,1378,44,Debit Card,4,Cancelled,2026-05-27,80,1458,May,Wednesday,Slow Delivery
+2957,328,Cafe Delight,Mexican,Mumbai,703,48,UPI,5,Cancelled,2026-10-02,67,770,October,Friday,Slow Delivery
+2958,109,Food Junction,Fast Food,Nashik,705,56,Debit Card,2,Delivered,2026-01-05,57,762,January,Monday,Slow Delivery
+2959,266,Tasty Corner,Mexican,Mumbai,929,25,Credit Card,4,Pending,2026-02-25,77,1006,February,Wednesday,Fast Delivery
+2960,419,Biryani Express,Indian,Nagpur,1322,41,Debit Card,3,Delivered,2026-08-09,59,1381,August,Sunday,Slow Delivery
+2961,314,Urban Kitchen,Mexican,Nagpur,1394,38,Cash,2,Pending,2026-03-10,67,1461,March,Tuesday,Slow Delivery
+2962,217,Burger House,Italian,Mumbai,845,49,Debit Card,1,Pending,2026-05-16,64,909,May,Saturday,Slow Delivery
+2963,486,Royal Restaurant,South Indian,Nashik,657,53,Cash,1,Delivered,2026-07-07,74,731,July,Tuesday,Slow Delivery
+2965,172,Urban Kitchen,South Indian,Delhi,1353,32,Debit Card,5,Delivered,2026-07-07,77,1430,July,Tuesday,Slow Delivery
+2966,495,Tasty Corner,Italian,Thane,1041,27,UPI,3,Pending,2026-01-24,55,1096,January,Saturday,Fast Delivery
+2968,305,Cafe Delight,Italian,Thane,1369,38,Credit Card,1,Cancelled,2026-01-27,60,1429,January,Tuesday,Slow Delivery
+2969,309,Pizza Hub,Fast Food,Delhi,1039,37,Debit Card,4,Delivered,2026-10-19,37,1076,October,Monday,Slow Delivery
+2971,377,Food Palace,Mexican,Nagpur,834,44,UPI,1,Delivered,2026-04-10,27,861,April,Friday,Slow Delivery
+2972,374,Urban Kitchen,Indian,Nagpur,1084,45,Credit Card,3,Cancelled,2026-07-05,77,1161,July,Sunday,Slow Delivery
+2973,420,Cafe Delight,South Indian,Delhi,1211,42,UPI,5,Cancelled,2026-10-11,34,1245,October,Sunday,Slow Delivery
+2974,438,Food Palace,Mexican,Pune,1436,36,Debit Card,3,Pending,2026-05-28,60,1496,May,Thursday,Slow Delivery
+2975,466,Burger House,Mexican,Thane,1189,58,Debit Card,3,Cancelled,2026-02-07,36,1225,February,Saturday,Slow Delivery
+2976,195,Spice Garden,Fast Food,Thane,761,42,UPI,3,Pending,2026-07-17,42,803,July,Friday,Slow Delivery
+2977,266,Spice Garden,Fast Food,Pune,1143,27,Debit Card,1,Pending,2026-09-16,21,1164,September,Wednesday,Fast Delivery
+2979,111,Burger House,Italian,Thane,657,58,Credit Card,1,Cancelled,2026-10-09,48,705,October,Friday,Slow Delivery
+2981,317,Food Palace,Mexican,Delhi,924,21,UPI,3,Delivered,2026-03-02,56,980,March,Monday,Fast Delivery
+2982,389,Cafe Delight,Chinese,Delhi,1466,59,Credit Card,3,Pending,2026-03-07,68,1534,March,Saturday,Slow Delivery
+2983,202,Royal Restaurant,Chinese,Pune,1256,20,Debit Card,2,Delivered,2026-02-19,53,1309,February,Thursday,Fast Delivery
+2984,492,Food Palace,Italian,Thane,1178,38,Credit Card,3,Pending,2026-07-21,37,1215,July,Tuesday,Slow Delivery
+2988,188,Biryani Express,Mexican,Nagpur,1299,23,Debit Card,1,Pending,2026-07-07,78,1377,July,Tuesday,Fast Delivery
+2989,141,Pizza Hub,Indian,Mumbai,727,50,Cash,3,Pending,2026-03-15,63,790,March,Sunday,Slow Delivery
+2990,176,Spice Garden,Mexican,Pune,1440,52,Debit Card,4,Delivered,2026-04-12,36,1476,April,Sunday,Slow Delivery
+2991,477,Food Palace,Italian,Nagpur,804,54,Credit Card,2,Pending,2026-09-18,78,882,September,Friday,Slow Delivery
+2992,146,Pizza Hub,Italian,Nashik,761,43,Debit Card,5,Pending,2026-07-25,32,793,July,Saturday,Slow Delivery
+2993,260,Food Palace,Mexican,Nagpur,1254,38,Debit Card,2,Cancelled,2026-09-14,71,1325,September,Monday,Slow Delivery
+2994,180,Royal Restaurant,South Indian,Nagpur,1225,19,Debit Card,1,Pending,2026-01-21,79,1304,January,Wednesday,Fast Delivery
+2996,186,Spice Garden,Chinese,Nagpur,1415,59,Debit Card,5,Pending,2026-01-20,61,1476,January,Tuesday,Slow Delivery
+2997,192,Spice Garden,Chinese,Pune,594,40,UPI,4,Delivered,2026-03-12,46,640,March,Thursday,Slow Delivery
+2998,248,Cafe Delight,Italian,Delhi,1484,28,Debit Card,5,Delivered,2026-06-20,72,1556,June,Saturday,Fast Delivery
+3000,302,Urban Kitchen,South Indian,Nagpur,678,43,UPI,5,Pending,2026-09-23,53,731,September,Wednesday,Slow Delivery
